@@ -3,32 +3,32 @@ bulbasaur,bulbasaur,,,1,red-blue,grass,poison,Seed,0.7,6.9,1:7,45.0,64.0,20.0,50
 ivysaur,ivysaur,,,1,red-blue,grass,poison,Seed,1.0,13.0,1:7,45.0,142.0,20.0,50.0,medium slow,60,62,63,80,80,60,,,,1.0,1.0,,sredniaki
 venusaur,venusaur,,,1,red-blue,grass,poison,Seed,2.0,100.0,1:7,45.0,236.0,20.0,50.0,medium slow,80,82,83,100,100,80,,,,2.0,1.0,,sredniaki
 venusaur-mega,venusaur,mega,Mega Venusaur,6,x-y,grass,poison,Seed,2.4,155.5,1:7,45.0,281.0,20.0,50.0,medium slow,80,100,123,122,120,80,,,,2.0,1.0,,sredniaki
-charmander,charmander,,,1,red-blue,fire,,Lizard,0.6,8.5,1:7,45.0,62.0,20.0,50.0,medium slow,39,52,43,60,50,65,,,,,,1.0,agresorzy
-charmeleon,charmeleon,,,1,red-blue,fire,,Flame,1.1,19.0,1:7,45.0,142.0,20.0,50.0,medium slow,58,64,58,80,65,80,,,,1.0,,1.0,agresorzy
-charizard,charizard,,,1,red-blue,fire,flying,Flame,1.7,90.5,1:7,45.0,267.0,20.0,50.0,medium slow,78,84,78,109,85,100,,,,3.0,,,agresorzy
-charizard-mega-x,charizard,mega-x,Mega Charizard X,6,x-y,fire,dragon,Flame,1.7,110.5,1:7,45.0,285.0,20.0,50.0,medium slow,78,130,111,130,85,100,,,,3.0,,,agresorzy
-charizard-mega-y,charizard,mega-y,Mega Charizard Y,6,x-y,fire,flying,Flame,1.7,100.5,1:7,45.0,285.0,20.0,50.0,medium slow,78,104,78,159,115,100,,,,3.0,,,agresorzy
+charmander,charmander,,,1,red-blue,fire,,Lizard,0.6,8.5,1:7,45.0,62.0,20.0,50.0,medium slow,39,52,43,60,50,65,,,,,,1.0,specjalni
+charmeleon,charmeleon,,,1,red-blue,fire,,Flame,1.1,19.0,1:7,45.0,142.0,20.0,50.0,medium slow,58,64,58,80,65,80,,,,1.0,,1.0,specjalni
+charizard,charizard,,,1,red-blue,fire,flying,Flame,1.7,90.5,1:7,45.0,267.0,20.0,50.0,medium slow,78,84,78,109,85,100,,,,3.0,,,specjalni
+charizard-mega-x,charizard,mega-x,Mega Charizard X,6,x-y,fire,dragon,Flame,1.7,110.5,1:7,45.0,285.0,20.0,50.0,medium slow,78,130,111,130,85,100,,,,3.0,,,specjalni
+charizard-mega-y,charizard,mega-y,Mega Charizard Y,6,x-y,fire,flying,Flame,1.7,100.5,1:7,45.0,285.0,20.0,50.0,medium slow,78,104,78,159,115,100,,,,3.0,,,specjalni
 squirtle,squirtle,,,1,red-blue,water,,Tiny Turtle,0.5,9.0,1:7,45.0,63.0,20.0,50.0,medium slow,44,48,65,50,64,43,,,1.0,,,,sredniaki
 wartortle,wartortle,,,1,red-blue,water,,Turtle,1.0,22.5,1:7,45.0,142.0,20.0,50.0,medium slow,59,63,80,65,80,58,,,1.0,,1.0,,sredniaki
 blastoise,blastoise,,,1,red-blue,water,,Shellfish,1.6,85.5,1:7,45.0,239.0,20.0,50.0,medium slow,79,83,100,85,105,78,,,,,3.0,,sredniaki
 blastoise-mega,blastoise,mega,Mega Blastoise,6,x-y,water,,Shellfish,1.6,101.1,1:7,45.0,284.0,20.0,50.0,medium slow,79,103,120,135,115,78,,,,,3.0,,sredniaki
-caterpie,caterpie,,,1,red-blue,bug,,Worm,0.3,2.9,4:4,255.0,39.0,15.0,50.0,medium fast,45,30,35,20,20,45,1.0,,,,,,agresorzy
-metapod,metapod,,,1,red-blue,bug,,Cocoon,0.7,9.9,4:4,120.0,72.0,15.0,50.0,medium fast,50,20,55,25,25,30,,,2.0,,,,agresorzy
-butterfree,butterfree,,,1,red-blue,bug,flying,Butterfly,1.1,32.0,4:4,45.0,178.0,15.0,50.0,medium fast,60,45,50,90,80,70,,,,2.0,1.0,,agresorzy
-weedle,weedle,,,1,red-blue,bug,poison,Hairy Bug,0.3,3.2,4:4,255.0,39.0,15.0,50.0,medium fast,40,35,30,20,20,50,,,,,,1.0,agresorzy
-kakuna,kakuna,,,1,red-blue,bug,poison,Cocoon,0.6,10.0,4:4,120.0,72.0,15.0,50.0,medium fast,45,25,50,25,25,35,,,2.0,,,,agresorzy
-beedrill,beedrill,,,1,red-blue,bug,poison,Poison Bee,1.0,29.5,4:4,45.0,178.0,15.0,50.0,medium fast,65,90,40,45,80,75,,2.0,,,1.0,,agresorzy
-beedrill-mega,beedrill,mega,Mega Beedrill,6,omega-ruby-alpha-sapphire,bug,poison,Poison Bee,1.4,40.5,4:4,45.0,223.0,15.0,50.0,medium fast,65,150,40,15,80,145,,2.0,,,1.0,,agresorzy
-pidgey,pidgey,,,1,red-blue,normal,flying,Tiny Bird,0.3,1.8,4:4,255.0,50.0,15.0,50.0,medium slow,40,45,40,35,35,56,,,,,,1.0,grubole
-pidgeotto,pidgeotto,,,1,red-blue,normal,flying,Bird,1.1,30.0,4:4,120.0,122.0,15.0,50.0,medium slow,63,60,55,50,50,71,,,,,,2.0,grubole
-pidgeot,pidgeot,,,1,red-blue,normal,flying,Bird,1.5,39.5,4:4,45.0,216.0,15.0,50.0,medium slow,83,80,75,70,70,101,,,,,,3.0,grubole
-pidgeot-mega,pidgeot,mega,Mega Pidgeot,6,omega-ruby-alpha-sapphire,normal,flying,Bird,2.2,50.5,4:4,45.0,261.0,15.0,50.0,medium slow,83,80,80,135,80,121,,,,,,3.0,grubole
-rattata,rattata,,,1,red-blue,normal,,Mouse,0.3,3.5,4:4,255.0,51.0,15.0,50.0,medium fast,30,56,35,25,35,72,,,,,,1.0,grubole
+caterpie,caterpie,,,1,red-blue,bug,,Worm,0.3,2.9,4:4,255.0,39.0,15.0,50.0,medium fast,45,30,35,20,20,45,1.0,,,,,,sredniaki
+metapod,metapod,,,1,red-blue,bug,,Cocoon,0.7,9.9,4:4,120.0,72.0,15.0,50.0,medium fast,50,20,55,25,25,30,,,2.0,,,,sredniaki
+butterfree,butterfree,,,1,red-blue,bug,flying,Butterfly,1.1,32.0,4:4,45.0,178.0,15.0,50.0,medium fast,60,45,50,90,80,70,,,,2.0,1.0,,sredniaki
+weedle,weedle,,,1,red-blue,bug,poison,Hairy Bug,0.3,3.2,4:4,255.0,39.0,15.0,50.0,medium fast,40,35,30,20,20,50,,,,,,1.0,sredniaki
+kakuna,kakuna,,,1,red-blue,bug,poison,Cocoon,0.6,10.0,4:4,120.0,72.0,15.0,50.0,medium fast,45,25,50,25,25,35,,,2.0,,,,sredniaki
+beedrill,beedrill,,,1,red-blue,bug,poison,Poison Bee,1.0,29.5,4:4,45.0,178.0,15.0,50.0,medium fast,65,90,40,45,80,75,,2.0,,,1.0,,sredniaki
+beedrill-mega,beedrill,mega,Mega Beedrill,6,omega-ruby-alpha-sapphire,bug,poison,Poison Bee,1.4,40.5,4:4,45.0,223.0,15.0,50.0,medium fast,65,150,40,15,80,145,,2.0,,,1.0,,sredniaki
+pidgey,pidgey,,,1,red-blue,normal,flying,Tiny Bird,0.3,1.8,4:4,255.0,50.0,15.0,50.0,medium slow,40,45,40,35,35,56,,,,,,1.0,sredniaki
+pidgeotto,pidgeotto,,,1,red-blue,normal,flying,Bird,1.1,30.0,4:4,120.0,122.0,15.0,50.0,medium slow,63,60,55,50,50,71,,,,,,2.0,sredniaki
+pidgeot,pidgeot,,,1,red-blue,normal,flying,Bird,1.5,39.5,4:4,45.0,216.0,15.0,50.0,medium slow,83,80,75,70,70,101,,,,,,3.0,sredniaki
+pidgeot-mega,pidgeot,mega,Mega Pidgeot,6,omega-ruby-alpha-sapphire,normal,flying,Bird,2.2,50.5,4:4,45.0,261.0,15.0,50.0,medium slow,83,80,80,135,80,121,,,,,,3.0,sredniaki
+rattata,rattata,,,1,red-blue,normal,,Mouse,0.3,3.5,4:4,255.0,51.0,15.0,50.0,medium fast,30,56,35,25,35,72,,,,,,1.0,sredniaki
 rattata-alolan,rattata,alolan,Alolan Rattata,7,sun-moon,dark,normal,Mouse,0.3,3.8,4:4,255.0,51.0,15.0,50.0,medium fast,30,56,35,25,35,72,,,,,,1.0,agresorzy
-raticate,raticate,,,1,red-blue,normal,,Mouse,0.7,18.5,4:4,127.0,145.0,15.0,50.0,medium fast,55,81,60,50,70,97,,,,,,2.0,grubole
+raticate,raticate,,,1,red-blue,normal,,Mouse,0.7,18.5,4:4,127.0,145.0,15.0,50.0,medium fast,55,81,60,50,70,97,,,,,,2.0,sredniaki
 raticate-alolan,raticate,alolan,Alolan Raticate,7,sun-moon,dark,normal,Mouse,0.7,25.5,4:4,127.0,145.0,15.0,50.0,medium fast,75,71,70,40,80,77,,,,,,2.0,agresorzy
-spearow,spearow,,,1,red-blue,normal,flying,Tiny Bird,0.3,2.0,4:4,255.0,52.0,15.0,50.0,medium fast,40,60,30,31,31,70,,,,,,1.0,grubole
-fearow,fearow,,,1,red-blue,normal,flying,Beak,1.2,38.0,4:4,90.0,155.0,15.0,50.0,medium fast,65,90,65,61,61,100,,,,,,2.0,grubole
+spearow,spearow,,,1,red-blue,normal,flying,Tiny Bird,0.3,2.0,4:4,255.0,52.0,15.0,50.0,medium fast,40,60,30,31,31,70,,,,,,1.0,sredniaki
+fearow,fearow,,,1,red-blue,normal,flying,Beak,1.2,38.0,4:4,90.0,155.0,15.0,50.0,medium fast,65,90,65,61,61,100,,,,,,2.0,sredniaki
 ekans,ekans,,,1,red-blue,poison,,Snake,2.0,6.9,4:4,255.0,58.0,20.0,50.0,medium fast,35,60,44,40,54,55,,1.0,,,,,sredniaki
 arbok,arbok,,,1,red-blue,poison,,Cobra,3.5,65.0,4:4,90.0,157.0,20.0,50.0,medium fast,60,95,69,65,79,80,,2.0,,,,,sredniaki
 pikachu,pikachu,,,1,red-blue,electric,,Mouse,0.4,6.0,4:4,190.0,112.0,10.0,50.0,medium fast,35,55,40,50,50,90,,,,,,2.0,specjalni
@@ -47,38 +47,38 @@ nidorino,nidorino,,,1,red-blue,poison,,Poison Pin,0.9,19.5,0,120.0,128.0,20.0,50
 nidoking,nidoking,,,1,red-blue,poison,ground,Drill,1.4,62.0,0,45.0,227.0,20.0,50.0,medium slow,81,102,77,85,75,85,,3.0,,,,,sredniaki
 clefairy,clefairy,,,1,red-blue,fairy,,Fairy,0.6,7.5,6:2,150.0,113.0,10.0,140.0,fast,70,45,48,60,65,35,2.0,,,,,,specjalni
 clefable,clefable,,,1,red-blue,fairy,,Fairy,1.3,40.0,6:2,25.0,217.0,10.0,140.0,fast,95,70,73,95,90,60,3.0,,,,,,specjalni
-vulpix,vulpix,,,1,red-blue,fire,,Fox,0.6,9.9,6:2,190.0,60.0,20.0,50.0,medium fast,38,41,40,50,65,65,,,,,,1.0,agresorzy
+vulpix,vulpix,,,1,red-blue,fire,,Fox,0.6,9.9,6:2,190.0,60.0,20.0,50.0,medium fast,38,41,40,50,65,65,,,,,,1.0,specjalni
 vulpix-alolan,vulpix,alolan,Alolan Vulpix,7,sun-moon,ice,,Fox,0.6,9.9,6:2,190.0,60.0,20.0,50.0,medium fast,38,41,40,50,65,65,,,,,,1.0,sredniaki
-ninetales,ninetales,,,1,red-blue,fire,,Fox,1.1,19.9,6:2,75.0,177.0,20.0,50.0,medium fast,73,76,75,81,100,100,,,,,1.0,1.0,agresorzy
+ninetales,ninetales,,,1,red-blue,fire,,Fox,1.1,19.9,6:2,75.0,177.0,20.0,50.0,medium fast,73,76,75,81,100,100,,,,,1.0,1.0,specjalni
 ninetales-alolan,ninetales,alolan,Alolan Ninetales,7,sun-moon,ice,fairy,Fox,1.1,19.9,6:2,75.0,177.0,20.0,50.0,medium fast,73,67,75,81,100,109,,,,,,2.0,sredniaki
-jigglypuff,jigglypuff,,,1,red-blue,normal,fairy,Balloon,0.5,5.5,6:2,170.0,95.0,10.0,50.0,fast,115,45,20,45,25,20,2.0,,,,,,grubole
-wigglytuff,wigglytuff,,,1,red-blue,normal,fairy,Balloon,1.0,12.0,6:2,50.0,218.0,10.0,50.0,fast,140,70,45,85,50,45,3.0,,,,,,grubole
+jigglypuff,jigglypuff,,,1,red-blue,normal,fairy,Balloon,0.5,5.5,6:2,170.0,95.0,10.0,50.0,fast,115,45,20,45,25,20,2.0,,,,,,sredniaki
+wigglytuff,wigglytuff,,,1,red-blue,normal,fairy,Balloon,1.0,12.0,6:2,50.0,218.0,10.0,50.0,fast,140,70,45,85,50,45,3.0,,,,,,sredniaki
 zubat,zubat,,,1,red-blue,poison,flying,Bat,0.8,7.5,4:4,255.0,49.0,15.0,50.0,medium fast,40,45,35,30,40,55,,,,,,1.0,sredniaki
 golbat,golbat,,,1,red-blue,poison,flying,Bat,1.6,55.0,4:4,90.0,159.0,15.0,50.0,medium fast,75,80,70,65,75,90,,,,,,2.0,sredniaki
 oddish,oddish,,,1,red-blue,grass,poison,Weed,0.5,5.4,4:4,255.0,64.0,20.0,50.0,medium slow,45,50,55,75,65,30,,,,1.0,,,sredniaki
 gloom,gloom,,,1,red-blue,grass,poison,Weed,0.8,8.6,4:4,120.0,138.0,20.0,50.0,medium slow,60,65,70,85,75,40,,,,2.0,,,sredniaki
 vileplume,vileplume,,,1,red-blue,grass,poison,Flower,1.2,18.6,4:4,45.0,221.0,20.0,50.0,medium slow,75,80,85,110,90,50,,,,3.0,,,sredniaki
-paras,paras,,,1,red-blue,bug,grass,Mushroom,0.3,5.4,4:4,190.0,57.0,20.0,50.0,medium fast,35,70,55,45,55,25,,1.0,,,,,agresorzy
-parasect,parasect,,,1,red-blue,bug,grass,Mushroom,1.0,29.5,4:4,75.0,142.0,20.0,50.0,medium fast,60,95,80,60,80,30,,2.0,1.0,,,,agresorzy
-venonat,venonat,,,1,red-blue,bug,poison,Insect,1.0,30.0,4:4,190.0,61.0,20.0,50.0,medium fast,60,55,50,40,55,45,,,,,1.0,,agresorzy
-venomoth,venomoth,,,1,red-blue,bug,poison,Poison Moth,1.5,12.5,4:4,75.0,158.0,20.0,50.0,medium fast,70,65,60,90,75,90,,,,1.0,,1.0,agresorzy
+paras,paras,,,1,red-blue,bug,grass,Mushroom,0.3,5.4,4:4,190.0,57.0,20.0,50.0,medium fast,35,70,55,45,55,25,,1.0,,,,,sredniaki
+parasect,parasect,,,1,red-blue,bug,grass,Mushroom,1.0,29.5,4:4,75.0,142.0,20.0,50.0,medium fast,60,95,80,60,80,30,,2.0,1.0,,,,sredniaki
+venonat,venonat,,,1,red-blue,bug,poison,Insect,1.0,30.0,4:4,190.0,61.0,20.0,50.0,medium fast,60,55,50,40,55,45,,,,,1.0,,sredniaki
+venomoth,venomoth,,,1,red-blue,bug,poison,Poison Moth,1.5,12.5,4:4,75.0,158.0,20.0,50.0,medium fast,70,65,60,90,75,90,,,,1.0,,1.0,sredniaki
 diglett,diglett,,,1,red-blue,ground,,Mole,0.2,0.8,4:4,255.0,53.0,20.0,50.0,medium fast,10,55,25,35,45,95,,,,,,1.0,grubole
 diglett-alolan,diglett,alolan,Alolan Diglett,7,sun-moon,ground,steel,Mole,0.2,1.0,4:4,255.0,53.0,20.0,50.0,medium fast,10,55,30,35,45,90,,,,,,1.0,grubole
 dugtrio,dugtrio,,,1,red-blue,ground,,Mole,0.7,33.3,4:4,50.0,149.0,20.0,50.0,medium fast,35,100,50,50,70,120,,,,,,2.0,grubole
 dugtrio-alolan,dugtrio,alolan,Alolan Dugtrio,7,sun-moon,ground,steel,Mole,0.7,66.6,4:4,50.0,149.0,20.0,50.0,medium fast,35,100,60,50,70,110,,2.0,,,,,grubole
-meowth,meowth,,,1,red-blue,normal,,Scratch Cat,0.4,4.2,4:4,255.0,58.0,20.0,50.0,medium fast,40,45,35,40,40,90,,,,,,1.0,grubole
+meowth,meowth,,,1,red-blue,normal,,Scratch Cat,0.4,4.2,4:4,255.0,58.0,20.0,50.0,medium fast,40,45,35,40,40,90,,,,,,1.0,sredniaki
 meowth-alolan,meowth,alolan,Alolan Meowth,7,sun-moon,dark,,Scratch Cat,0.4,4.2,4:4,255.0,58.0,20.0,50.0,medium fast,40,35,35,50,40,90,,,,,,1.0,agresorzy
 meowth-galarian,meowth,galarian,Galarian Meowth,8,sword-shield,steel,,Scratch Cat,0.4,7.5,4:4,255.0,58.0,20.0,50.0,medium fast,50,65,55,40,40,40,,1.0,,,,,grubole
-persian,persian,,,1,red-blue,normal,,Classy Cat,1.0,32.0,4:4,90.0,154.0,20.0,50.0,medium fast,65,70,60,65,65,115,,,,,,2.0,grubole
+persian,persian,,,1,red-blue,normal,,Classy Cat,1.0,32.0,4:4,90.0,154.0,20.0,50.0,medium fast,65,70,60,65,65,115,,,,,,2.0,sredniaki
 persian-alolan,persian,alolan,Alolan Persian,7,sun-moon,dark,,Classy Cat,1.1,33.0,4:4,90.0,154.0,20.0,50.0,medium fast,65,60,60,75,65,115,,,,,,2.0,agresorzy
 psyduck,psyduck,,,1,red-blue,water,,Duck,0.8,19.6,4:4,190.0,64.0,20.0,50.0,medium fast,50,52,48,65,50,55,,,,1.0,,,sredniaki
 golduck,golduck,,,1,red-blue,water,,Duck,1.7,76.6,4:4,75.0,175.0,20.0,50.0,medium fast,80,82,78,95,80,85,,,,2.0,,,sredniaki
 mankey,mankey,,,1,red-blue,fighting,,Pig Monkey,0.5,28.0,4:4,190.0,61.0,20.0,50.0,medium fast,40,80,35,35,45,70,,1.0,,,,,agresorzy
 primeape,primeape,,,1,red-blue,fighting,,Pig Monkey,1.0,32.0,4:4,75.0,159.0,20.0,50.0,medium fast,65,105,60,60,70,95,,2.0,,,,,agresorzy
-growlithe,growlithe,,,1,red-blue,fire,,Puppy,0.7,19.0,2:6,190.0,70.0,20.0,50.0,slow,55,70,45,70,50,60,,1.0,,,,,agresorzy
-growlithe-hisuian,growlithe,hisuian,Hisuian Growlithe,8,legends-arceus,fire,rock,Scout,0.8,22.7,2:6,190.0,70.0,20.0,50.0,slow,60,75,45,65,50,55,,1.0,,,,,agresorzy
-arcanine,arcanine,,,1,red-blue,fire,,Legendary,1.9,155.0,2:6,75.0,194.0,20.0,50.0,slow,90,110,80,100,80,95,,2.0,,,,,agresorzy
-arcanine-hisuian,arcanine,hisuian,Hisuian Arcanine,8,legends-arceus,fire,rock,Legendary,2.0,168.0,2:6,75.0,194.0,20.0,50.0,slow,95,115,80,95,80,90,,2.0,,,,,agresorzy
+growlithe,growlithe,,,1,red-blue,fire,,Puppy,0.7,19.0,2:6,190.0,70.0,20.0,50.0,slow,55,70,45,70,50,60,,1.0,,,,,specjalni
+growlithe-hisuian,growlithe,hisuian,Hisuian Growlithe,8,legends-arceus,fire,rock,Scout,0.8,22.7,2:6,190.0,70.0,20.0,50.0,slow,60,75,45,65,50,55,,1.0,,,,,specjalni
+arcanine,arcanine,,,1,red-blue,fire,,Legendary,1.9,155.0,2:6,75.0,194.0,20.0,50.0,slow,90,110,80,100,80,95,,2.0,,,,,specjalni
+arcanine-hisuian,arcanine,hisuian,Hisuian Arcanine,8,legends-arceus,fire,rock,Legendary,2.0,168.0,2:6,75.0,194.0,20.0,50.0,slow,95,115,80,95,80,90,,2.0,,,,,specjalni
 poliwag,poliwag,,,1,red-blue,water,,Tadpole,0.6,12.4,4:4,255.0,60.0,20.0,50.0,medium slow,40,50,40,40,40,90,,,,,,1.0,sredniaki
 poliwhirl,poliwhirl,,,1,red-blue,water,,Tadpole,1.0,20.0,4:4,120.0,135.0,20.0,50.0,medium slow,65,65,65,50,50,90,,,,,,2.0,sredniaki
 poliwrath,poliwrath,,,1,red-blue,water,fighting,Tadpole,1.3,54.0,4:4,45.0,230.0,20.0,50.0,medium slow,90,95,95,70,90,70,,,3.0,,,,sredniaki
@@ -100,9 +100,9 @@ graveler,graveler,,,1,red-blue,rock,ground,Rock,1.0,105.0,4:4,120.0,137.0,15.0,5
 graveler-alolan,graveler,alolan,Alolan Graveler,7,sun-moon,rock,electric,Rock,1.0,110.0,4:4,120.0,137.0,15.0,50.0,medium slow,55,95,115,45,45,35,,,2.0,,,,grubole
 golem,golem,,,1,red-blue,rock,ground,Megaton,1.4,300.0,4:4,45.0,223.0,15.0,50.0,medium slow,80,120,130,55,65,45,,,3.0,,,,grubole
 golem-alolan,golem,alolan,Alolan Golem,7,sun-moon,rock,electric,Megaton,1.7,316.0,4:4,45.0,223.0,15.0,50.0,medium slow,80,120,130,55,65,45,,,3.0,,,,grubole
-ponyta,ponyta,,,1,red-blue,fire,,Fire Horse,1.0,30.0,4:4,190.0,82.0,20.0,50.0,medium fast,50,85,55,65,65,90,,,,,,1.0,agresorzy
+ponyta,ponyta,,,1,red-blue,fire,,Fire Horse,1.0,30.0,4:4,190.0,82.0,20.0,50.0,medium fast,50,85,55,65,65,90,,,,,,1.0,specjalni
 ponyta-galarian,ponyta,galarian,Galarian Ponyta,8,sword-shield,psychic,,Unique Horn,0.8,24.0,4:4,190.0,82.0,20.0,50.0,medium fast,50,85,55,65,65,90,,,,,,1.0,specjalni
-rapidash,rapidash,,,1,red-blue,fire,,Fire Horse,1.7,95.0,4:4,60.0,175.0,20.0,50.0,medium fast,65,100,70,80,80,105,,,,,,2.0,agresorzy
+rapidash,rapidash,,,1,red-blue,fire,,Fire Horse,1.7,95.0,4:4,60.0,175.0,20.0,50.0,medium fast,65,100,70,80,80,105,,,,,,2.0,specjalni
 rapidash-galarian,rapidash,galarian,Galarian Rapidash,8,sword-shield,psychic,fairy,Unique Horn,1.7,80.0,4:4,60.0,175.0,20.0,50.0,medium fast,65,100,70,80,80,105,,,,,,2.0,specjalni
 slowpoke,slowpoke,,,1,red-blue,water,psychic,Dopey,1.2,36.0,4:4,190.0,63.0,20.0,50.0,medium fast,90,65,65,40,40,15,1.0,,,,,,sredniaki
 slowpoke-galarian,slowpoke,galarian,Galarian Slowpoke,8,sword-shield,psychic,,Dopey,1.2,36.0,4:4,190.0,63.0,20.0,50.0,medium fast,90,65,65,40,40,15,1.0,,,,,,specjalni
@@ -111,10 +111,10 @@ slowbro-mega,slowbro,mega,Mega Slowbro,6,omega-ruby-alpha-sapphire,water,psychic
 slowbro-galarian,slowbro,galarian,Galarian Slowbro,8,sword-shield,poison,psychic,Hermit Crab,1.6,70.5,4:4,75.0,172.0,20.0,50.0,medium fast,95,100,95,100,70,30,,2.0,,,,,sredniaki
 magnemite,magnemite,,,1,red-blue,electric,steel,Magnet,0.3,6.0,genderless,190.0,65.0,20.0,50.0,medium fast,25,35,70,95,55,45,,,,1.0,,,specjalni
 magneton,magneton,,,1,red-blue,electric,steel,Magnet,1.0,60.0,genderless,60.0,163.0,20.0,50.0,medium fast,50,60,95,120,70,70,,,,2.0,,,specjalni
-farfetchd,farfetchd,,,1,red-blue,normal,flying,Wild Duck,0.8,15.0,4:4,45.0,132.0,20.0,50.0,medium fast,52,90,55,58,62,60,,1.0,,,,,grubole
+farfetchd,farfetchd,,,1,red-blue,normal,flying,Wild Duck,0.8,15.0,4:4,45.0,132.0,20.0,50.0,medium fast,52,90,55,58,62,60,,1.0,,,,,sredniaki
 farfetchd-galarian,farfetchd,galarian,Galarian Farfetch'd,8,sword-shield,fighting,,Wild Duck,0.8,42.0,4:4,45.0,132.0,20.0,50.0,medium fast,52,95,55,58,62,55,,1.0,,,,,agresorzy
-doduo,doduo,,,1,red-blue,normal,flying,Twin Bird,1.4,39.2,4:4,190.0,62.0,20.0,50.0,medium fast,35,85,45,35,35,75,,1.0,,,,,grubole
-dodrio,dodrio,,,1,red-blue,normal,flying,Triple Bird,1.8,85.2,4:4,45.0,165.0,20.0,50.0,medium fast,60,110,70,60,60,110,,2.0,,,,,grubole
+doduo,doduo,,,1,red-blue,normal,flying,Twin Bird,1.4,39.2,4:4,190.0,62.0,20.0,50.0,medium fast,35,85,45,35,35,75,,1.0,,,,,sredniaki
+dodrio,dodrio,,,1,red-blue,normal,flying,Triple Bird,1.8,85.2,4:4,45.0,165.0,20.0,50.0,medium fast,60,110,70,60,60,110,,2.0,,,,,sredniaki
 seel,seel,,,1,red-blue,water,,Sea Lion,1.1,90.0,4:4,190.0,65.0,20.0,50.0,medium fast,65,45,55,45,70,45,,,,,1.0,,sredniaki
 dewgong,dewgong,,,1,red-blue,water,ice,Sea Lion,1.7,120.0,4:4,75.0,166.0,20.0,50.0,medium fast,90,70,80,70,95,70,,,,,2.0,,sredniaki
 grimer,grimer,,,1,red-blue,poison,,Sludge,0.9,30.0,4:4,190.0,65.0,20.0,50.0,medium fast,80,80,50,40,50,25,1.0,,,,,,sredniaki
@@ -141,19 +141,19 @@ exeggutor,exeggutor,,,1,red-blue,grass,psychic,Coconut,2.0,120.0,4:4,45.0,186.0,
 exeggutor-alolan,exeggutor,alolan,Alolan Exeggutor,7,sun-moon,grass,dragon,Coconut,10.9,415.6,4:4,45.0,186.0,20.0,50.0,slow,95,105,85,125,75,45,,,,2.0,,,sredniaki
 cubone,cubone,,,1,red-blue,ground,,Lonely,0.4,6.5,4:4,190.0,64.0,20.0,50.0,medium fast,50,50,95,40,50,35,,,1.0,,,,grubole
 marowak,marowak,,,1,red-blue,ground,,Bone Keeper,1.0,45.0,4:4,75.0,149.0,20.0,50.0,medium fast,60,80,110,50,80,45,,,2.0,,,,grubole
-marowak-alolan,marowak,alolan,Alolan Marowak,7,sun-moon,fire,ghost,Bone Keeper,1.0,34.0,4:4,75.0,149.0,20.0,50.0,medium fast,60,80,110,50,80,45,,,2.0,,,,agresorzy
+marowak-alolan,marowak,alolan,Alolan Marowak,7,sun-moon,fire,ghost,Bone Keeper,1.0,34.0,4:4,75.0,149.0,20.0,50.0,medium fast,60,80,110,50,80,45,,,2.0,,,,specjalni
 hitmonlee,hitmonlee,,,1,red-blue,fighting,,Kicking,1.5,49.8,0,45.0,159.0,25.0,50.0,medium fast,50,120,53,35,110,87,,2.0,,,,,agresorzy
 hitmonchan,hitmonchan,,,1,red-blue,fighting,,Punching,1.4,50.2,0,45.0,159.0,25.0,50.0,medium fast,50,105,79,35,110,76,,,,,2.0,,agresorzy
-lickitung,lickitung,,,1,red-blue,normal,,Licking,1.2,65.5,4:4,45.0,77.0,20.0,50.0,medium fast,90,55,75,60,75,30,2.0,,,,,,grubole
+lickitung,lickitung,,,1,red-blue,normal,,Licking,1.2,65.5,4:4,45.0,77.0,20.0,50.0,medium fast,90,55,75,60,75,30,2.0,,,,,,sredniaki
 koffing,koffing,,,1,red-blue,poison,,Poison Gas,0.6,1.0,4:4,190.0,68.0,20.0,50.0,medium fast,40,65,95,60,45,35,,,1.0,,,,sredniaki
 weezing,weezing,,,1,red-blue,poison,,Poison Gas,1.2,9.5,4:4,60.0,172.0,20.0,50.0,medium fast,65,90,120,85,70,60,,,2.0,,,,sredniaki
 weezing-galarian,weezing,galarian,Galarian Weezing,8,sword-shield,poison,fairy,Poison Gas,3.0,16.0,4:4,60.0,172.0,20.0,50.0,medium fast,65,90,120,85,70,60,,,2.0,,,,sredniaki
 rhyhorn,rhyhorn,,,1,red-blue,ground,rock,Spikes,1.0,115.0,4:4,120.0,69.0,20.0,50.0,slow,80,85,95,30,30,25,,,1.0,,,,grubole
 rhydon,rhydon,,,1,red-blue,ground,rock,Drill,1.9,120.0,4:4,60.0,170.0,20.0,50.0,slow,105,130,120,45,45,40,,2.0,,,,,grubole
-chansey,chansey,,,1,red-blue,normal,,Egg,1.1,34.6,8:0,30.0,395.0,40.0,140.0,fast,250,5,5,35,105,50,2.0,,,,,,grubole
+chansey,chansey,,,1,red-blue,normal,,Egg,1.1,34.6,8:0,30.0,395.0,40.0,140.0,fast,250,5,5,35,105,50,2.0,,,,,,sredniaki
 tangela,tangela,,,1,red-blue,grass,,Vine,1.0,35.0,4:4,45.0,87.0,20.0,50.0,medium fast,65,55,115,100,40,60,,,1.0,,,,sredniaki
-kangaskhan,kangaskhan,,,1,red-blue,normal,,Parent,2.2,80.0,8:0,45.0,172.0,20.0,50.0,medium fast,105,95,80,40,80,90,2.0,,,,,,grubole
-kangaskhan-mega,kangaskhan,mega,Mega Kangaskhan,6,x-y,normal,,Parent,2.2,100.0,8:0,45.0,207.0,20.0,50.0,medium fast,105,125,100,60,100,100,2.0,,,,,,grubole
+kangaskhan,kangaskhan,,,1,red-blue,normal,,Parent,2.2,80.0,8:0,45.0,172.0,20.0,50.0,medium fast,105,95,80,40,80,90,2.0,,,,,,sredniaki
+kangaskhan-mega,kangaskhan,mega,Mega Kangaskhan,6,x-y,normal,,Parent,2.2,100.0,8:0,45.0,207.0,20.0,50.0,medium fast,105,125,100,60,100,100,2.0,,,,,,sredniaki
 horsea,horsea,,,1,red-blue,water,,Dragon,0.4,8.0,4:4,225.0,59.0,20.0,50.0,medium fast,30,40,70,70,25,60,,,,1.0,,,sredniaki
 seadra,seadra,,,1,red-blue,water,,Dragon,1.2,25.0,4:4,75.0,154.0,20.0,50.0,medium fast,55,65,95,95,45,85,,,1.0,1.0,,,sredniaki
 goldeen,goldeen,,,1,red-blue,water,,Goldfish,0.6,15.0,4:4,225.0,64.0,20.0,50.0,medium fast,45,67,60,35,50,63,,1.0,,,,,sredniaki
@@ -162,13 +162,13 @@ staryu,staryu,,,1,red-blue,water,,Star Shape,0.8,34.5,genderless,225.0,68.0,20.0
 starmie,starmie,,,1,red-blue,water,psychic,Mysterious,1.1,80.0,genderless,60.0,182.0,20.0,50.0,slow,60,75,85,100,85,115,,,,,,2.0,sredniaki
 mr-mime,mr-mime,,,1,red-blue,psychic,fairy,Barrier,1.3,54.5,4:4,45.0,161.0,25.0,50.0,medium fast,40,45,65,100,120,90,,,,,2.0,,specjalni
 mr-mime-galarian,mr-mime,galarian,Galarian Mr. Mime,8,sword-shield,ice,psychic,Dancing,1.4,56.8,4:4,45.0,161.0,25.0,50.0,medium fast,50,65,65,90,90,100,,,,,,2.0,sredniaki
-scyther,scyther,,,1,red-blue,bug,flying,Mantis,1.5,56.0,4:4,45.0,100.0,25.0,50.0,medium fast,70,110,80,55,80,105,,1.0,,,,,agresorzy
+scyther,scyther,,,1,red-blue,bug,flying,Mantis,1.5,56.0,4:4,45.0,100.0,25.0,50.0,medium fast,70,110,80,55,80,105,,1.0,,,,,sredniaki
 jynx,jynx,,,1,red-blue,ice,psychic,Human Shape,1.4,40.6,8:0,45.0,159.0,25.0,50.0,medium fast,65,50,35,115,95,95,,,,2.0,,,sredniaki
 electabuzz,electabuzz,,,1,red-blue,electric,,Electric,1.1,30.0,2:6,45.0,172.0,25.0,50.0,medium fast,65,83,57,95,85,105,,,,,,2.0,specjalni
-magmar,magmar,,,1,red-blue,fire,,Spitfire,1.3,44.5,2:6,45.0,173.0,25.0,50.0,medium fast,65,95,57,100,85,93,,,,2.0,,,agresorzy
-pinsir,pinsir,,,1,red-blue,bug,,Stag Beetle,1.5,55.0,4:4,45.0,175.0,25.0,50.0,slow,65,125,100,55,70,85,,2.0,,,,,agresorzy
-pinsir-mega,pinsir,mega,Mega Pinsir,6,x-y,bug,flying,Stag Beetle,1.7,59.0,4:4,45.0,210.0,25.0,50.0,slow,65,155,120,65,90,105,,2.0,,,,,agresorzy
-tauros,tauros,,,1,red-blue,normal,,Wild Bull,1.4,88.4,0,45.0,172.0,20.0,50.0,slow,75,100,95,40,70,110,,1.0,,,,1.0,grubole
+magmar,magmar,,,1,red-blue,fire,,Spitfire,1.3,44.5,2:6,45.0,173.0,25.0,50.0,medium fast,65,95,57,100,85,93,,,,2.0,,,specjalni
+pinsir,pinsir,,,1,red-blue,bug,,Stag Beetle,1.5,55.0,4:4,45.0,175.0,25.0,50.0,slow,65,125,100,55,70,85,,2.0,,,,,sredniaki
+pinsir-mega,pinsir,mega,Mega Pinsir,6,x-y,bug,flying,Stag Beetle,1.7,59.0,4:4,45.0,210.0,25.0,50.0,slow,65,155,120,65,90,105,,2.0,,,,,sredniaki
+tauros,tauros,,,1,red-blue,normal,,Wild Bull,1.4,88.4,0,45.0,172.0,20.0,50.0,slow,75,100,95,40,70,110,,1.0,,,,1.0,sredniaki
 tauros-paldean-combat,tauros,paldean-combat,Combat Breed,9,scarlet-violet,fighting,,Wild Bull,1.4,115.0,0,45.0,172.0,20.0,50.0,slow,75,110,105,30,70,100,,2.0,,,,,agresorzy
 tauros-paldean-blaze,tauros,paldean-blaze,Blaze Breed,9,scarlet-violet,fighting,fire,Wild Bull,1.4,85.0,0,45.0,172.0,20.0,50.0,slow,75,110,105,30,70,100,,2.0,,,,,agresorzy
 tauros-paldean-aqua,tauros,paldean-aqua,Aqua Breed,9,scarlet-violet,fighting,water,Wild Bull,1.4,110.0,0,45.0,172.0,20.0,50.0,slow,75,110,105,30,70,100,,2.0,,,,,agresorzy
@@ -176,29 +176,29 @@ magikarp,magikarp,,,1,red-blue,water,,Fish,0.9,10.0,4:4,255.0,40.0,5.0,50.0,slow
 gyarados,gyarados,,,1,red-blue,water,flying,Atrocious,6.5,235.0,4:4,45.0,189.0,5.0,50.0,slow,95,125,79,60,100,81,,2.0,,,,,sredniaki
 gyarados-mega,gyarados,mega,Mega Gyarados,6,x-y,water,dark,Atrocious,6.5,305.0,4:4,45.0,224.0,5.0,50.0,slow,95,155,109,70,130,81,,2.0,,,,,sredniaki
 lapras,lapras,,,1,red-blue,water,ice,Transport,2.5,220.0,4:4,45.0,187.0,40.0,50.0,slow,130,85,80,85,95,60,2.0,,,,,,sredniaki
-ditto,ditto,,,1,red-blue,normal,,Transform,0.3,4.0,genderless,35.0,101.0,20.0,50.0,medium fast,48,48,48,48,48,48,1.0,,,,,,grubole
-eevee,eevee,,,1,red-blue,normal,,Evolution,0.3,6.5,1:7,45.0,65.0,35.0,50.0,medium fast,55,55,50,45,65,55,,,,,1.0,,grubole
-eevee-lets-go,eevee,lets-go,Partner Eevee,7,lets-go-pikachu-eevee,normal,,Evolution,0.3,6.5,1:7,45.0,65.0,35.0,50.0,medium fast,65,75,70,65,85,75,,,,,1.0,,grubole
+ditto,ditto,,,1,red-blue,normal,,Transform,0.3,4.0,genderless,35.0,101.0,20.0,50.0,medium fast,48,48,48,48,48,48,1.0,,,,,,sredniaki
+eevee,eevee,,,1,red-blue,normal,,Evolution,0.3,6.5,1:7,45.0,65.0,35.0,50.0,medium fast,55,55,50,45,65,55,,,,,1.0,,sredniaki
+eevee-lets-go,eevee,lets-go,Partner Eevee,7,lets-go-pikachu-eevee,normal,,Evolution,0.3,6.5,1:7,45.0,65.0,35.0,50.0,medium fast,65,75,70,65,85,75,,,,,1.0,,sredniaki
 vaporeon,vaporeon,,,1,red-blue,water,,Bubble Jet,1.0,29.0,1:7,45.0,184.0,35.0,50.0,medium fast,130,65,60,110,95,65,2.0,,,,,,sredniaki
 jolteon,jolteon,,,1,red-blue,electric,,Lightning,0.8,24.5,1:7,45.0,184.0,35.0,50.0,medium fast,65,65,60,110,95,130,,,,,,2.0,specjalni
-flareon,flareon,,,1,red-blue,fire,,Flame,0.9,25.0,1:7,45.0,184.0,35.0,50.0,medium fast,65,130,60,95,110,65,,2.0,,,,,agresorzy
-porygon,porygon,,,1,red-blue,normal,,Virtual,0.8,36.5,genderless,45.0,79.0,20.0,50.0,medium fast,65,60,70,85,75,40,,,,1.0,,,grubole
+flareon,flareon,,,1,red-blue,fire,,Flame,0.9,25.0,1:7,45.0,184.0,35.0,50.0,medium fast,65,130,60,95,110,65,,2.0,,,,,specjalni
+porygon,porygon,,,1,red-blue,normal,,Virtual,0.8,36.5,genderless,45.0,79.0,20.0,50.0,medium fast,65,60,70,85,75,40,,,,1.0,,,sredniaki
 omanyte,omanyte,,,1,red-blue,rock,water,Spiral,0.4,7.5,1:7,45.0,71.0,30.0,50.0,medium fast,35,40,100,90,55,35,,,1.0,,,,grubole
 omastar,omastar,,,1,red-blue,rock,water,Spiral,1.0,35.0,1:7,45.0,173.0,30.0,50.0,medium fast,70,60,125,115,70,55,,,2.0,,,,grubole
 kabuto,kabuto,,,1,red-blue,rock,water,Shellfish,0.5,11.5,1:7,45.0,71.0,30.0,50.0,medium fast,30,80,90,55,45,55,,,1.0,,,,grubole
 kabutops,kabutops,,,1,red-blue,rock,water,Shellfish,1.3,40.5,1:7,45.0,173.0,30.0,50.0,medium fast,60,115,105,65,70,80,,2.0,,,,,grubole
 aerodactyl,aerodactyl,,,1,red-blue,rock,flying,Fossil,1.8,59.0,1:7,45.0,180.0,35.0,50.0,slow,80,105,65,60,75,130,,,,,,2.0,grubole
 aerodactyl-mega,aerodactyl,mega,Mega Aerodactyl,6,x-y,rock,flying,Fossil,2.1,79.0,1:7,45.0,215.0,35.0,50.0,slow,80,135,85,70,95,150,,,,,,2.0,grubole
-snorlax,snorlax,,,1,red-blue,normal,,Sleeping,2.1,460.0,1:7,25.0,189.0,40.0,50.0,slow,160,110,65,65,110,30,2.0,,,,,,grubole
+snorlax,snorlax,,,1,red-blue,normal,,Sleeping,2.1,460.0,1:7,25.0,189.0,40.0,50.0,slow,160,110,65,65,110,30,2.0,,,,,,sredniaki
 articuno,articuno,,,1,red-blue,ice,flying,Freeze,1.7,55.4,genderless,3.0,290.0,80.0,35.0,slow,90,85,100,95,125,85,,,,,3.0,,sredniaki
 articuno-galarian,articuno,galarian,Galarian Articuno,8,sword-shield,psychic,flying,Cruel,1.7,50.9,genderless,3.0,290.0,120.0,35.0,slow,90,85,85,125,100,95,,,,3.0,,,specjalni
 zapdos,zapdos,,,1,red-blue,electric,flying,Electric,1.6,52.6,genderless,3.0,290.0,80.0,35.0,slow,90,90,85,125,90,100,,,,3.0,,,specjalni
 zapdos-galarian,zapdos,galarian,Galarian Zapdos,8,sword-shield,fighting,flying,Strong Legs,1.6,58.2,genderless,3.0,290.0,120.0,35.0,slow,90,125,90,85,90,100,,3.0,,,,,agresorzy
-moltres,moltres,,,1,red-blue,fire,flying,Flame,2.0,60.0,genderless,3.0,290.0,80.0,35.0,slow,90,100,90,125,85,90,,,,3.0,,,agresorzy
+moltres,moltres,,,1,red-blue,fire,flying,Flame,2.0,60.0,genderless,3.0,290.0,80.0,35.0,slow,90,100,90,125,85,90,,,,3.0,,,specjalni
 moltres-galarian,moltres,galarian,Galarian Moltres,8,sword-shield,dark,flying,Malevolent,2.0,66.0,genderless,3.0,290.0,120.0,35.0,slow,90,85,90,100,125,90,,,,,3.0,,agresorzy
-dratini,dratini,,,1,red-blue,dragon,,Dragon,1.8,3.3,4:4,45.0,60.0,40.0,35.0,slow,41,64,45,50,50,50,,1.0,,,,,sredniaki
-dragonair,dragonair,,,1,red-blue,dragon,,Dragon,4.0,16.5,4:4,45.0,147.0,40.0,35.0,slow,61,84,65,70,70,70,,2.0,,,,,sredniaki
-dragonite,dragonite,,,1,red-blue,dragon,flying,Dragon,2.2,210.0,4:4,45.0,300.0,40.0,35.0,slow,91,134,95,100,100,80,,3.0,,,,,sredniaki
+dratini,dratini,,,1,red-blue,dragon,,Dragon,1.8,3.3,4:4,45.0,60.0,40.0,35.0,slow,41,64,45,50,50,50,,1.0,,,,,elita
+dragonair,dragonair,,,1,red-blue,dragon,,Dragon,4.0,16.5,4:4,45.0,147.0,40.0,35.0,slow,61,84,65,70,70,70,,2.0,,,,,elita
+dragonite,dragonite,,,1,red-blue,dragon,flying,Dragon,2.2,210.0,4:4,45.0,300.0,40.0,35.0,slow,91,134,95,100,100,80,,3.0,,,,,elita
 mewtwo,mewtwo,,,1,red-blue,psychic,,Genetic,2.0,122.0,genderless,3.0,340.0,120.0,0.0,slow,106,110,90,154,90,130,,,,3.0,,,specjalni
 mewtwo-mega-x,mewtwo,mega-x,Mega Mewtwo X,6,x-y,psychic,fighting,Genetic,2.3,127.0,genderless,3.0,351.0,120.0,0.0,slow,106,190,100,154,100,130,,,,3.0,,,specjalni
 mewtwo-mega-y,mewtwo,mega-y,Mega Mewtwo Y,6,x-y,psychic,,Genetic,1.5,33.0,genderless,3.0,351.0,120.0,0.0,slow,106,150,70,194,120,140,,,,3.0,,,specjalni
@@ -206,27 +206,27 @@ mew,mew,,,1,red-blue,psychic,,New Species,0.4,4.0,genderless,45.0,300.0,120.0,10
 chikorita,chikorita,,,2,gold-silver,grass,,Leaf,0.9,6.4,1:7,45.0,64.0,20.0,50.0,medium slow,45,49,65,49,65,45,,,,,1.0,,sredniaki
 bayleef,bayleef,,,2,gold-silver,grass,,Leaf,1.2,15.8,1:7,45.0,142.0,20.0,50.0,medium slow,60,62,80,63,80,60,,,1.0,,1.0,,sredniaki
 meganium,meganium,,,2,gold-silver,grass,,Herb,1.8,100.5,1:7,45.0,236.0,20.0,50.0,medium slow,80,82,100,83,100,80,,,1.0,,2.0,,sredniaki
-cyndaquil,cyndaquil,,,2,gold-silver,fire,,Fire Mouse,0.5,7.9,1:7,45.0,62.0,20.0,50.0,medium slow,39,52,43,60,50,65,,,,,,1.0,agresorzy
-quilava,quilava,,,2,gold-silver,fire,,Volcano,0.9,19.0,1:7,45.0,142.0,20.0,50.0,medium slow,58,64,58,80,65,80,,,,1.0,,1.0,agresorzy
-typhlosion,typhlosion,,,2,gold-silver,fire,,Volcano,1.7,79.5,1:7,45.0,267.0,20.0,50.0,medium slow,78,84,78,109,85,100,,,,3.0,,,agresorzy
-typhlosion-hisuian,typhlosion,hisuian,Hisuian Typhlosion,8,legends-arceus,fire,ghost,Ghost Flame,1.6,69.8,1:7,45.0,267.0,20.0,50.0,medium slow,73,84,78,119,85,95,,,,3.0,,,agresorzy
+cyndaquil,cyndaquil,,,2,gold-silver,fire,,Fire Mouse,0.5,7.9,1:7,45.0,62.0,20.0,50.0,medium slow,39,52,43,60,50,65,,,,,,1.0,specjalni
+quilava,quilava,,,2,gold-silver,fire,,Volcano,0.9,19.0,1:7,45.0,142.0,20.0,50.0,medium slow,58,64,58,80,65,80,,,,1.0,,1.0,specjalni
+typhlosion,typhlosion,,,2,gold-silver,fire,,Volcano,1.7,79.5,1:7,45.0,267.0,20.0,50.0,medium slow,78,84,78,109,85,100,,,,3.0,,,specjalni
+typhlosion-hisuian,typhlosion,hisuian,Hisuian Typhlosion,8,legends-arceus,fire,ghost,Ghost Flame,1.6,69.8,1:7,45.0,267.0,20.0,50.0,medium slow,73,84,78,119,85,95,,,,3.0,,,specjalni
 totodile,totodile,,,2,gold-silver,water,,Big Jaw,0.6,9.5,1:7,45.0,63.0,20.0,50.0,medium slow,50,65,64,44,48,43,,1.0,,,,,sredniaki
 croconaw,croconaw,,,2,gold-silver,water,,Big Jaw,1.1,25.0,1:7,45.0,142.0,20.0,50.0,medium slow,65,80,80,59,63,58,,1.0,1.0,,,,sredniaki
 feraligatr,feraligatr,,,2,gold-silver,water,,Big Jaw,2.3,88.8,1:7,45.0,239.0,20.0,50.0,medium slow,85,105,100,79,83,78,,2.0,1.0,,,,sredniaki
-sentret,sentret,,,2,gold-silver,normal,,Scout,0.8,6.0,4:4,255.0,43.0,15.0,50.0,medium fast,35,46,34,35,45,20,,1.0,,,,,grubole
-furret,furret,,,2,gold-silver,normal,,Long Body,1.8,32.5,4:4,90.0,145.0,15.0,50.0,medium fast,85,76,64,45,55,90,,,,,,2.0,grubole
-hoothoot,hoothoot,,,2,gold-silver,normal,flying,Owl,0.7,21.2,4:4,255.0,52.0,15.0,50.0,medium fast,60,30,30,36,56,50,1.0,,,,,,grubole
-noctowl,noctowl,,,2,gold-silver,normal,flying,Owl,1.6,40.8,4:4,90.0,158.0,15.0,50.0,medium fast,100,50,50,86,96,70,2.0,,,,,,grubole
-ledyba,ledyba,,,2,gold-silver,bug,flying,Five Star,1.0,10.8,4:4,255.0,53.0,15.0,50.0,fast,40,20,30,40,80,55,,,,,1.0,,agresorzy
-ledian,ledian,,,2,gold-silver,bug,flying,Five Star,1.4,35.6,4:4,90.0,137.0,15.0,50.0,fast,55,35,50,55,110,85,,,,,2.0,,agresorzy
-spinarak,spinarak,,,2,gold-silver,bug,poison,String Spit,0.5,8.5,4:4,255.0,50.0,15.0,50.0,fast,40,60,40,40,40,30,,1.0,,,,,agresorzy
-ariados,ariados,,,2,gold-silver,bug,poison,Long Leg,1.1,33.5,4:4,90.0,140.0,15.0,50.0,fast,70,90,70,60,70,40,,2.0,,,,,agresorzy
+sentret,sentret,,,2,gold-silver,normal,,Scout,0.8,6.0,4:4,255.0,43.0,15.0,50.0,medium fast,35,46,34,35,45,20,,1.0,,,,,sredniaki
+furret,furret,,,2,gold-silver,normal,,Long Body,1.8,32.5,4:4,90.0,145.0,15.0,50.0,medium fast,85,76,64,45,55,90,,,,,,2.0,sredniaki
+hoothoot,hoothoot,,,2,gold-silver,normal,flying,Owl,0.7,21.2,4:4,255.0,52.0,15.0,50.0,medium fast,60,30,30,36,56,50,1.0,,,,,,sredniaki
+noctowl,noctowl,,,2,gold-silver,normal,flying,Owl,1.6,40.8,4:4,90.0,158.0,15.0,50.0,medium fast,100,50,50,86,96,70,2.0,,,,,,sredniaki
+ledyba,ledyba,,,2,gold-silver,bug,flying,Five Star,1.0,10.8,4:4,255.0,53.0,15.0,50.0,fast,40,20,30,40,80,55,,,,,1.0,,sredniaki
+ledian,ledian,,,2,gold-silver,bug,flying,Five Star,1.4,35.6,4:4,90.0,137.0,15.0,50.0,fast,55,35,50,55,110,85,,,,,2.0,,sredniaki
+spinarak,spinarak,,,2,gold-silver,bug,poison,String Spit,0.5,8.5,4:4,255.0,50.0,15.0,50.0,fast,40,60,40,40,40,30,,1.0,,,,,sredniaki
+ariados,ariados,,,2,gold-silver,bug,poison,Long Leg,1.1,33.5,4:4,90.0,140.0,15.0,50.0,fast,70,90,70,60,70,40,,2.0,,,,,sredniaki
 crobat,crobat,,,2,gold-silver,poison,flying,Bat,1.8,75.0,4:4,90.0,241.0,15.0,50.0,medium fast,85,90,80,70,80,130,,,,,,3.0,sredniaki
 chinchou,chinchou,,,2,gold-silver,water,electric,Angler,0.5,12.0,4:4,190.0,66.0,20.0,50.0,slow,75,38,38,56,56,67,1.0,,,,,,sredniaki
 lanturn,lanturn,,,2,gold-silver,water,electric,Light,1.2,22.5,4:4,75.0,161.0,20.0,50.0,slow,125,58,58,76,76,67,2.0,,,,,,sredniaki
 pichu,pichu,,,2,gold-silver,electric,,Tiny Mouse,0.3,2.0,4:4,190.0,41.0,10.0,50.0,medium fast,20,40,15,35,35,60,,,,,,1.0,specjalni
 cleffa,cleffa,,,2,gold-silver,fairy,,Star Shape,0.3,3.0,6:2,150.0,44.0,10.0,140.0,fast,50,25,28,45,55,15,,,,,1.0,,specjalni
-igglybuff,igglybuff,,,2,gold-silver,normal,fairy,Balloon,0.3,1.0,6:2,170.0,42.0,10.0,50.0,fast,90,30,15,40,20,15,1.0,,,,,,grubole
+igglybuff,igglybuff,,,2,gold-silver,normal,fairy,Balloon,0.3,1.0,6:2,170.0,42.0,10.0,50.0,fast,90,30,15,40,20,15,1.0,,,,,,sredniaki
 togepi,togepi,,,2,gold-silver,fairy,,Spike Ball,0.3,1.5,1:7,190.0,49.0,10.0,50.0,fast,35,20,65,40,65,20,,,,,1.0,,specjalni
 togetic,togetic,,,2,gold-silver,fairy,flying,Happiness,0.6,3.2,1:7,75.0,142.0,10.0,50.0,fast,55,40,85,80,105,40,,,,,2.0,,specjalni
 natu,natu,,,2,gold-silver,psychic,flying,Tiny Bird,0.2,2.0,4:4,190.0,64.0,20.0,50.0,medium fast,40,50,45,70,45,70,,,,1.0,,,specjalni
@@ -243,10 +243,10 @@ politoed,politoed,,,2,gold-silver,water,,Frog,1.1,33.9,4:4,45.0,225.0,20.0,50.0,
 hoppip,hoppip,,,2,gold-silver,grass,flying,Cottonweed,0.4,0.5,4:4,255.0,50.0,20.0,50.0,medium slow,35,35,40,35,55,50,,,,,1.0,,sredniaki
 skiploom,skiploom,,,2,gold-silver,grass,flying,Cottonweed,0.6,1.0,4:4,120.0,119.0,20.0,50.0,medium slow,55,45,50,45,65,80,,,,,,2.0,sredniaki
 jumpluff,jumpluff,,,2,gold-silver,grass,flying,Cottonweed,0.8,3.0,4:4,45.0,230.0,20.0,50.0,medium slow,75,55,70,55,95,110,,,,,,3.0,sredniaki
-aipom,aipom,,,2,gold-silver,normal,,Long Tail,0.8,11.5,4:4,45.0,72.0,20.0,50.0,fast,55,70,55,40,55,85,,,,,,1.0,grubole
+aipom,aipom,,,2,gold-silver,normal,,Long Tail,0.8,11.5,4:4,45.0,72.0,20.0,50.0,fast,55,70,55,40,55,85,,,,,,1.0,sredniaki
 sunkern,sunkern,,,2,gold-silver,grass,,Seed,0.3,1.8,4:4,235.0,36.0,20.0,50.0,medium slow,30,30,30,30,30,30,,,,1.0,,,sredniaki
 sunflora,sunflora,,,2,gold-silver,grass,,Sun,0.8,8.5,4:4,120.0,149.0,20.0,50.0,medium slow,75,75,55,105,85,30,,,,2.0,,,sredniaki
-yanma,yanma,,,2,gold-silver,bug,flying,Clear Wing,1.2,38.0,4:4,75.0,78.0,20.0,50.0,medium fast,65,65,45,75,45,95,,,,,,1.0,agresorzy
+yanma,yanma,,,2,gold-silver,bug,flying,Clear Wing,1.2,38.0,4:4,75.0,78.0,20.0,50.0,medium fast,65,65,45,75,45,95,,,,,,1.0,sredniaki
 wooper,wooper,,,2,gold-silver,water,ground,Water Fish,0.4,8.5,4:4,255.0,42.0,20.0,50.0,medium fast,55,45,45,25,25,15,1.0,,,,,,sredniaki
 wooper-paldean,wooper,paldean,Paldean Wooper,9,scarlet-violet,poison,ground,Poison Fish,0.4,11.0,4:4,255.0,42.0,20.0,50.0,medium fast,55,45,45,25,25,15,1.0,,,,,,sredniaki
 quagsire,quagsire,,,2,gold-silver,water,ground,Water Fish,1.4,75.0,4:4,90.0,151.0,20.0,50.0,medium fast,95,85,85,65,65,35,2.0,,,,,,sredniaki
@@ -258,10 +258,10 @@ slowking-galarian,slowking,galarian,Galarian Slowking,8,sword-shield,poison,psyc
 misdreavus,misdreavus,,,2,gold-silver,ghost,,Screech,0.7,1.0,4:4,45.0,87.0,25.0,35.0,fast,60,60,60,85,85,85,,,,,1.0,,specjalni
 unown,unown,,,2,gold-silver,psychic,,Symbol,0.5,5.0,genderless,225.0,118.0,40.0,50.0,medium fast,48,72,48,72,48,48,,1.0,,1.0,,,specjalni
 wobbuffet,wobbuffet,,,2,gold-silver,psychic,,Patient,1.3,28.5,4:4,45.0,142.0,20.0,50.0,medium fast,190,33,58,33,58,33,2.0,,,,,,specjalni
-girafarig,girafarig,,,2,gold-silver,normal,psychic,Long Neck,1.5,41.5,4:4,60.0,159.0,20.0,50.0,medium fast,70,80,65,90,65,85,,,,2.0,,,grubole
-pineco,pineco,,,2,gold-silver,bug,,Bagworm,0.6,7.2,4:4,190.0,58.0,20.0,50.0,medium fast,50,65,90,35,35,15,,,1.0,,,,agresorzy
-forretress,forretress,,,2,gold-silver,bug,steel,Bagworm,1.2,125.8,4:4,75.0,163.0,20.0,50.0,medium fast,75,90,140,60,60,40,,,2.0,,,,agresorzy
-dunsparce,dunsparce,,,2,gold-silver,normal,,Land Snake,1.5,14.0,4:4,190.0,145.0,20.0,50.0,medium fast,100,70,70,65,65,45,1.0,,,,,,grubole
+girafarig,girafarig,,,2,gold-silver,normal,psychic,Long Neck,1.5,41.5,4:4,60.0,159.0,20.0,50.0,medium fast,70,80,65,90,65,85,,,,2.0,,,sredniaki
+pineco,pineco,,,2,gold-silver,bug,,Bagworm,0.6,7.2,4:4,190.0,58.0,20.0,50.0,medium fast,50,65,90,35,35,15,,,1.0,,,,sredniaki
+forretress,forretress,,,2,gold-silver,bug,steel,Bagworm,1.2,125.8,4:4,75.0,163.0,20.0,50.0,medium fast,75,90,140,60,60,40,,,2.0,,,,sredniaki
+dunsparce,dunsparce,,,2,gold-silver,normal,,Land Snake,1.5,14.0,4:4,190.0,145.0,20.0,50.0,medium fast,100,70,70,65,65,45,1.0,,,,,,sredniaki
 gligar,gligar,,,2,gold-silver,ground,flying,FlyScorpion,1.1,64.8,4:4,60.0,86.0,20.0,50.0,medium slow,65,75,105,35,65,85,,,1.0,,,,grubole
 steelix,steelix,,,2,gold-silver,steel,ground,Iron Snake,9.2,400.0,4:4,25.0,179.0,25.0,50.0,medium fast,75,85,200,55,65,30,,,2.0,,,,grubole
 steelix-mega,steelix,mega,Mega Steelix,6,omega-ruby-alpha-sapphire,steel,ground,Iron Snake,10.5,740.0,4:4,25.0,214.0,25.0,50.0,medium fast,75,125,230,55,95,30,,,2.0,,,,grubole
@@ -269,17 +269,17 @@ snubbull,snubbull,,,2,gold-silver,fairy,,Fairy,0.6,7.8,6:2,190.0,60.0,20.0,50.0,
 granbull,granbull,,,2,gold-silver,fairy,,Fairy,1.4,48.7,6:2,75.0,158.0,20.0,50.0,fast,90,120,75,60,60,45,,2.0,,,,,specjalni
 qwilfish,qwilfish,,,2,gold-silver,water,poison,Balloon,0.5,3.9,4:4,45.0,88.0,20.0,50.0,medium fast,65,95,85,55,55,85,,1.0,,,,,sredniaki
 qwilfish-hisuian,qwilfish,hisuian,Hisuian Qwilfish,8,legends-arceus,dark,poison,Balloon,0.5,3.9,4:4,45.0,88.0,20.0,50.0,medium fast,65,95,85,55,55,85,,1.0,,,,,agresorzy
-scizor,scizor,,,2,gold-silver,bug,steel,Pincer,1.8,118.0,4:4,25.0,175.0,25.0,50.0,medium fast,70,130,100,55,80,65,,2.0,,,,,agresorzy
-scizor-mega,scizor,mega,Mega Scizor,6,x-y,bug,steel,Pincer,2.0,125.0,4:4,25.0,210.0,25.0,50.0,medium fast,70,150,140,65,100,75,,2.0,,,,,agresorzy
-shuckle,shuckle,,,2,gold-silver,bug,rock,Mold,0.6,20.5,4:4,190.0,177.0,20.0,50.0,medium slow,20,10,230,10,230,5,,,1.0,,1.0,,agresorzy
-heracross,heracross,,,2,gold-silver,bug,fighting,Single Horn,1.5,54.0,4:4,45.0,175.0,25.0,50.0,slow,80,125,75,40,95,85,,2.0,,,,,agresorzy
-heracross-mega,heracross,mega,Mega Heracross,6,x-y,bug,fighting,Single Horn,1.7,62.5,4:4,45.0,210.0,25.0,50.0,slow,80,185,115,40,105,75,,2.0,,,,,agresorzy
+scizor,scizor,,,2,gold-silver,bug,steel,Pincer,1.8,118.0,4:4,25.0,175.0,25.0,50.0,medium fast,70,130,100,55,80,65,,2.0,,,,,sredniaki
+scizor-mega,scizor,mega,Mega Scizor,6,x-y,bug,steel,Pincer,2.0,125.0,4:4,25.0,210.0,25.0,50.0,medium fast,70,150,140,65,100,75,,2.0,,,,,sredniaki
+shuckle,shuckle,,,2,gold-silver,bug,rock,Mold,0.6,20.5,4:4,190.0,177.0,20.0,50.0,medium slow,20,10,230,10,230,5,,,1.0,,1.0,,sredniaki
+heracross,heracross,,,2,gold-silver,bug,fighting,Single Horn,1.5,54.0,4:4,45.0,175.0,25.0,50.0,slow,80,125,75,40,95,85,,2.0,,,,,sredniaki
+heracross-mega,heracross,mega,Mega Heracross,6,x-y,bug,fighting,Single Horn,1.7,62.5,4:4,45.0,210.0,25.0,50.0,slow,80,185,115,40,105,75,,2.0,,,,,sredniaki
 sneasel,sneasel,,,2,gold-silver,dark,ice,Sharp Claw,0.9,28.0,4:4,60.0,86.0,20.0,35.0,medium slow,55,95,55,35,75,115,,,,,,1.0,agresorzy
 sneasel-hisuian,sneasel,hisuian,Hisuian Sneasel,8,legends-arceus,fighting,poison,Sharp Claw,0.9,27.0,4:4,60.0,86.0,20.0,35.0,medium slow,55,95,55,35,75,115,,,,,,1.0,agresorzy
-teddiursa,teddiursa,,,2,gold-silver,normal,,Little Bear,0.6,8.8,4:4,120.0,66.0,20.0,50.0,medium fast,60,80,50,50,50,40,,1.0,,,,,grubole
-ursaring,ursaring,,,2,gold-silver,normal,,Hibernator,1.8,125.8,4:4,60.0,175.0,20.0,50.0,medium fast,90,130,75,75,75,55,,2.0,,,,,grubole
-slugma,slugma,,,2,gold-silver,fire,,Lava,0.7,35.0,4:4,190.0,50.0,20.0,50.0,medium fast,40,40,40,70,40,20,,,,1.0,,,agresorzy
-magcargo,magcargo,,,2,gold-silver,fire,rock,Lava,0.8,55.0,4:4,75.0,151.0,20.0,50.0,medium fast,60,50,120,90,80,30,,,2.0,,,,agresorzy
+teddiursa,teddiursa,,,2,gold-silver,normal,,Little Bear,0.6,8.8,4:4,120.0,66.0,20.0,50.0,medium fast,60,80,50,50,50,40,,1.0,,,,,sredniaki
+ursaring,ursaring,,,2,gold-silver,normal,,Hibernator,1.8,125.8,4:4,60.0,175.0,20.0,50.0,medium fast,90,130,75,75,75,55,,2.0,,,,,sredniaki
+slugma,slugma,,,2,gold-silver,fire,,Lava,0.7,35.0,4:4,190.0,50.0,20.0,50.0,medium fast,40,40,40,70,40,20,,,,1.0,,,specjalni
+magcargo,magcargo,,,2,gold-silver,fire,rock,Lava,0.8,55.0,4:4,75.0,151.0,20.0,50.0,medium fast,60,50,120,90,80,30,,,2.0,,,,specjalni
 swinub,swinub,,,2,gold-silver,ice,ground,Pig,0.4,6.5,4:4,225.0,50.0,20.0,50.0,slow,50,50,40,30,30,50,,1.0,,,,,sredniaki
 piloswine,piloswine,,,2,gold-silver,ice,ground,Swine,1.1,55.8,4:4,75.0,158.0,20.0,50.0,slow,100,100,80,60,60,50,1.0,1.0,,,,,sredniaki
 corsola,corsola,,,2,gold-silver,water,rock,Coral,0.6,5.0,6:2,60.0,144.0,20.0,50.0,fast,65,55,95,65,95,35,,,1.0,,1.0,,sredniaki
@@ -295,82 +295,82 @@ houndoom-mega,houndoom,mega,Mega Houndoom,6,x-y,dark,fire,Dark,1.9,49.5,4:4,45.0
 kingdra,kingdra,,,2,gold-silver,water,dragon,Dragon,1.8,152.0,4:4,45.0,243.0,20.0,50.0,medium fast,75,95,95,95,95,85,,1.0,,1.0,1.0,,sredniaki
 phanpy,phanpy,,,2,gold-silver,ground,,Long Nose,0.5,33.5,4:4,120.0,66.0,20.0,50.0,medium fast,90,60,60,40,40,40,1.0,,,,,,grubole
 donphan,donphan,,,2,gold-silver,ground,,Armor,1.1,120.0,4:4,60.0,175.0,20.0,50.0,medium fast,90,120,120,60,60,50,,1.0,1.0,,,,grubole
-porygon2,porygon2,,,2,gold-silver,normal,,Virtual,0.6,32.5,genderless,45.0,180.0,20.0,50.0,medium fast,85,80,90,105,95,60,,,,2.0,,,grubole
-stantler,stantler,,,2,gold-silver,normal,,Big Horn,1.4,71.2,4:4,45.0,163.0,20.0,50.0,slow,73,95,62,85,65,85,,1.0,,,,,grubole
-smeargle,smeargle,,,2,gold-silver,normal,,Painter,1.2,58.0,4:4,45.0,88.0,20.0,50.0,fast,55,20,35,20,45,75,,,,,,1.0,grubole
+porygon2,porygon2,,,2,gold-silver,normal,,Virtual,0.6,32.5,genderless,45.0,180.0,20.0,50.0,medium fast,85,80,90,105,95,60,,,,2.0,,,sredniaki
+stantler,stantler,,,2,gold-silver,normal,,Big Horn,1.4,71.2,4:4,45.0,163.0,20.0,50.0,slow,73,95,62,85,65,85,,1.0,,,,,sredniaki
+smeargle,smeargle,,,2,gold-silver,normal,,Painter,1.2,58.0,4:4,45.0,88.0,20.0,50.0,fast,55,20,35,20,45,75,,,,,,1.0,sredniaki
 tyrogue,tyrogue,,,2,gold-silver,fighting,,Scuffle,0.7,21.0,0,75.0,42.0,25.0,50.0,medium fast,35,35,35,35,35,35,,1.0,,,,,agresorzy
 hitmontop,hitmontop,,,2,gold-silver,fighting,,Handstand,1.4,48.0,0,45.0,159.0,25.0,50.0,medium fast,50,95,95,35,110,70,,,,,2.0,,agresorzy
 smoochum,smoochum,,,2,gold-silver,ice,psychic,Kiss,0.4,6.0,8:0,45.0,61.0,25.0,50.0,medium fast,45,30,15,85,65,65,,,,1.0,,,sredniaki
 elekid,elekid,,,2,gold-silver,electric,,Electric,0.6,23.5,2:6,45.0,72.0,25.0,50.0,medium fast,45,63,37,65,55,95,,,,,,1.0,specjalni
-magby,magby,,,2,gold-silver,fire,,Live Coal,0.7,21.4,2:6,45.0,73.0,25.0,50.0,medium fast,45,75,37,70,55,83,,,,,,1.0,agresorzy
-miltank,miltank,,,2,gold-silver,normal,,Milk Cow,1.2,75.5,8:0,45.0,172.0,20.0,50.0,slow,95,80,105,40,70,100,,,2.0,,,,grubole
-blissey,blissey,,,2,gold-silver,normal,,Happiness,1.5,46.8,8:0,30.0,635.0,40.0,140.0,fast,255,10,10,75,135,55,3.0,,,,,,grubole
+magby,magby,,,2,gold-silver,fire,,Live Coal,0.7,21.4,2:6,45.0,73.0,25.0,50.0,medium fast,45,75,37,70,55,83,,,,,,1.0,specjalni
+miltank,miltank,,,2,gold-silver,normal,,Milk Cow,1.2,75.5,8:0,45.0,172.0,20.0,50.0,slow,95,80,105,40,70,100,,,2.0,,,,sredniaki
+blissey,blissey,,,2,gold-silver,normal,,Happiness,1.5,46.8,8:0,30.0,635.0,40.0,140.0,fast,255,10,10,75,135,55,3.0,,,,,,sredniaki
 raikou,raikou,,,2,gold-silver,electric,,Thunder,1.9,178.0,genderless,3.0,261.0,80.0,35.0,slow,90,85,75,115,100,115,,,,1.0,,2.0,specjalni
-entei,entei,,,2,gold-silver,fire,,Volcano,2.1,198.0,genderless,3.0,261.0,80.0,35.0,slow,115,115,85,90,75,100,1.0,2.0,,,,,agresorzy
+entei,entei,,,2,gold-silver,fire,,Volcano,2.1,198.0,genderless,3.0,261.0,80.0,35.0,slow,115,115,85,90,75,100,1.0,2.0,,,,,specjalni
 suicune,suicune,,,2,gold-silver,water,,Aurora,2.0,187.0,genderless,3.0,261.0,80.0,35.0,slow,100,75,115,90,115,85,,,1.0,,2.0,,sredniaki
 larvitar,larvitar,,,2,gold-silver,rock,ground,Rock Skin,0.6,72.0,4:4,45.0,60.0,40.0,35.0,slow,50,64,50,45,50,41,,1.0,,,,,grubole
 pupitar,pupitar,,,2,gold-silver,rock,ground,Hard Shell,1.2,152.0,4:4,45.0,144.0,40.0,35.0,slow,70,84,70,65,70,51,,2.0,,,,,grubole
 tyranitar,tyranitar,,,2,gold-silver,rock,dark,Armor,2.0,202.0,4:4,45.0,300.0,40.0,35.0,slow,100,134,110,95,100,61,,3.0,,,,,grubole
 tyranitar-mega,tyranitar,mega,Mega Tyranitar,6,x-y,rock,dark,Armor,2.5,255.0,4:4,45.0,315.0,40.0,35.0,slow,100,164,150,95,120,71,,3.0,,,,,grubole
 lugia,lugia,,,2,gold-silver,psychic,flying,Diving,5.2,216.0,genderless,3.0,306.0,120.0,0.0,slow,106,90,130,90,154,110,,,,,3.0,,specjalni
-ho-oh,ho-oh,,,2,gold-silver,fire,flying,Rainbow,3.8,199.0,genderless,3.0,306.0,120.0,0.0,slow,106,130,90,110,154,90,,,,,3.0,,agresorzy
+ho-oh,ho-oh,,,2,gold-silver,fire,flying,Rainbow,3.8,199.0,genderless,3.0,306.0,120.0,0.0,slow,106,130,90,110,154,90,,,,,3.0,,specjalni
 celebi,celebi,,,2,gold-silver,psychic,grass,Time Travel,0.6,5.0,genderless,45.0,270.0,120.0,100.0,medium slow,100,100,100,100,100,100,3.0,,,,,,specjalni
 treecko,treecko,,,3,ruby-sapphire,grass,,Wood Gecko,0.5,5.0,1:7,45.0,62.0,20.0,50.0,medium slow,40,45,35,65,55,70,,,,,,1.0,sredniaki
 grovyle,grovyle,,,3,ruby-sapphire,grass,,Wood Gecko,0.9,21.6,1:7,45.0,142.0,20.0,50.0,medium slow,50,65,45,85,65,95,,,,,,2.0,sredniaki
 sceptile,sceptile,,,3,ruby-sapphire,grass,,Forest,1.7,52.2,1:7,45.0,239.0,20.0,50.0,medium slow,70,85,65,105,85,120,,,,,,3.0,sredniaki
 sceptile-mega,sceptile,mega,Mega Sceptile,6,omega-ruby-alpha-sapphire,grass,dragon,Forest,1.9,55.2,1:7,45.0,284.0,20.0,50.0,medium slow,70,110,75,145,85,145,,,,,,3.0,sredniaki
-torchic,torchic,,,3,ruby-sapphire,fire,,Chick,0.4,2.5,1:7,45.0,62.0,20.0,50.0,medium slow,45,60,40,70,50,45,,,,1.0,,,agresorzy
-combusken,combusken,,,3,ruby-sapphire,fire,fighting,Young Fowl,0.9,19.5,1:7,45.0,142.0,20.0,50.0,medium slow,60,85,60,85,60,55,,1.0,,1.0,,,agresorzy
-blaziken,blaziken,,,3,ruby-sapphire,fire,fighting,Blaze,1.9,52.0,1:7,45.0,239.0,20.0,50.0,medium slow,80,120,70,110,70,80,,3.0,,,,,agresorzy
-blaziken-mega,blaziken,mega,Mega Blaziken,6,x-y,fire,fighting,Blaze,1.9,52.0,1:7,45.0,284.0,20.0,50.0,medium slow,80,160,80,130,80,100,,3.0,,,,,agresorzy
+torchic,torchic,,,3,ruby-sapphire,fire,,Chick,0.4,2.5,1:7,45.0,62.0,20.0,50.0,medium slow,45,60,40,70,50,45,,,,1.0,,,specjalni
+combusken,combusken,,,3,ruby-sapphire,fire,fighting,Young Fowl,0.9,19.5,1:7,45.0,142.0,20.0,50.0,medium slow,60,85,60,85,60,55,,1.0,,1.0,,,specjalni
+blaziken,blaziken,,,3,ruby-sapphire,fire,fighting,Blaze,1.9,52.0,1:7,45.0,239.0,20.0,50.0,medium slow,80,120,70,110,70,80,,3.0,,,,,specjalni
+blaziken-mega,blaziken,mega,Mega Blaziken,6,x-y,fire,fighting,Blaze,1.9,52.0,1:7,45.0,284.0,20.0,50.0,medium slow,80,160,80,130,80,100,,3.0,,,,,specjalni
 mudkip,mudkip,,,3,ruby-sapphire,water,,Mud Fish,0.4,7.6,1:7,45.0,62.0,20.0,50.0,medium slow,50,70,50,50,50,40,,1.0,,,,,sredniaki
 marshtomp,marshtomp,,,3,ruby-sapphire,water,ground,Mud Fish,0.7,28.0,1:7,45.0,142.0,20.0,50.0,medium slow,70,85,70,60,70,50,,2.0,,,,,sredniaki
 swampert,swampert,,,3,ruby-sapphire,water,ground,Mud Fish,1.5,81.9,1:7,45.0,241.0,20.0,50.0,medium slow,100,110,90,85,90,60,,3.0,,,,,sredniaki
 swampert-mega,swampert,mega,Mega Swampert,6,omega-ruby-alpha-sapphire,water,ground,Mud Fish,1.9,102.0,1:7,45.0,286.0,20.0,50.0,medium slow,100,150,110,95,110,70,,3.0,,,,,sredniaki
 poochyena,poochyena,,,3,ruby-sapphire,dark,,Bite,0.5,13.6,4:4,255.0,56.0,15.0,50.0,medium fast,35,55,35,30,30,35,,1.0,,,,,agresorzy
 mightyena,mightyena,,,3,ruby-sapphire,dark,,Bite,1.0,37.0,4:4,127.0,147.0,15.0,50.0,medium fast,70,90,70,60,60,70,,2.0,,,,,agresorzy
-zigzagoon,zigzagoon,,,3,ruby-sapphire,normal,,TinyRaccoon,0.4,17.5,4:4,255.0,56.0,15.0,50.0,medium fast,38,30,41,30,41,60,,,,,,1.0,grubole
+zigzagoon,zigzagoon,,,3,ruby-sapphire,normal,,TinyRaccoon,0.4,17.5,4:4,255.0,56.0,15.0,50.0,medium fast,38,30,41,30,41,60,,,,,,1.0,sredniaki
 zigzagoon-galarian,zigzagoon,galarian,Galarian Zigzagoon,8,sword-shield,dark,normal,Tiny Raccoon,0.4,17.5,4:4,255.0,56.0,15.0,50.0,medium fast,38,30,41,30,41,60,,,,,,1.0,agresorzy
-linoone,linoone,,,3,ruby-sapphire,normal,,Rushing,0.5,32.5,4:4,90.0,147.0,15.0,50.0,medium fast,78,70,61,50,61,100,,,,,,2.0,grubole
+linoone,linoone,,,3,ruby-sapphire,normal,,Rushing,0.5,32.5,4:4,90.0,147.0,15.0,50.0,medium fast,78,70,61,50,61,100,,,,,,2.0,sredniaki
 linoone-galarian,linoone,galarian,Galarian Linoone,8,sword-shield,dark,normal,Rushing,0.5,32.5,4:4,90.0,147.0,15.0,50.0,medium fast,78,70,61,50,61,100,,,,,,2.0,agresorzy
-wurmple,wurmple,,,3,ruby-sapphire,bug,,Worm,0.3,3.6,4:4,255.0,56.0,15.0,50.0,medium fast,45,45,35,20,30,20,1.0,,,,,,agresorzy
-silcoon,silcoon,,,3,ruby-sapphire,bug,,Cocoon,0.6,10.0,4:4,120.0,72.0,15.0,50.0,medium fast,50,35,55,25,25,15,,,2.0,,,,agresorzy
-beautifly,beautifly,,,3,ruby-sapphire,bug,flying,Butterfly,1.0,28.4,4:4,45.0,178.0,15.0,50.0,medium fast,60,70,50,100,50,65,,,,3.0,,,agresorzy
-cascoon,cascoon,,,3,ruby-sapphire,bug,,Cocoon,0.7,11.5,4:4,120.0,72.0,15.0,50.0,medium fast,50,35,55,25,25,15,,,2.0,,,,agresorzy
-dustox,dustox,,,3,ruby-sapphire,bug,poison,Poison Moth,1.2,31.6,4:4,45.0,173.0,15.0,50.0,medium fast,60,50,70,50,90,65,,,,,3.0,,agresorzy
+wurmple,wurmple,,,3,ruby-sapphire,bug,,Worm,0.3,3.6,4:4,255.0,56.0,15.0,50.0,medium fast,45,45,35,20,30,20,1.0,,,,,,sredniaki
+silcoon,silcoon,,,3,ruby-sapphire,bug,,Cocoon,0.6,10.0,4:4,120.0,72.0,15.0,50.0,medium fast,50,35,55,25,25,15,,,2.0,,,,sredniaki
+beautifly,beautifly,,,3,ruby-sapphire,bug,flying,Butterfly,1.0,28.4,4:4,45.0,178.0,15.0,50.0,medium fast,60,70,50,100,50,65,,,,3.0,,,sredniaki
+cascoon,cascoon,,,3,ruby-sapphire,bug,,Cocoon,0.7,11.5,4:4,120.0,72.0,15.0,50.0,medium fast,50,35,55,25,25,15,,,2.0,,,,sredniaki
+dustox,dustox,,,3,ruby-sapphire,bug,poison,Poison Moth,1.2,31.6,4:4,45.0,173.0,15.0,50.0,medium fast,60,50,70,50,90,65,,,,,3.0,,sredniaki
 lotad,lotad,,,3,ruby-sapphire,water,grass,Water Weed,0.5,2.6,4:4,255.0,44.0,15.0,50.0,medium slow,40,30,30,40,50,30,,,,,1.0,,sredniaki
 lombre,lombre,,,3,ruby-sapphire,water,grass,Jolly,1.2,32.5,4:4,120.0,119.0,15.0,50.0,medium slow,60,50,50,60,70,50,,,,,2.0,,sredniaki
 ludicolo,ludicolo,,,3,ruby-sapphire,water,grass,Carefree,1.5,55.0,4:4,45.0,216.0,15.0,50.0,medium slow,80,70,70,90,100,70,,,,,3.0,,sredniaki
 seedot,seedot,,,3,ruby-sapphire,grass,,Acorn,0.5,4.0,4:4,255.0,44.0,15.0,50.0,medium slow,40,40,50,30,30,30,,,1.0,,,,sredniaki
 nuzleaf,nuzleaf,,,3,ruby-sapphire,grass,dark,Wily,1.0,28.0,4:4,120.0,119.0,15.0,50.0,medium slow,70,70,40,60,40,60,,2.0,,,,,sredniaki
 shiftry,shiftry,,,3,ruby-sapphire,grass,dark,Wicked,1.3,59.6,4:4,45.0,216.0,15.0,50.0,medium slow,90,100,60,90,60,80,,3.0,,,,,sredniaki
-taillow,taillow,,,3,ruby-sapphire,normal,flying,TinySwallow,0.3,2.3,4:4,200.0,54.0,15.0,50.0,medium slow,40,55,30,30,30,85,,,,,,1.0,grubole
-swellow,swellow,,,3,ruby-sapphire,normal,flying,Swallow,0.7,19.8,4:4,45.0,159.0,15.0,50.0,medium slow,60,85,60,75,50,125,,,,,,2.0,grubole
+taillow,taillow,,,3,ruby-sapphire,normal,flying,TinySwallow,0.3,2.3,4:4,200.0,54.0,15.0,50.0,medium slow,40,55,30,30,30,85,,,,,,1.0,sredniaki
+swellow,swellow,,,3,ruby-sapphire,normal,flying,Swallow,0.7,19.8,4:4,45.0,159.0,15.0,50.0,medium slow,60,85,60,75,50,125,,,,,,2.0,sredniaki
 wingull,wingull,,,3,ruby-sapphire,water,flying,Seagull,0.6,9.5,4:4,190.0,54.0,20.0,50.0,medium fast,40,30,30,55,30,85,,,,,,1.0,sredniaki
 pelipper,pelipper,,,3,ruby-sapphire,water,flying,Water Bird,1.2,28.0,4:4,45.0,154.0,20.0,50.0,medium fast,60,50,100,95,70,65,,,2.0,,,,sredniaki
 ralts,ralts,,,3,ruby-sapphire,psychic,fairy,Feeling,0.4,6.6,4:4,235.0,40.0,20.0,35.0,slow,28,25,25,45,35,40,,,,1.0,,,specjalni
 kirlia,kirlia,,,3,ruby-sapphire,psychic,fairy,Emotion,0.8,20.2,4:4,120.0,97.0,20.0,35.0,slow,38,35,35,65,55,50,,,,2.0,,,specjalni
 gardevoir,gardevoir,,,3,ruby-sapphire,psychic,fairy,Embrace,1.6,48.4,4:4,45.0,259.0,20.0,35.0,slow,68,65,65,125,115,80,,,,3.0,,,specjalni
 gardevoir-mega,gardevoir,mega,Mega Gardevoir,6,x-y,psychic,fairy,Embrace,1.6,48.4,4:4,45.0,278.0,20.0,35.0,slow,68,85,65,165,135,100,,,,3.0,,,specjalni
-surskit,surskit,,,3,ruby-sapphire,bug,water,Pond Skater,0.5,1.7,4:4,200.0,54.0,15.0,50.0,medium fast,40,30,32,50,52,65,,,,,,1.0,agresorzy
-masquerain,masquerain,,,3,ruby-sapphire,bug,flying,Eyeball,0.8,3.6,4:4,75.0,159.0,15.0,50.0,medium fast,70,60,62,100,82,80,,,,1.0,1.0,,agresorzy
+surskit,surskit,,,3,ruby-sapphire,bug,water,Pond Skater,0.5,1.7,4:4,200.0,54.0,15.0,50.0,medium fast,40,30,32,50,52,65,,,,,,1.0,sredniaki
+masquerain,masquerain,,,3,ruby-sapphire,bug,flying,Eyeball,0.8,3.6,4:4,75.0,159.0,15.0,50.0,medium fast,70,60,62,100,82,80,,,,1.0,1.0,,sredniaki
 shroomish,shroomish,,,3,ruby-sapphire,grass,,Mushroom,0.4,4.5,4:4,255.0,59.0,15.0,50.0,fluctuating,60,40,60,40,60,35,1.0,,,,,,sredniaki
 breloom,breloom,,,3,ruby-sapphire,grass,fighting,Mushroom,1.2,39.2,4:4,90.0,161.0,15.0,50.0,fluctuating,60,130,80,60,60,70,,2.0,,,,,sredniaki
-slakoth,slakoth,,,3,ruby-sapphire,normal,,Slacker,0.8,24.0,4:4,255.0,56.0,15.0,50.0,slow,60,60,60,35,35,30,1.0,,,,,,grubole
-vigoroth,vigoroth,,,3,ruby-sapphire,normal,,Wild Monkey,1.4,46.5,4:4,120.0,154.0,15.0,50.0,slow,80,80,80,55,55,90,,,,,,2.0,grubole
-slaking,slaking,,,3,ruby-sapphire,normal,,Lazy,2.0,130.5,4:4,45.0,285.0,15.0,50.0,slow,150,160,100,95,65,100,3.0,,,,,,grubole
-nincada,nincada,,,3,ruby-sapphire,bug,ground,Trainee,0.5,5.5,4:4,255.0,53.0,15.0,50.0,erratic,31,45,90,30,30,40,,,1.0,,,,agresorzy
-ninjask,ninjask,,,3,ruby-sapphire,bug,flying,Ninja,0.8,12.0,4:4,120.0,160.0,15.0,50.0,erratic,61,90,45,50,50,160,,,,,,2.0,agresorzy
-shedinja,shedinja,,,3,ruby-sapphire,bug,ghost,Shed,0.8,1.2,genderless,45.0,83.0,15.0,50.0,erratic,1,90,45,30,30,40,2.0,,,,,,agresorzy
-whismur,whismur,,,3,ruby-sapphire,normal,,Whisper,0.6,16.3,4:4,190.0,48.0,20.0,50.0,medium slow,64,51,23,51,23,28,1.0,,,,,,grubole
-loudred,loudred,,,3,ruby-sapphire,normal,,Big Voice,1.0,40.5,4:4,120.0,126.0,20.0,50.0,medium slow,84,71,43,71,43,48,2.0,,,,,,grubole
-exploud,exploud,,,3,ruby-sapphire,normal,,Loud Noise,1.5,84.0,4:4,45.0,221.0,20.0,50.0,medium slow,104,91,63,91,73,68,3.0,,,,,,grubole
+slakoth,slakoth,,,3,ruby-sapphire,normal,,Slacker,0.8,24.0,4:4,255.0,56.0,15.0,50.0,slow,60,60,60,35,35,30,1.0,,,,,,sredniaki
+vigoroth,vigoroth,,,3,ruby-sapphire,normal,,Wild Monkey,1.4,46.5,4:4,120.0,154.0,15.0,50.0,slow,80,80,80,55,55,90,,,,,,2.0,sredniaki
+slaking,slaking,,,3,ruby-sapphire,normal,,Lazy,2.0,130.5,4:4,45.0,285.0,15.0,50.0,slow,150,160,100,95,65,100,3.0,,,,,,sredniaki
+nincada,nincada,,,3,ruby-sapphire,bug,ground,Trainee,0.5,5.5,4:4,255.0,53.0,15.0,50.0,erratic,31,45,90,30,30,40,,,1.0,,,,sredniaki
+ninjask,ninjask,,,3,ruby-sapphire,bug,flying,Ninja,0.8,12.0,4:4,120.0,160.0,15.0,50.0,erratic,61,90,45,50,50,160,,,,,,2.0,sredniaki
+shedinja,shedinja,,,3,ruby-sapphire,bug,ghost,Shed,0.8,1.2,genderless,45.0,83.0,15.0,50.0,erratic,1,90,45,30,30,40,2.0,,,,,,sredniaki
+whismur,whismur,,,3,ruby-sapphire,normal,,Whisper,0.6,16.3,4:4,190.0,48.0,20.0,50.0,medium slow,64,51,23,51,23,28,1.0,,,,,,sredniaki
+loudred,loudred,,,3,ruby-sapphire,normal,,Big Voice,1.0,40.5,4:4,120.0,126.0,20.0,50.0,medium slow,84,71,43,71,43,48,2.0,,,,,,sredniaki
+exploud,exploud,,,3,ruby-sapphire,normal,,Loud Noise,1.5,84.0,4:4,45.0,221.0,20.0,50.0,medium slow,104,91,63,91,73,68,3.0,,,,,,sredniaki
 makuhita,makuhita,,,3,ruby-sapphire,fighting,,Guts,1.0,86.4,2:6,180.0,47.0,20.0,50.0,fluctuating,72,60,30,20,30,25,1.0,,,,,,agresorzy
 hariyama,hariyama,,,3,ruby-sapphire,fighting,,Arm Thrust,2.3,253.8,2:6,200.0,166.0,20.0,50.0,fluctuating,144,120,60,40,60,50,2.0,,,,,,agresorzy
-azurill,azurill,,,3,ruby-sapphire,normal,fairy,Polka Dot,0.2,2.0,6:2,150.0,38.0,10.0,50.0,fast,50,20,40,20,40,20,1.0,,,,,,grubole
+azurill,azurill,,,3,ruby-sapphire,normal,fairy,Polka Dot,0.2,2.0,6:2,150.0,38.0,10.0,50.0,fast,50,20,40,20,40,20,1.0,,,,,,sredniaki
 nosepass,nosepass,,,3,ruby-sapphire,rock,,Compass,1.0,97.0,4:4,255.0,75.0,20.0,50.0,medium fast,30,45,135,45,90,30,,,1.0,,,,grubole
-skitty,skitty,,,3,ruby-sapphire,normal,,Kitten,0.6,11.0,6:2,255.0,52.0,15.0,50.0,fast,50,45,45,35,35,50,,,,,,1.0,grubole
-delcatty,delcatty,,,3,ruby-sapphire,normal,,Prim,1.1,32.6,6:2,60.0,140.0,15.0,50.0,fast,70,65,65,55,55,90,1.0,,,,,1.0,grubole
+skitty,skitty,,,3,ruby-sapphire,normal,,Kitten,0.6,11.0,6:2,255.0,52.0,15.0,50.0,fast,50,45,45,35,35,50,,,,,,1.0,sredniaki
+delcatty,delcatty,,,3,ruby-sapphire,normal,,Prim,1.1,32.6,6:2,60.0,140.0,15.0,50.0,fast,70,65,65,55,55,90,1.0,,,,,1.0,sredniaki
 sableye,sableye,,,3,ruby-sapphire,dark,ghost,Darkness,0.5,11.0,4:4,45.0,133.0,25.0,35.0,medium slow,50,75,75,65,65,50,,1.0,1.0,,,,agresorzy
 sableye-mega,sableye,mega,Mega Sableye,6,omega-ruby-alpha-sapphire,dark,ghost,Darkness,0.5,161.0,4:4,45.0,168.0,25.0,35.0,medium slow,50,85,125,85,115,20,,1.0,1.0,,,,agresorzy
 mawile,mawile,,,3,ruby-sapphire,steel,fairy,Deceiver,0.6,11.5,4:4,45.0,133.0,20.0,50.0,fast,50,85,85,55,55,50,,1.0,1.0,,,,grubole
@@ -387,8 +387,8 @@ manectric,manectric,,,3,ruby-sapphire,electric,,Discharge,1.5,40.2,4:4,45.0,166.
 manectric-mega,manectric,mega,Mega Manectric,6,x-y,electric,,Discharge,1.8,44.0,4:4,45.0,201.0,20.0,50.0,slow,70,75,80,135,80,135,,,,,,2.0,specjalni
 plusle,plusle,,,3,ruby-sapphire,electric,,Cheering,0.4,4.2,4:4,200.0,142.0,20.0,50.0,medium fast,60,50,40,85,75,95,,,,,,1.0,specjalni
 minun,minun,,,3,ruby-sapphire,electric,,Cheering,0.4,4.2,4:4,200.0,142.0,20.0,50.0,medium fast,60,40,50,75,85,95,,,,,,1.0,specjalni
-volbeat,volbeat,,,3,ruby-sapphire,bug,,Firefly,0.7,17.7,0,150.0,151.0,15.0,50.0,erratic,65,73,75,47,85,85,,,,,,1.0,agresorzy
-illumise,illumise,,,3,ruby-sapphire,bug,,Firefly,0.6,17.7,8:0,150.0,151.0,15.0,50.0,fluctuating,65,47,75,73,85,85,,,,,,1.0,agresorzy
+volbeat,volbeat,,,3,ruby-sapphire,bug,,Firefly,0.7,17.7,0,150.0,151.0,15.0,50.0,erratic,65,73,75,47,85,85,,,,,,1.0,sredniaki
+illumise,illumise,,,3,ruby-sapphire,bug,,Firefly,0.6,17.7,8:0,150.0,151.0,15.0,50.0,fluctuating,65,47,75,73,85,85,,,,,,1.0,sredniaki
 roselia,roselia,,,3,ruby-sapphire,grass,poison,Thorn,0.3,2.0,4:4,150.0,140.0,20.0,50.0,medium slow,50,60,45,100,80,65,,,,2.0,,,sredniaki
 gulpin,gulpin,,,3,ruby-sapphire,poison,,Stomach,0.4,10.3,4:4,225.0,60.0,20.0,50.0,fluctuating,70,43,53,43,53,40,1.0,,,,,,sredniaki
 swalot,swalot,,,3,ruby-sapphire,poison,,Poison Bag,1.7,80.0,4:4,75.0,163.0,20.0,50.0,fluctuating,100,73,83,73,83,55,2.0,,,,,,sredniaki
@@ -397,22 +397,22 @@ sharpedo,sharpedo,,,3,ruby-sapphire,water,dark,Brutal,1.8,88.8,4:4,60.0,161.0,20
 sharpedo-mega,sharpedo,mega,Mega Sharpedo,6,omega-ruby-alpha-sapphire,water,dark,Brutal,2.5,130.3,4:4,60.0,196.0,20.0,35.0,slow,70,140,70,110,65,105,,2.0,,,,,sredniaki
 wailmer,wailmer,,,3,ruby-sapphire,water,,Ball Whale,2.0,130.0,4:4,125.0,80.0,40.0,50.0,fluctuating,130,70,35,70,35,60,1.0,,,,,,sredniaki
 wailord,wailord,,,3,ruby-sapphire,water,,Float Whale,14.5,398.0,4:4,60.0,175.0,40.0,50.0,fluctuating,170,90,45,90,45,60,2.0,,,,,,sredniaki
-numel,numel,,,3,ruby-sapphire,fire,ground,Numb,0.7,24.0,4:4,255.0,61.0,20.0,50.0,medium fast,60,60,40,65,45,35,,,,1.0,,,agresorzy
-camerupt,camerupt,,,3,ruby-sapphire,fire,ground,Eruption,1.9,220.0,4:4,150.0,161.0,20.0,50.0,medium fast,70,100,70,105,75,40,,1.0,,1.0,,,agresorzy
-camerupt-mega,camerupt,mega,Mega Camerupt,6,omega-ruby-alpha-sapphire,fire,ground,Eruption,2.5,320.5,4:4,150.0,196.0,20.0,50.0,medium fast,70,120,100,145,105,20,,1.0,,1.0,,,agresorzy
-torkoal,torkoal,,,3,ruby-sapphire,fire,,Coal,0.5,80.4,4:4,90.0,165.0,20.0,50.0,medium fast,70,85,140,85,70,20,,,2.0,,,,agresorzy
+numel,numel,,,3,ruby-sapphire,fire,ground,Numb,0.7,24.0,4:4,255.0,61.0,20.0,50.0,medium fast,60,60,40,65,45,35,,,,1.0,,,specjalni
+camerupt,camerupt,,,3,ruby-sapphire,fire,ground,Eruption,1.9,220.0,4:4,150.0,161.0,20.0,50.0,medium fast,70,100,70,105,75,40,,1.0,,1.0,,,specjalni
+camerupt-mega,camerupt,mega,Mega Camerupt,6,omega-ruby-alpha-sapphire,fire,ground,Eruption,2.5,320.5,4:4,150.0,196.0,20.0,50.0,medium fast,70,120,100,145,105,20,,1.0,,1.0,,,specjalni
+torkoal,torkoal,,,3,ruby-sapphire,fire,,Coal,0.5,80.4,4:4,90.0,165.0,20.0,50.0,medium fast,70,85,140,85,70,20,,,2.0,,,,specjalni
 spoink,spoink,,,3,ruby-sapphire,psychic,,Bounce,0.7,30.6,4:4,255.0,66.0,20.0,50.0,fast,60,25,35,70,80,60,,,,,1.0,,specjalni
 grumpig,grumpig,,,3,ruby-sapphire,psychic,,Manipulate,0.9,71.5,4:4,60.0,165.0,20.0,50.0,fast,80,45,65,90,110,80,,,,,2.0,,specjalni
-spinda,spinda,,,3,ruby-sapphire,normal,,Spot Panda,1.1,5.0,4:4,255.0,126.0,15.0,50.0,fast,60,60,60,60,60,60,,,,1.0,,,grubole
+spinda,spinda,,,3,ruby-sapphire,normal,,Spot Panda,1.1,5.0,4:4,255.0,126.0,15.0,50.0,fast,60,60,60,60,60,60,,,,1.0,,,sredniaki
 trapinch,trapinch,,,3,ruby-sapphire,ground,,Ant Pit,0.7,15.0,4:4,255.0,58.0,20.0,50.0,medium slow,45,100,45,45,45,10,,1.0,,,,,grubole
 vibrava,vibrava,,,3,ruby-sapphire,ground,dragon,Vibration,1.1,15.3,4:4,120.0,119.0,20.0,50.0,medium slow,50,70,50,50,50,70,,1.0,,,,1.0,grubole
 flygon,flygon,,,3,ruby-sapphire,ground,dragon,Mystic,2.0,82.0,4:4,45.0,234.0,20.0,50.0,medium slow,80,100,80,80,80,100,,1.0,,,,2.0,grubole
 cacnea,cacnea,,,3,ruby-sapphire,grass,,Cactus,0.4,51.3,4:4,190.0,67.0,20.0,35.0,medium slow,50,85,40,85,40,35,,,,1.0,,,sredniaki
 cacturne,cacturne,,,3,ruby-sapphire,grass,dark,Scarecrow,1.3,77.4,4:4,60.0,166.0,20.0,35.0,medium slow,70,115,60,115,60,55,,1.0,,1.0,,,sredniaki
-swablu,swablu,,,3,ruby-sapphire,normal,flying,Cotton Bird,0.4,1.2,4:4,255.0,62.0,20.0,50.0,erratic,45,40,60,40,75,50,,,,,1.0,,grubole
-altaria,altaria,,,3,ruby-sapphire,dragon,flying,Humming,1.1,20.6,4:4,45.0,172.0,20.0,50.0,erratic,75,70,90,70,105,80,,,,,2.0,,sredniaki
-altaria-mega,altaria,mega,Mega Altaria,6,omega-ruby-alpha-sapphire,dragon,fairy,Humming,1.5,20.6,4:4,45.0,207.0,20.0,50.0,erratic,75,110,110,110,105,80,,,,,2.0,,sredniaki
-zangoose,zangoose,,,3,ruby-sapphire,normal,,Cat Ferret,1.3,40.3,4:4,90.0,160.0,20.0,50.0,erratic,73,115,60,60,60,90,,2.0,,,,,grubole
+swablu,swablu,,,3,ruby-sapphire,normal,flying,Cotton Bird,0.4,1.2,4:4,255.0,62.0,20.0,50.0,erratic,45,40,60,40,75,50,,,,,1.0,,sredniaki
+altaria,altaria,,,3,ruby-sapphire,dragon,flying,Humming,1.1,20.6,4:4,45.0,172.0,20.0,50.0,erratic,75,70,90,70,105,80,,,,,2.0,,elita
+altaria-mega,altaria,mega,Mega Altaria,6,omega-ruby-alpha-sapphire,dragon,fairy,Humming,1.5,20.6,4:4,45.0,207.0,20.0,50.0,erratic,75,110,110,110,105,80,,,,,2.0,,elita
+zangoose,zangoose,,,3,ruby-sapphire,normal,,Cat Ferret,1.3,40.3,4:4,90.0,160.0,20.0,50.0,erratic,73,115,60,60,60,90,,2.0,,,,,sredniaki
 seviper,seviper,,,3,ruby-sapphire,poison,,Fang Snake,2.7,52.5,4:4,90.0,160.0,20.0,50.0,fluctuating,73,100,60,100,60,65,,1.0,,1.0,,,sredniaki
 lunatone,lunatone,,,3,ruby-sapphire,rock,psychic,Meteorite,1.0,168.0,genderless,45.0,161.0,25.0,50.0,fast,90,55,65,95,85,70,,,,2.0,,,grubole
 solrock,solrock,,,3,ruby-sapphire,rock,psychic,Meteorite,1.2,154.0,genderless,45.0,161.0,25.0,50.0,fast,90,95,85,55,65,70,,2.0,,,,,grubole
@@ -428,11 +428,11 @@ anorith,anorith,,,3,ruby-sapphire,rock,bug,Old Shrimp,0.7,12.5,1:7,45.0,71.0,30.
 armaldo,armaldo,,,3,ruby-sapphire,rock,bug,Plate,1.5,68.2,1:7,45.0,173.0,30.0,50.0,erratic,75,125,100,70,80,45,,2.0,,,,,grubole
 feebas,feebas,,,3,ruby-sapphire,water,,Fish,0.6,7.4,4:4,255.0,40.0,20.0,50.0,erratic,20,15,20,10,55,80,,,,,,1.0,sredniaki
 milotic,milotic,,,3,ruby-sapphire,water,,Tender,6.2,162.0,4:4,60.0,189.0,20.0,50.0,erratic,95,60,79,100,125,81,,,,,2.0,,sredniaki
-castform,castform,,,3,ruby-sapphire,normal,,Weather,0.3,0.8,4:4,45.0,147.0,25.0,50.0,medium fast,70,70,70,70,70,70,1.0,,,,,,grubole
-castform-sunny,castform,sunny,Sunny Form,3,ruby-sapphire,fire,,Weather,0.3,0.8,4:4,45.0,147.0,25.0,50.0,medium fast,70,70,70,70,70,70,1.0,,,,,,agresorzy
+castform,castform,,,3,ruby-sapphire,normal,,Weather,0.3,0.8,4:4,45.0,147.0,25.0,50.0,medium fast,70,70,70,70,70,70,1.0,,,,,,sredniaki
+castform-sunny,castform,sunny,Sunny Form,3,ruby-sapphire,fire,,Weather,0.3,0.8,4:4,45.0,147.0,25.0,50.0,medium fast,70,70,70,70,70,70,1.0,,,,,,specjalni
 castform-rainy,castform,rainy,Rainy Form,3,ruby-sapphire,water,,Weather,0.3,0.8,4:4,45.0,147.0,25.0,50.0,medium fast,70,70,70,70,70,70,1.0,,,,,,sredniaki
 castform-snowy,castform,snowy,Snowy Form,3,ruby-sapphire,ice,,Weather,0.3,0.8,4:4,45.0,147.0,25.0,50.0,medium fast,70,70,70,70,70,70,1.0,,,,,,sredniaki
-kecleon,kecleon,,,3,ruby-sapphire,normal,,Color Swap,1.0,22.0,4:4,200.0,154.0,20.0,50.0,medium slow,60,90,70,60,120,40,,,,,1.0,,grubole
+kecleon,kecleon,,,3,ruby-sapphire,normal,,Color Swap,1.0,22.0,4:4,200.0,154.0,20.0,50.0,medium slow,60,90,70,60,120,40,,,,,1.0,,sredniaki
 shuppet,shuppet,,,3,ruby-sapphire,ghost,,Puppet,0.6,2.3,4:4,225.0,59.0,25.0,35.0,fast,44,75,35,63,33,45,,1.0,,,,,specjalni
 banette,banette,,,3,ruby-sapphire,ghost,,Marionette,1.1,12.5,4:4,45.0,159.0,25.0,35.0,fast,64,115,65,83,63,65,,2.0,,,,,specjalni
 banette-mega,banette,mega,Mega Banette,6,x-y,ghost,,Marionette,1.2,13.0,4:4,45.0,194.0,25.0,35.0,fast,64,165,75,93,83,75,,2.0,,,,,specjalni
@@ -454,10 +454,10 @@ huntail,huntail,,,3,ruby-sapphire,water,,Deep Sea,1.7,27.0,4:4,60.0,170.0,20.0,5
 gorebyss,gorebyss,,,3,ruby-sapphire,water,,South Sea,1.8,22.6,4:4,60.0,170.0,20.0,50.0,erratic,55,84,105,114,75,52,,,,2.0,,,sredniaki
 relicanth,relicanth,,,3,ruby-sapphire,water,rock,Longevity,1.0,23.4,1:7,25.0,170.0,40.0,50.0,slow,100,90,130,45,65,55,1.0,,1.0,,,,sredniaki
 luvdisc,luvdisc,,,3,ruby-sapphire,water,,Rendezvous,0.6,8.7,6:2,225.0,116.0,20.0,50.0,fast,43,30,55,40,65,97,,,,,,1.0,sredniaki
-bagon,bagon,,,3,ruby-sapphire,dragon,,Rock Head,0.6,42.1,4:4,45.0,60.0,40.0,35.0,slow,45,75,60,40,30,50,,1.0,,,,,sredniaki
-shelgon,shelgon,,,3,ruby-sapphire,dragon,,Endurance,1.1,110.5,4:4,45.0,147.0,40.0,35.0,slow,65,95,100,60,50,50,,,2.0,,,,sredniaki
-salamence,salamence,,,3,ruby-sapphire,dragon,flying,Dragon,1.5,102.6,4:4,45.0,300.0,40.0,35.0,slow,95,135,80,110,80,100,,3.0,,,,,sredniaki
-salamence-mega,salamence,mega,Mega Salamence,6,omega-ruby-alpha-sapphire,dragon,flying,Dragon,1.8,112.6,4:4,45.0,315.0,40.0,35.0,slow,95,145,130,120,90,120,,3.0,,,,,sredniaki
+bagon,bagon,,,3,ruby-sapphire,dragon,,Rock Head,0.6,42.1,4:4,45.0,60.0,40.0,35.0,slow,45,75,60,40,30,50,,1.0,,,,,elita
+shelgon,shelgon,,,3,ruby-sapphire,dragon,,Endurance,1.1,110.5,4:4,45.0,147.0,40.0,35.0,slow,65,95,100,60,50,50,,,2.0,,,,elita
+salamence,salamence,,,3,ruby-sapphire,dragon,flying,Dragon,1.5,102.6,4:4,45.0,300.0,40.0,35.0,slow,95,135,80,110,80,100,,3.0,,,,,elita
+salamence-mega,salamence,mega,Mega Salamence,6,omega-ruby-alpha-sapphire,dragon,flying,Dragon,1.8,112.6,4:4,45.0,315.0,40.0,35.0,slow,95,145,130,120,90,120,,3.0,,,,,elita
 beldum,beldum,,,3,ruby-sapphire,steel,psychic,Iron Ball,0.6,95.2,genderless,3.0,60.0,40.0,35.0,slow,40,55,80,35,60,30,,,1.0,,,,grubole
 metang,metang,,,3,ruby-sapphire,steel,psychic,Iron Claw,1.2,202.5,genderless,3.0,147.0,40.0,35.0,slow,60,75,100,55,80,50,,,2.0,,,,grubole
 metagross,metagross,,,3,ruby-sapphire,steel,psychic,Iron Leg,1.6,550.0,genderless,3.0,270.0,40.0,35.0,slow,80,135,130,95,90,70,,,3.0,,,,grubole
@@ -465,16 +465,16 @@ metagross-mega,metagross,mega,Mega Metagross,6,omega-ruby-alpha-sapphire,steel,p
 regirock,regirock,,,3,ruby-sapphire,rock,,Rock Peak,1.7,230.0,genderless,3.0,261.0,80.0,35.0,slow,80,100,200,50,100,50,,,3.0,,,,grubole
 regice,regice,,,3,ruby-sapphire,ice,,Iceberg,1.8,175.0,genderless,3.0,261.0,80.0,35.0,slow,80,50,100,100,200,50,,,,,3.0,,sredniaki
 registeel,registeel,,,3,ruby-sapphire,steel,,Iron,1.9,205.0,genderless,3.0,261.0,80.0,35.0,slow,80,75,150,75,150,50,,,2.0,,1.0,,grubole
-latias,latias,,,3,ruby-sapphire,dragon,psychic,Eon,1.4,40.0,8:0,3.0,270.0,120.0,90.0,slow,80,80,90,110,130,110,,,,,3.0,,sredniaki
-latias-mega,latias,mega,Mega Latias,6,omega-ruby-alpha-sapphire,dragon,psychic,Eon,1.8,52.0,8:0,3.0,315.0,120.0,90.0,slow,80,100,120,140,150,110,,,,,3.0,,sredniaki
-latios,latios,,,3,ruby-sapphire,dragon,psychic,Eon,2.0,60.0,0,3.0,270.0,120.0,90.0,slow,80,90,80,130,110,110,,,,3.0,,,sredniaki
-latios-mega,latios,mega,Mega Latios,6,omega-ruby-alpha-sapphire,dragon,psychic,Eon,2.3,70.0,0,3.0,315.0,120.0,90.0,slow,80,130,100,160,120,110,,,,3.0,,,sredniaki
+latias,latias,,,3,ruby-sapphire,dragon,psychic,Eon,1.4,40.0,8:0,3.0,270.0,120.0,90.0,slow,80,80,90,110,130,110,,,,,3.0,,elita
+latias-mega,latias,mega,Mega Latias,6,omega-ruby-alpha-sapphire,dragon,psychic,Eon,1.8,52.0,8:0,3.0,315.0,120.0,90.0,slow,80,100,120,140,150,110,,,,,3.0,,elita
+latios,latios,,,3,ruby-sapphire,dragon,psychic,Eon,2.0,60.0,0,3.0,270.0,120.0,90.0,slow,80,90,80,130,110,110,,,,3.0,,,elita
+latios-mega,latios,mega,Mega Latios,6,omega-ruby-alpha-sapphire,dragon,psychic,Eon,2.3,70.0,0,3.0,315.0,120.0,90.0,slow,80,130,100,160,120,110,,,,3.0,,,elita
 kyogre,kyogre,,,3,ruby-sapphire,water,,Sea Basin,4.5,352.0,genderless,3.0,335.0,120.0,0.0,slow,100,100,90,150,140,90,,,,3.0,,,sredniaki
 kyogre-primal,kyogre,primal,Primal Kyogre,6,omega-ruby-alpha-sapphire,water,,Sea Basin,9.8,430.0,genderless,5.0,347.0,120.0,0.0,slow,100,150,90,180,160,90,,,,3.0,,,sredniaki
 groudon,groudon,,,3,ruby-sapphire,ground,,Continent,3.5,950.0,genderless,3.0,335.0,120.0,0.0,slow,100,150,140,100,90,90,,3.0,,,,,grubole
 groudon-primal,groudon,primal,Primal Groudon,6,omega-ruby-alpha-sapphire,ground,fire,Continent,5.0,999.7,genderless,5.0,347.0,120.0,0.0,slow,100,180,160,150,90,90,,3.0,,,,,grubole
-rayquaza,rayquaza,,,3,ruby-sapphire,dragon,flying,Sky High,7.0,206.5,genderless,45.0,340.0,120.0,0.0,slow,105,150,90,150,90,95,,2.0,,1.0,,,sredniaki
-rayquaza-mega,rayquaza,mega,Mega Rayquaza,6,omega-ruby-alpha-sapphire,dragon,flying,Sky High,10.8,392.0,genderless,3.0,351.0,120.0,0.0,slow,105,180,100,180,100,115,,2.0,,1.0,,,sredniaki
+rayquaza,rayquaza,,,3,ruby-sapphire,dragon,flying,Sky High,7.0,206.5,genderless,45.0,340.0,120.0,0.0,slow,105,150,90,150,90,95,,2.0,,1.0,,,elita
+rayquaza-mega,rayquaza,mega,Mega Rayquaza,6,omega-ruby-alpha-sapphire,dragon,flying,Sky High,10.8,392.0,genderless,3.0,351.0,120.0,0.0,slow,105,180,100,180,100,115,,2.0,,1.0,,,elita
 jirachi,jirachi,,,3,ruby-sapphire,steel,psychic,Wish,0.3,1.1,genderless,3.0,270.0,120.0,100.0,slow,100,100,100,100,100,100,3.0,,,,,,grubole
 deoxys-normal,deoxys,normal,Normal Forme,3,ruby-sapphire,psychic,,DNA,1.7,60.8,genderless,3.0,270.0,120.0,0.0,slow,50,150,50,150,50,150,,1.0,,1.0,,1.0,specjalni
 deoxys-attack,deoxys,attack,Attack Forme,3,ruby-sapphire,psychic,,DNA,1.7,60.8,genderless,3.0,270.0,120.0,0.0,slow,50,180,20,180,20,150,,2.0,,1.0,,,specjalni
@@ -483,19 +483,19 @@ deoxys-speed,deoxys,speed,Speed Forme,3,ruby-sapphire,psychic,,DNA,1.7,60.8,gend
 turtwig,turtwig,,,4,diamond-pearl,grass,,Tiny Leaf,0.4,10.2,1:7,45.0,64.0,20.0,50.0,medium slow,55,68,64,45,55,31,,1.0,,,,,sredniaki
 grotle,grotle,,,4,diamond-pearl,grass,,Grove,1.1,97.0,1:7,45.0,142.0,20.0,50.0,medium slow,75,89,85,55,65,36,,1.0,1.0,,,,sredniaki
 torterra,torterra,,,4,diamond-pearl,grass,ground,Continent,2.2,310.0,1:7,45.0,236.0,20.0,50.0,medium slow,95,109,105,75,85,56,,2.0,1.0,,,,sredniaki
-chimchar,chimchar,,,4,diamond-pearl,fire,,Chimp,0.5,6.2,1:7,45.0,62.0,20.0,50.0,medium slow,44,58,44,58,44,61,,,,,,1.0,agresorzy
-monferno,monferno,,,4,diamond-pearl,fire,fighting,Playful,0.9,22.0,1:7,45.0,142.0,20.0,50.0,medium slow,64,78,52,78,52,81,,,,1.0,,1.0,agresorzy
-infernape,infernape,,,4,diamond-pearl,fire,fighting,Flame,1.2,55.0,1:7,45.0,240.0,20.0,50.0,medium slow,76,104,71,104,71,108,,1.0,,1.0,,1.0,agresorzy
+chimchar,chimchar,,,4,diamond-pearl,fire,,Chimp,0.5,6.2,1:7,45.0,62.0,20.0,50.0,medium slow,44,58,44,58,44,61,,,,,,1.0,specjalni
+monferno,monferno,,,4,diamond-pearl,fire,fighting,Playful,0.9,22.0,1:7,45.0,142.0,20.0,50.0,medium slow,64,78,52,78,52,81,,,,1.0,,1.0,specjalni
+infernape,infernape,,,4,diamond-pearl,fire,fighting,Flame,1.2,55.0,1:7,45.0,240.0,20.0,50.0,medium slow,76,104,71,104,71,108,,1.0,,1.0,,1.0,specjalni
 piplup,piplup,,,4,diamond-pearl,water,,Penguin,0.4,5.2,1:7,45.0,63.0,20.0,50.0,medium slow,53,51,53,61,56,40,,,,1.0,,,sredniaki
 prinplup,prinplup,,,4,diamond-pearl,water,,Penguin,0.8,23.0,1:7,45.0,142.0,20.0,50.0,medium slow,64,66,68,81,76,50,,,,2.0,,,sredniaki
 empoleon,empoleon,,,4,diamond-pearl,water,steel,Emperor,1.7,84.5,1:7,45.0,239.0,20.0,50.0,medium slow,84,86,88,111,101,60,,,,3.0,,,sredniaki
-starly,starly,,,4,diamond-pearl,normal,flying,Starling,0.3,2.0,4:4,255.0,49.0,15.0,50.0,medium slow,40,55,30,30,30,60,,,,,,1.0,grubole
-staravia,staravia,,,4,diamond-pearl,normal,flying,Starling,0.6,15.5,4:4,120.0,119.0,15.0,50.0,medium slow,55,75,50,40,40,80,,,,,,2.0,grubole
-staraptor,staraptor,,,4,diamond-pearl,normal,flying,Predator,1.2,24.9,4:4,45.0,243.0,15.0,50.0,medium slow,85,120,70,50,60,100,,3.0,,,,,grubole
-bidoof,bidoof,,,4,diamond-pearl,normal,,Plump Mouse,0.5,20.0,4:4,255.0,50.0,15.0,50.0,medium fast,59,45,40,35,40,31,1.0,,,,,,grubole
-bibarel,bibarel,,,4,diamond-pearl,normal,water,Beaver,1.0,31.5,4:4,127.0,144.0,15.0,50.0,medium fast,79,85,60,55,60,71,,2.0,,,,,grubole
-kricketot,kricketot,,,4,diamond-pearl,bug,,Cricket,0.3,2.2,4:4,255.0,39.0,15.0,50.0,medium slow,37,25,41,25,41,25,,,1.0,,,,agresorzy
-kricketune,kricketune,,,4,diamond-pearl,bug,,Cricket,1.0,25.5,4:4,45.0,134.0,15.0,50.0,medium slow,77,85,51,55,51,65,,2.0,,,,,agresorzy
+starly,starly,,,4,diamond-pearl,normal,flying,Starling,0.3,2.0,4:4,255.0,49.0,15.0,50.0,medium slow,40,55,30,30,30,60,,,,,,1.0,sredniaki
+staravia,staravia,,,4,diamond-pearl,normal,flying,Starling,0.6,15.5,4:4,120.0,119.0,15.0,50.0,medium slow,55,75,50,40,40,80,,,,,,2.0,sredniaki
+staraptor,staraptor,,,4,diamond-pearl,normal,flying,Predator,1.2,24.9,4:4,45.0,243.0,15.0,50.0,medium slow,85,120,70,50,60,100,,3.0,,,,,sredniaki
+bidoof,bidoof,,,4,diamond-pearl,normal,,Plump Mouse,0.5,20.0,4:4,255.0,50.0,15.0,50.0,medium fast,59,45,40,35,40,31,1.0,,,,,,sredniaki
+bibarel,bibarel,,,4,diamond-pearl,normal,water,Beaver,1.0,31.5,4:4,127.0,144.0,15.0,50.0,medium fast,79,85,60,55,60,71,,2.0,,,,,sredniaki
+kricketot,kricketot,,,4,diamond-pearl,bug,,Cricket,0.3,2.2,4:4,255.0,39.0,15.0,50.0,medium slow,37,25,41,25,41,25,,,1.0,,,,sredniaki
+kricketune,kricketune,,,4,diamond-pearl,bug,,Cricket,1.0,25.5,4:4,45.0,134.0,15.0,50.0,medium slow,77,85,51,55,51,65,,2.0,,,,,sredniaki
 shinx,shinx,,,4,diamond-pearl,electric,,Flash,0.5,9.5,4:4,235.0,53.0,20.0,50.0,medium slow,45,65,34,40,34,45,,1.0,,,,,specjalni
 luxio,luxio,,,4,diamond-pearl,electric,,Spark,0.9,30.5,4:4,120.0,127.0,20.0,100.0,medium slow,60,85,49,60,49,60,,2.0,,,,,specjalni
 luxray,luxray,,,4,diamond-pearl,electric,,Gleam Eyes,1.4,42.0,4:4,45.0,262.0,20.0,50.0,medium slow,80,120,79,95,79,70,,3.0,,,,,specjalni
@@ -505,15 +505,15 @@ cranidos,cranidos,,,4,diamond-pearl,rock,,Head Butt,0.9,31.5,1:7,45.0,70.0,30.0,
 rampardos,rampardos,,,4,diamond-pearl,rock,,Head Butt,1.6,102.5,1:7,45.0,173.0,30.0,50.0,erratic,97,165,60,65,50,58,,2.0,,,,,grubole
 shieldon,shieldon,,,4,diamond-pearl,rock,steel,Shield,0.5,57.0,1:7,45.0,70.0,30.0,50.0,erratic,30,42,118,42,88,30,,,1.0,,,,grubole
 bastiodon,bastiodon,,,4,diamond-pearl,rock,steel,Shield,1.3,149.5,1:7,45.0,173.0,30.0,50.0,erratic,60,52,168,47,138,30,,,2.0,,,,grubole
-burmy-plant,burmy,plant,Plant Cloak,4,diamond-pearl,bug,,Bagworm,0.2,3.4,4:4,120.0,45.0,15.0,50.0,medium fast,40,29,45,29,45,36,,,,,1.0,,agresorzy
-burmy-sandy,burmy,sandy,Sandy Cloak,4,diamond-pearl,bug,,Bagworm,0.2,3.4,4:4,120.0,45.0,15.0,50.0,medium fast,40,29,45,29,45,36,,,,,1.0,,agresorzy
-burmy-trash,burmy,trash,Trash Cloak,4,diamond-pearl,bug,,Bagworm,0.2,3.4,4:4,120.0,45.0,15.0,50.0,medium fast,40,29,45,29,45,36,,,,,1.0,,agresorzy
-wormadam-plant,wormadam,plant,Plant Cloak,4,diamond-pearl,bug,grass,Bagworm,0.5,6.5,8:0,45.0,148.0,15.0,50.0,medium fast,60,59,85,79,105,36,,,,,2.0,,agresorzy
-wormadam-sandy,wormadam,sandy,Sandy Cloak,4,diamond-pearl,bug,ground,Bagworm,0.5,6.5,8:0,45.0,148.0,15.0,50.0,medium fast,60,79,105,59,85,36,,,2.0,,,,agresorzy
-wormadam-trash,wormadam,trash,Trash Cloak,4,diamond-pearl,bug,steel,Bagworm,0.5,6.5,8:0,45.0,148.0,15.0,50.0,medium fast,60,69,95,69,95,36,,,1.0,,1.0,,agresorzy
-mothim,mothim,,,4,diamond-pearl,bug,flying,Moth,0.9,23.3,0,45.0,148.0,15.0,50.0,medium fast,70,94,50,94,50,66,,1.0,,1.0,,,agresorzy
-combee,combee,,,4,diamond-pearl,bug,flying,Tiny Bee,0.3,5.5,1:7,120.0,49.0,15.0,50.0,medium slow,30,30,42,30,42,70,,,,,,1.0,agresorzy
-vespiquen,vespiquen,,,4,diamond-pearl,bug,flying,Beehive,1.2,38.5,8:0,45.0,166.0,15.0,50.0,medium slow,70,80,102,80,102,40,,,1.0,,1.0,,agresorzy
+burmy-plant,burmy,plant,Plant Cloak,4,diamond-pearl,bug,,Bagworm,0.2,3.4,4:4,120.0,45.0,15.0,50.0,medium fast,40,29,45,29,45,36,,,,,1.0,,sredniaki
+burmy-sandy,burmy,sandy,Sandy Cloak,4,diamond-pearl,bug,,Bagworm,0.2,3.4,4:4,120.0,45.0,15.0,50.0,medium fast,40,29,45,29,45,36,,,,,1.0,,sredniaki
+burmy-trash,burmy,trash,Trash Cloak,4,diamond-pearl,bug,,Bagworm,0.2,3.4,4:4,120.0,45.0,15.0,50.0,medium fast,40,29,45,29,45,36,,,,,1.0,,sredniaki
+wormadam-plant,wormadam,plant,Plant Cloak,4,diamond-pearl,bug,grass,Bagworm,0.5,6.5,8:0,45.0,148.0,15.0,50.0,medium fast,60,59,85,79,105,36,,,,,2.0,,sredniaki
+wormadam-sandy,wormadam,sandy,Sandy Cloak,4,diamond-pearl,bug,ground,Bagworm,0.5,6.5,8:0,45.0,148.0,15.0,50.0,medium fast,60,79,105,59,85,36,,,2.0,,,,sredniaki
+wormadam-trash,wormadam,trash,Trash Cloak,4,diamond-pearl,bug,steel,Bagworm,0.5,6.5,8:0,45.0,148.0,15.0,50.0,medium fast,60,69,95,69,95,36,,,1.0,,1.0,,sredniaki
+mothim,mothim,,,4,diamond-pearl,bug,flying,Moth,0.9,23.3,0,45.0,148.0,15.0,50.0,medium fast,70,94,50,94,50,66,,1.0,,1.0,,,sredniaki
+combee,combee,,,4,diamond-pearl,bug,flying,Tiny Bee,0.3,5.5,1:7,120.0,49.0,15.0,50.0,medium slow,30,30,42,30,42,70,,,,,,1.0,sredniaki
+vespiquen,vespiquen,,,4,diamond-pearl,bug,flying,Beehive,1.2,38.5,8:0,45.0,166.0,15.0,50.0,medium slow,70,80,102,80,102,40,,,1.0,,1.0,,sredniaki
 pachirisu,pachirisu,,,4,diamond-pearl,electric,,EleSquirrel,0.4,3.9,4:4,200.0,142.0,10.0,100.0,medium fast,60,45,70,45,90,95,,,,,,1.0,specjalni
 buizel,buizel,,,4,diamond-pearl,water,,Sea Weasel,0.7,29.5,4:4,190.0,66.0,20.0,50.0,medium fast,55,65,35,60,30,85,,,,,,1.0,sredniaki
 floatzel,floatzel,,,4,diamond-pearl,water,,Sea Weasel,1.1,33.5,4:4,75.0,173.0,20.0,50.0,medium fast,85,105,55,85,50,115,,,,,,2.0,sredniaki
@@ -521,16 +521,16 @@ cherubi,cherubi,,,4,diamond-pearl,grass,,Cherry,0.4,3.3,4:4,190.0,55.0,20.0,50.0
 cherrim,cherrim,,,4,diamond-pearl,grass,,Blossom,0.5,9.3,4:4,75.0,158.0,20.0,50.0,medium fast,70,60,70,87,78,85,,,,2.0,,,sredniaki
 shellos,shellos,,,4,diamond-pearl,water,,Sea Slug,0.3,6.3,4:4,190.0,65.0,20.0,50.0,medium fast,76,48,48,57,62,34,1.0,,,,,,sredniaki
 gastrodon,gastrodon,,,4,diamond-pearl,water,ground,Sea Slug,0.9,29.9,4:4,75.0,166.0,20.0,50.0,medium fast,111,83,68,92,82,39,2.0,,,,,,sredniaki
-ambipom,ambipom,,,4,diamond-pearl,normal,,Long Tail,1.2,20.3,4:4,45.0,169.0,20.0,100.0,fast,75,100,66,60,66,115,,,,,,2.0,grubole
+ambipom,ambipom,,,4,diamond-pearl,normal,,Long Tail,1.2,20.3,4:4,45.0,169.0,20.0,100.0,fast,75,100,66,60,66,115,,,,,,2.0,sredniaki
 drifloon,drifloon,,,4,diamond-pearl,ghost,flying,Balloon,0.4,1.2,4:4,125.0,70.0,30.0,50.0,fluctuating,90,50,34,60,44,70,1.0,,,,,,specjalni
 drifblim,drifblim,,,4,diamond-pearl,ghost,flying,Blimp,1.2,15.0,4:4,60.0,174.0,30.0,50.0,fluctuating,150,80,44,90,54,80,2.0,,,,,,specjalni
-buneary,buneary,,,4,diamond-pearl,normal,,Rabbit,0.4,5.5,4:4,190.0,70.0,20.0,0.0,medium fast,55,66,44,44,56,85,,,,,,1.0,grubole
-lopunny,lopunny,,,4,diamond-pearl,normal,,Rabbit,1.2,33.3,4:4,60.0,168.0,20.0,140.0,medium fast,65,76,84,54,96,105,,,,,,2.0,grubole
-lopunny-mega,lopunny,mega,Mega Lopunny,6,omega-ruby-alpha-sapphire,normal,fighting,Rabbit,1.3,28.3,4:4,60.0,203.0,20.0,140.0,medium fast,65,136,94,54,96,135,,,,,,2.0,grubole
+buneary,buneary,,,4,diamond-pearl,normal,,Rabbit,0.4,5.5,4:4,190.0,70.0,20.0,0.0,medium fast,55,66,44,44,56,85,,,,,,1.0,sredniaki
+lopunny,lopunny,,,4,diamond-pearl,normal,,Rabbit,1.2,33.3,4:4,60.0,168.0,20.0,140.0,medium fast,65,76,84,54,96,105,,,,,,2.0,sredniaki
+lopunny-mega,lopunny,mega,Mega Lopunny,6,omega-ruby-alpha-sapphire,normal,fighting,Rabbit,1.3,28.3,4:4,60.0,203.0,20.0,140.0,medium fast,65,136,94,54,96,135,,,,,,2.0,sredniaki
 mismagius,mismagius,,,4,diamond-pearl,ghost,,Magical,0.9,4.4,4:4,45.0,173.0,25.0,35.0,fast,60,60,60,105,105,105,,,,1.0,1.0,,specjalni
 honchkrow,honchkrow,,,4,diamond-pearl,dark,flying,Big Boss,0.9,27.3,4:4,30.0,177.0,20.0,35.0,medium slow,100,125,52,105,52,71,,2.0,,,,,agresorzy
-glameow,glameow,,,4,diamond-pearl,normal,,Catty,0.5,3.9,6:2,190.0,62.0,20.0,50.0,fast,49,55,42,42,37,85,,,,,,1.0,grubole
-purugly,purugly,,,4,diamond-pearl,normal,,Tiger Cat,1.0,43.8,6:2,75.0,158.0,20.0,50.0,fast,71,82,64,64,59,112,,,,,,2.0,grubole
+glameow,glameow,,,4,diamond-pearl,normal,,Catty,0.5,3.9,6:2,190.0,62.0,20.0,50.0,fast,49,55,42,42,37,85,,,,,,1.0,sredniaki
+purugly,purugly,,,4,diamond-pearl,normal,,Tiger Cat,1.0,43.8,6:2,75.0,158.0,20.0,50.0,fast,71,82,64,64,59,112,,,,,,2.0,sredniaki
 chingling,chingling,,,4,diamond-pearl,psychic,,Bell,0.2,0.6,4:4,120.0,57.0,25.0,50.0,fast,45,30,50,65,50,45,,,,1.0,,,specjalni
 stunky,stunky,,,4,diamond-pearl,poison,dark,Skunk,0.4,19.2,4:4,225.0,66.0,20.0,50.0,medium fast,63,63,47,41,41,74,,,,,,1.0,sredniaki
 skuntank,skuntank,,,4,diamond-pearl,poison,dark,Skunk,1.0,38.0,4:4,60.0,168.0,20.0,50.0,medium fast,103,93,67,71,61,84,2.0,,,,,,sredniaki
@@ -538,14 +538,14 @@ bronzor,bronzor,,,4,diamond-pearl,steel,psychic,Bronze,0.5,60.5,genderless,255.0
 bronzong,bronzong,,,4,diamond-pearl,steel,psychic,Bronze Bell,1.3,187.0,genderless,90.0,175.0,20.0,50.0,medium fast,67,89,116,79,116,33,,,1.0,,1.0,,grubole
 bonsly,bonsly,,,4,diamond-pearl,rock,,Bonsai,0.5,15.0,4:4,255.0,58.0,20.0,50.0,medium fast,50,80,95,10,45,10,,,1.0,,,,grubole
 mime-jr,mime-jr,,,4,diamond-pearl,psychic,fairy,Mime,0.6,13.0,4:4,145.0,62.0,25.0,50.0,medium fast,20,25,45,70,90,60,,,,,1.0,,specjalni
-happiny,happiny,,,4,diamond-pearl,normal,,Playhouse,0.6,24.4,8:0,130.0,110.0,40.0,140.0,fast,100,5,5,15,65,30,1.0,,,,,,grubole
-chatot,chatot,,,4,diamond-pearl,normal,flying,Music Note,0.5,1.9,4:4,30.0,144.0,20.0,35.0,medium slow,76,65,45,92,42,91,,1.0,,,,,grubole
+happiny,happiny,,,4,diamond-pearl,normal,,Playhouse,0.6,24.4,8:0,130.0,110.0,40.0,140.0,fast,100,5,5,15,65,30,1.0,,,,,,sredniaki
+chatot,chatot,,,4,diamond-pearl,normal,flying,Music Note,0.5,1.9,4:4,30.0,144.0,20.0,35.0,medium slow,76,65,45,92,42,91,,1.0,,,,,sredniaki
 spiritomb,spiritomb,,,4,diamond-pearl,ghost,dark,Forbidden,1.0,108.0,4:4,100.0,170.0,30.0,50.0,medium fast,50,92,108,92,108,35,,,1.0,,1.0,,specjalni
-gible,gible,,,4,diamond-pearl,dragon,ground,Land Shark,0.7,20.5,4:4,45.0,60.0,40.0,50.0,slow,58,70,45,40,45,42,,1.0,,,,,sredniaki
-gabite,gabite,,,4,diamond-pearl,dragon,ground,Cave,1.4,56.0,4:4,45.0,144.0,40.0,50.0,slow,68,90,65,50,55,82,,2.0,,,,,sredniaki
-garchomp,garchomp,,,4,diamond-pearl,dragon,ground,Mach,1.9,95.0,4:4,45.0,300.0,40.0,50.0,slow,108,130,95,80,85,102,,3.0,,,,,sredniaki
-garchomp-mega,garchomp,mega,Mega Garchomp,6,x-y,dragon,ground,Mach,1.9,95.0,4:4,45.0,315.0,40.0,50.0,slow,108,170,115,120,95,92,,3.0,,,,,sredniaki
-munchlax,munchlax,,,4,diamond-pearl,normal,,Big Eater,0.6,105.0,1:7,50.0,78.0,40.0,50.0,slow,135,85,40,40,85,5,1.0,,,,,,grubole
+gible,gible,,,4,diamond-pearl,dragon,ground,Land Shark,0.7,20.5,4:4,45.0,60.0,40.0,50.0,slow,58,70,45,40,45,42,,1.0,,,,,elita
+gabite,gabite,,,4,diamond-pearl,dragon,ground,Cave,1.4,56.0,4:4,45.0,144.0,40.0,50.0,slow,68,90,65,50,55,82,,2.0,,,,,elita
+garchomp,garchomp,,,4,diamond-pearl,dragon,ground,Mach,1.9,95.0,4:4,45.0,300.0,40.0,50.0,slow,108,130,95,80,85,102,,3.0,,,,,elita
+garchomp-mega,garchomp,mega,Mega Garchomp,6,x-y,dragon,ground,Mach,1.9,95.0,4:4,45.0,315.0,40.0,50.0,slow,108,170,115,120,95,92,,3.0,,,,,elita
+munchlax,munchlax,,,4,diamond-pearl,normal,,Big Eater,0.6,105.0,1:7,50.0,78.0,40.0,50.0,slow,135,85,40,40,85,5,1.0,,,,,,sredniaki
 riolu,riolu,,,4,diamond-pearl,fighting,,Emanation,0.7,20.2,1:7,75.0,57.0,25.0,50.0,medium slow,40,70,40,35,40,60,,1.0,,,,,agresorzy
 lucario,lucario,,,4,diamond-pearl,fighting,steel,Aura,1.2,54.0,1:7,45.0,184.0,25.0,50.0,medium slow,70,110,70,115,70,90,,1.0,,1.0,,,agresorzy
 lucario-mega,lucario,mega,Mega Lucario,6,x-y,fighting,steel,Aura,1.3,57.5,1:7,45.0,219.0,25.0,50.0,medium slow,70,145,88,140,70,112,,1.0,,1.0,,,agresorzy
@@ -564,18 +564,18 @@ abomasnow,abomasnow,,,4,diamond-pearl,grass,ice,Frost Tree,2.2,135.5,4:4,60.0,17
 abomasnow-mega,abomasnow,mega,Mega Abomasnow,6,x-y,grass,ice,Frost Tree,2.7,185.0,4:4,60.0,208.0,20.0,50.0,slow,90,132,105,132,105,30,,1.0,,1.0,,,sredniaki
 weavile,weavile,,,4,diamond-pearl,dark,ice,Sharp Claw,1.1,34.0,4:4,45.0,179.0,20.0,35.0,medium slow,70,120,65,45,85,125,,1.0,,,,1.0,agresorzy
 magnezone,magnezone,,,4,diamond-pearl,electric,steel,Magnet Area,1.2,180.0,genderless,30.0,268.0,20.0,50.0,medium fast,70,70,115,130,90,60,,,,3.0,,,specjalni
-lickilicky,lickilicky,,,4,diamond-pearl,normal,,Licking,1.7,140.0,4:4,30.0,180.0,20.0,50.0,medium fast,110,85,95,80,95,50,3.0,,,,,,grubole
+lickilicky,lickilicky,,,4,diamond-pearl,normal,,Licking,1.7,140.0,4:4,30.0,180.0,20.0,50.0,medium fast,110,85,95,80,95,50,3.0,,,,,,sredniaki
 rhyperior,rhyperior,,,4,diamond-pearl,ground,rock,Drill,2.4,282.8,4:4,30.0,241.0,20.0,50.0,slow,115,140,130,55,55,40,,3.0,,,,,grubole
 tangrowth,tangrowth,,,4,diamond-pearl,grass,,Vine,2.0,128.6,4:4,30.0,187.0,20.0,50.0,medium fast,100,100,125,110,50,50,,,2.0,,,,sredniaki
 electivire,electivire,,,4,diamond-pearl,electric,,Thunderbolt,1.8,138.6,2:6,30.0,243.0,25.0,50.0,medium fast,75,123,67,95,85,95,,3.0,,,,,specjalni
-magmortar,magmortar,,,4,diamond-pearl,fire,,Blast,1.6,68.0,2:6,30.0,243.0,25.0,50.0,medium fast,75,95,67,125,95,83,,,,3.0,,,agresorzy
+magmortar,magmortar,,,4,diamond-pearl,fire,,Blast,1.6,68.0,2:6,30.0,243.0,25.0,50.0,medium fast,75,95,67,125,95,83,,,,3.0,,,specjalni
 togekiss,togekiss,,,4,diamond-pearl,fairy,flying,Jubilee,1.5,38.0,1:7,30.0,245.0,10.0,50.0,fast,85,50,95,120,115,80,,,,2.0,1.0,,specjalni
-yanmega,yanmega,,,4,diamond-pearl,bug,flying,Ogre Darner,1.9,51.5,4:4,30.0,180.0,20.0,50.0,medium fast,86,76,86,116,56,95,,2.0,,,,,agresorzy
+yanmega,yanmega,,,4,diamond-pearl,bug,flying,Ogre Darner,1.9,51.5,4:4,30.0,180.0,20.0,50.0,medium fast,86,76,86,116,56,95,,2.0,,,,,sredniaki
 leafeon,leafeon,,,4,diamond-pearl,grass,,Verdant,1.0,25.5,1:7,45.0,184.0,35.0,35.0,medium fast,65,110,130,60,65,95,,,2.0,,,,sredniaki
 glaceon,glaceon,,,4,diamond-pearl,ice,,Fresh Snow,0.8,25.9,1:7,45.0,184.0,35.0,35.0,medium fast,65,60,110,130,95,65,,,,2.0,,,sredniaki
 gliscor,gliscor,,,4,diamond-pearl,ground,flying,Fang Scorp,2.0,42.5,4:4,30.0,179.0,20.0,50.0,medium slow,75,95,125,45,75,95,,,2.0,,,,grubole
 mamoswine,mamoswine,,,4,diamond-pearl,ice,ground,Twin Tusk,2.5,291.0,4:4,50.0,239.0,20.0,50.0,slow,110,130,80,70,60,80,,3.0,,,,,sredniaki
-porygon-z,porygon-z,,,4,diamond-pearl,normal,,Virtual,0.9,34.0,genderless,30.0,241.0,20.0,50.0,medium fast,85,80,70,135,75,90,,,,3.0,,,grubole
+porygon-z,porygon-z,,,4,diamond-pearl,normal,,Virtual,0.9,34.0,genderless,30.0,241.0,20.0,50.0,medium fast,85,80,70,135,75,90,,,,3.0,,,sredniaki
 gallade,gallade,,,4,diamond-pearl,psychic,fighting,Blade,1.6,52.0,0,45.0,259.0,20.0,35.0,slow,68,125,65,65,115,80,,3.0,,,,,specjalni
 gallade-mega,gallade,mega,Mega Gallade,6,omega-ruby-alpha-sapphire,psychic,fighting,Blade,1.6,56.4,0,45.0,278.0,20.0,35.0,slow,68,165,95,65,115,110,,3.0,,,,,specjalni
 probopass,probopass,,,4,diamond-pearl,rock,steel,Compass,1.4,340.0,4:4,60.0,184.0,20.0,50.0,medium fast,60,55,145,75,150,40,,,1.0,,2.0,,grubole
@@ -594,8 +594,8 @@ dialga,dialga,,,4,diamond-pearl,steel,dragon,Temporal,5.4,683.0,genderless,3.0,3
 dialga-origin,dialga,origin,Origin Forme,8,legends-arceus,steel,dragon,Temporal,7.0,850.0,genderless,3.0,340.0,120.0,0.0,slow,100,100,120,150,120,90,,,,3.0,,,grubole
 palkia,palkia,,,4,diamond-pearl,water,dragon,Spatial,4.2,336.0,genderless,3.0,340.0,120.0,0.0,slow,90,120,100,150,120,100,,,,3.0,,,sredniaki
 palkia-origin,palkia,origin,Origin Forme,8,legends-arceus,water,dragon,Spatial,6.3,660.0,genderless,3.0,340.0,120.0,0.0,slow,90,100,100,150,120,120,,,,3.0,,,sredniaki
-heatran,heatran,,,4,diamond-pearl,fire,steel,Lava Dome,1.7,430.0,4:4,3.0,300.0,10.0,100.0,slow,91,90,106,130,106,77,,,,3.0,,,agresorzy
-regigigas,regigigas,,,4,diamond-pearl,normal,,Colossal,3.7,420.0,genderless,3.0,302.0,120.0,0.0,slow,110,160,110,80,110,100,,3.0,,,,,grubole
+heatran,heatran,,,4,diamond-pearl,fire,steel,Lava Dome,1.7,430.0,4:4,3.0,300.0,10.0,100.0,slow,91,90,106,130,106,77,,,,3.0,,,specjalni
+regigigas,regigigas,,,4,diamond-pearl,normal,,Colossal,3.7,420.0,genderless,3.0,302.0,120.0,0.0,slow,110,160,110,80,110,100,,3.0,,,,,sredniaki
 giratina-altered,giratina,altered,Altered Forme,4,diamond-pearl,ghost,dragon,Renegade,4.5,750.0,genderless,3.0,340.0,120.0,0.0,slow,150,100,120,100,120,90,3.0,,,,,,specjalni
 giratina-origin,giratina,origin,Origin Forme,4,diamond-pearl,ghost,dragon,Renegade,6.9,650.0,genderless,3.0,340.0,120.0,0.0,slow,150,120,100,120,100,90,3.0,,,,,,specjalni
 cresselia,cresselia,,,4,diamond-pearl,psychic,,Lunar,1.5,85.6,8:0,3.0,290.0,120.0,100.0,slow,120,70,110,75,120,85,,,,,3.0,,specjalni
@@ -604,36 +604,36 @@ manaphy,manaphy,,,4,diamond-pearl,water,,Seafaring,0.3,1.4,genderless,3.0,270.0,
 darkrai,darkrai,,,4,diamond-pearl,dark,,Pitch-Black,1.5,50.5,genderless,3.0,270.0,120.0,0.0,slow,70,90,90,135,90,125,,,,2.0,,1.0,agresorzy
 shaymin-land,shaymin,land,Land Forme,4,diamond-pearl,grass,,Gratitude,0.2,2.1,genderless,45.0,270.0,120.0,100.0,medium slow,100,100,100,100,100,100,3.0,,,,,,sredniaki
 shaymin-sky,shaymin,sky,Sky Forme,4,diamond-pearl,grass,flying,Gratitude,0.4,5.2,genderless,45.0,270.0,120.0,100.0,medium slow,100,103,75,120,75,127,,,,,,3.0,sredniaki
-arceus,arceus,,,4,diamond-pearl,normal,,Alpha,3.2,320.0,genderless,3.0,360.0,120.0,0.0,slow,120,120,120,120,120,120,3.0,,,,,,grubole
+arceus,arceus,,,4,diamond-pearl,normal,,Alpha,3.2,320.0,genderless,3.0,360.0,120.0,0.0,slow,120,120,120,120,120,120,3.0,,,,,,sredniaki
 victini,victini,,,5,black-white,psychic,fire,Victory,0.4,4.0,genderless,3.0,270.0,120.0,100.0,slow,100,100,100,100,100,100,3.0,,,,,,specjalni
 snivy,snivy,,,5,black-white,grass,,Grass Snake,0.6,8.1,1:7,45.0,62.0,20.0,50.0,medium slow,45,45,55,45,55,63,,,,,,1.0,sredniaki
 servine,servine,,,5,black-white,grass,,Grass Snake,0.8,16.0,1:7,45.0,145.0,20.0,50.0,medium slow,60,60,75,60,75,83,,,,,,2.0,sredniaki
 serperior,serperior,,,5,black-white,grass,,Regal,3.3,63.0,1:7,45.0,238.0,20.0,50.0,medium slow,75,75,95,75,95,113,,,,,,3.0,sredniaki
-tepig,tepig,,,5,black-white,fire,,Fire Pig,0.5,9.9,1:7,45.0,62.0,20.0,50.0,medium slow,65,63,45,45,45,45,1.0,,,,,,agresorzy
-pignite,pignite,,,5,black-white,fire,fighting,Fire Pig,1.0,55.5,1:7,45.0,146.0,20.0,50.0,medium slow,90,93,55,70,55,55,,2.0,,,,,agresorzy
-emboar,emboar,,,5,black-white,fire,fighting,Mega Fire Pig,1.6,150.0,1:7,45.0,238.0,20.0,50.0,medium slow,110,123,65,100,65,65,,3.0,,,,,agresorzy
+tepig,tepig,,,5,black-white,fire,,Fire Pig,0.5,9.9,1:7,45.0,62.0,20.0,50.0,medium slow,65,63,45,45,45,45,1.0,,,,,,specjalni
+pignite,pignite,,,5,black-white,fire,fighting,Fire Pig,1.0,55.5,1:7,45.0,146.0,20.0,50.0,medium slow,90,93,55,70,55,55,,2.0,,,,,specjalni
+emboar,emboar,,,5,black-white,fire,fighting,Mega Fire Pig,1.6,150.0,1:7,45.0,238.0,20.0,50.0,medium slow,110,123,65,100,65,65,,3.0,,,,,specjalni
 oshawott,oshawott,,,5,black-white,water,,Sea Otter,0.5,5.9,1:7,45.0,62.0,20.0,50.0,medium slow,55,55,45,63,45,45,,,,1.0,,,sredniaki
 dewott,dewott,,,5,black-white,water,,Discipline,0.8,24.5,1:7,45.0,145.0,20.0,50.0,medium slow,75,75,60,83,60,60,,,,2.0,,,sredniaki
 samurott,samurott,,,5,black-white,water,,Formidable,1.5,94.6,1:7,45.0,264.0,20.0,50.0,medium slow,95,100,85,108,70,70,,,,3.0,,,sredniaki
 samurott-hisuian,samurott,hisuian,Hisuian Samurott,8,legends-arceus,water,dark,Formidable,1.5,58.2,1:7,45.0,264.0,20.0,50.0,medium slow,90,108,80,100,65,85,,3.0,,,,,sredniaki
-patrat,patrat,,,5,black-white,normal,,Scout,0.5,11.6,4:4,255.0,51.0,15.0,50.0,medium fast,45,55,39,35,39,42,,1.0,,,,,grubole
-watchog,watchog,,,5,black-white,normal,,Lookout,1.1,27.0,4:4,255.0,147.0,20.0,50.0,medium fast,60,85,69,60,69,77,,2.0,,,,,grubole
-lillipup,lillipup,,,5,black-white,normal,,Puppy,0.4,4.1,4:4,255.0,55.0,15.0,50.0,medium slow,45,60,45,25,45,55,,1.0,,,,,grubole
-herdier,herdier,,,5,black-white,normal,,Loyal Dog,0.9,14.7,4:4,120.0,130.0,15.0,50.0,medium slow,65,80,65,35,65,60,,2.0,,,,,grubole
-stoutland,stoutland,,,5,black-white,normal,,Big-Hearted,1.2,61.0,4:4,45.0,225.0,15.0,50.0,medium slow,85,110,90,45,90,80,,3.0,,,,,grubole
+patrat,patrat,,,5,black-white,normal,,Scout,0.5,11.6,4:4,255.0,51.0,15.0,50.0,medium fast,45,55,39,35,39,42,,1.0,,,,,sredniaki
+watchog,watchog,,,5,black-white,normal,,Lookout,1.1,27.0,4:4,255.0,147.0,20.0,50.0,medium fast,60,85,69,60,69,77,,2.0,,,,,sredniaki
+lillipup,lillipup,,,5,black-white,normal,,Puppy,0.4,4.1,4:4,255.0,55.0,15.0,50.0,medium slow,45,60,45,25,45,55,,1.0,,,,,sredniaki
+herdier,herdier,,,5,black-white,normal,,Loyal Dog,0.9,14.7,4:4,120.0,130.0,15.0,50.0,medium slow,65,80,65,35,65,60,,2.0,,,,,sredniaki
+stoutland,stoutland,,,5,black-white,normal,,Big-Hearted,1.2,61.0,4:4,45.0,225.0,15.0,50.0,medium slow,85,110,90,45,90,80,,3.0,,,,,sredniaki
 purrloin,purrloin,,,5,black-white,dark,,Devious,0.4,10.1,4:4,255.0,56.0,20.0,50.0,medium fast,41,50,37,50,37,66,,,,,,1.0,agresorzy
 liepard,liepard,,,5,black-white,dark,,Cruel,1.1,37.5,4:4,90.0,156.0,20.0,50.0,medium fast,64,88,50,88,50,106,,,,,,2.0,agresorzy
 pansage,pansage,,,5,black-white,grass,,Grass Monkey,0.6,10.5,1:7,190.0,63.0,20.0,50.0,medium fast,50,53,48,53,48,64,,,,,,1.0,sredniaki
 simisage,simisage,,,5,black-white,grass,,Thorn Monkey,1.1,30.5,1:7,75.0,174.0,20.0,50.0,medium fast,75,98,63,98,63,101,,,,,,2.0,sredniaki
-pansear,pansear,,,5,black-white,fire,,High Temp,0.6,11.0,1:7,190.0,63.0,20.0,50.0,medium fast,50,53,48,53,48,64,,,,,,1.0,agresorzy
-simisear,simisear,,,5,black-white,fire,,Ember,1.0,28.0,1:7,75.0,174.0,20.0,50.0,medium fast,75,98,63,98,63,101,,,,,,2.0,agresorzy
+pansear,pansear,,,5,black-white,fire,,High Temp,0.6,11.0,1:7,190.0,63.0,20.0,50.0,medium fast,50,53,48,53,48,64,,,,,,1.0,specjalni
+simisear,simisear,,,5,black-white,fire,,Ember,1.0,28.0,1:7,75.0,174.0,20.0,50.0,medium fast,75,98,63,98,63,101,,,,,,2.0,specjalni
 panpour,panpour,,,5,black-white,water,,Spray,0.6,13.5,1:7,190.0,63.0,20.0,50.0,medium fast,50,53,48,53,48,64,,,,,,1.0,sredniaki
 simipour,simipour,,,5,black-white,water,,Geyser,1.0,29.0,1:7,75.0,174.0,20.0,50.0,medium fast,75,98,63,98,63,101,,,,,,2.0,sredniaki
 munna,munna,,,5,black-white,psychic,,Dream Eater,0.6,23.3,4:4,190.0,58.0,10.0,50.0,fast,76,25,45,67,55,24,1.0,,,,,,specjalni
 musharna,musharna,,,5,black-white,psychic,,Drowsing,1.1,60.5,4:4,75.0,170.0,10.0,50.0,fast,116,55,85,107,95,29,2.0,,,,,,specjalni
-pidove,pidove,,,5,black-white,normal,flying,Tiny Pigeon,0.3,2.1,4:4,255.0,53.0,15.0,50.0,medium slow,50,55,50,36,30,43,,1.0,,,,,grubole
-tranquill,tranquill,,,5,black-white,normal,flying,Wild Pigeon,0.6,15.0,4:4,120.0,125.0,15.0,50.0,medium slow,62,77,62,50,42,65,,2.0,,,,,grubole
-unfezant,unfezant,,,5,black-white,normal,flying,Proud,1.2,29.0,4:4,45.0,220.0,15.0,50.0,medium slow,80,115,80,65,55,93,,3.0,,,,,grubole
+pidove,pidove,,,5,black-white,normal,flying,Tiny Pigeon,0.3,2.1,4:4,255.0,53.0,15.0,50.0,medium slow,50,55,50,36,30,43,,1.0,,,,,sredniaki
+tranquill,tranquill,,,5,black-white,normal,flying,Wild Pigeon,0.6,15.0,4:4,120.0,125.0,15.0,50.0,medium slow,62,77,62,50,42,65,,2.0,,,,,sredniaki
+unfezant,unfezant,,,5,black-white,normal,flying,Proud,1.2,29.0,4:4,45.0,220.0,15.0,50.0,medium slow,80,115,80,65,55,93,,3.0,,,,,sredniaki
 blitzle,blitzle,,,5,black-white,electric,,Electrified,0.8,29.8,4:4,190.0,59.0,20.0,50.0,medium fast,45,60,32,50,32,76,,,,,,1.0,specjalni
 zebstrika,zebstrika,,,5,black-white,electric,,Thunderbolt,1.6,79.5,4:4,75.0,174.0,20.0,50.0,medium fast,75,100,63,80,63,116,,,,,,2.0,specjalni
 roggenrola,roggenrola,,,5,black-white,rock,,Mantle,0.4,18.0,4:4,255.0,56.0,15.0,50.0,medium slow,55,75,85,25,25,15,,,1.0,,,,grubole
@@ -643,8 +643,8 @@ woobat,woobat,,,5,black-white,psychic,flying,Bat,0.4,2.1,4:4,190.0,65.0,15.0,50.
 swoobat,swoobat,,,5,black-white,psychic,flying,Courting,0.9,10.5,4:4,45.0,149.0,15.0,50.0,medium fast,67,57,55,77,55,114,,,,,,2.0,specjalni
 drilbur,drilbur,,,5,black-white,ground,,Mole,0.3,8.5,4:4,120.0,66.0,20.0,50.0,medium fast,60,85,40,30,45,68,,1.0,,,,,grubole
 excadrill,excadrill,,,5,black-white,ground,steel,Subterrene,0.7,40.4,4:4,60.0,178.0,20.0,50.0,medium fast,110,135,60,50,65,88,,2.0,,,,,grubole
-audino,audino,,,5,black-white,normal,,Hearing,1.1,31.0,4:4,255.0,390.0,20.0,50.0,fast,103,60,86,60,86,50,2.0,,,,,,grubole
-audino-mega,audino,mega,Mega Audino,6,omega-ruby-alpha-sapphire,normal,fairy,Hearing,1.5,32.0,4:4,255.0,425.0,20.0,50.0,fast,103,60,126,80,126,50,2.0,,,,,,grubole
+audino,audino,,,5,black-white,normal,,Hearing,1.1,31.0,4:4,255.0,390.0,20.0,50.0,fast,103,60,86,60,86,50,2.0,,,,,,sredniaki
+audino-mega,audino,mega,Mega Audino,6,omega-ruby-alpha-sapphire,normal,fairy,Hearing,1.5,32.0,4:4,255.0,425.0,20.0,50.0,fast,103,60,126,80,126,50,2.0,,,,,,sredniaki
 timburr,timburr,,,5,black-white,fighting,,Muscular,0.6,12.5,2:6,180.0,61.0,20.0,70.0,medium slow,75,80,55,25,35,35,,1.0,,,,,agresorzy
 gurdurr,gurdurr,,,5,black-white,fighting,,Muscular,1.2,40.0,2:6,90.0,142.0,20.0,50.0,medium slow,85,105,85,40,50,40,,2.0,,,,,agresorzy
 conkeldurr,conkeldurr,,,5,black-white,fighting,,Muscular,1.4,87.0,2:6,45.0,227.0,20.0,50.0,medium slow,105,140,95,55,65,45,,3.0,,,,,agresorzy
@@ -653,12 +653,12 @@ palpitoad,palpitoad,,,5,black-white,water,ground,Vibration,0.8,17.0,4:4,120.0,13
 seismitoad,seismitoad,,,5,black-white,water,ground,Vibration,1.5,62.0,4:4,45.0,229.0,20.0,50.0,medium slow,105,95,75,85,75,74,3.0,,,,,,sredniaki
 throh,throh,,,5,black-white,fighting,,Judo,1.3,55.5,0,45.0,163.0,20.0,50.0,medium fast,120,100,85,30,85,45,2.0,,,,,,agresorzy
 sawk,sawk,,,5,black-white,fighting,,Karate,1.4,51.0,0,45.0,163.0,20.0,50.0,medium fast,75,125,75,30,75,85,,2.0,,,,,agresorzy
-sewaddle,sewaddle,,,5,black-white,bug,grass,Sewing,0.3,2.5,4:4,255.0,62.0,15.0,50.0,medium slow,45,53,70,40,60,42,,,1.0,,,,agresorzy
-swadloon,swadloon,,,5,black-white,bug,grass,Leaf-Wrapped,0.5,7.3,4:4,120.0,133.0,15.0,50.0,medium slow,55,63,90,50,80,42,,,2.0,,,,agresorzy
-leavanny,leavanny,,,5,black-white,bug,grass,Nurturing,1.2,20.5,4:4,45.0,225.0,15.0,50.0,medium slow,75,103,80,70,80,92,,3.0,,,,,agresorzy
-venipede,venipede,,,5,black-white,bug,poison,Centipede,0.4,5.3,4:4,255.0,52.0,15.0,50.0,medium slow,30,45,59,30,39,57,,,1.0,,,,agresorzy
-whirlipede,whirlipede,,,5,black-white,bug,poison,Curlipede,1.2,58.5,4:4,120.0,126.0,15.0,50.0,medium slow,40,55,99,40,79,47,,,2.0,,,,agresorzy
-scolipede,scolipede,,,5,black-white,bug,poison,Megapede,2.5,200.5,4:4,45.0,218.0,20.0,50.0,medium slow,60,100,89,55,69,112,,,,,,3.0,agresorzy
+sewaddle,sewaddle,,,5,black-white,bug,grass,Sewing,0.3,2.5,4:4,255.0,62.0,15.0,50.0,medium slow,45,53,70,40,60,42,,,1.0,,,,sredniaki
+swadloon,swadloon,,,5,black-white,bug,grass,Leaf-Wrapped,0.5,7.3,4:4,120.0,133.0,15.0,50.0,medium slow,55,63,90,50,80,42,,,2.0,,,,sredniaki
+leavanny,leavanny,,,5,black-white,bug,grass,Nurturing,1.2,20.5,4:4,45.0,225.0,15.0,50.0,medium slow,75,103,80,70,80,92,,3.0,,,,,sredniaki
+venipede,venipede,,,5,black-white,bug,poison,Centipede,0.4,5.3,4:4,255.0,52.0,15.0,50.0,medium slow,30,45,59,30,39,57,,,1.0,,,,sredniaki
+whirlipede,whirlipede,,,5,black-white,bug,poison,Curlipede,1.2,58.5,4:4,120.0,126.0,15.0,50.0,medium slow,40,55,99,40,79,47,,,2.0,,,,sredniaki
+scolipede,scolipede,,,5,black-white,bug,poison,Megapede,2.5,200.5,4:4,45.0,218.0,20.0,50.0,medium slow,60,100,89,55,69,112,,,,,,3.0,sredniaki
 cottonee,cottonee,,,5,black-white,grass,fairy,Cotton Puff,0.3,0.6,4:4,190.0,56.0,20.0,50.0,medium fast,40,27,60,37,50,66,,,,,,1.0,sredniaki
 whimsicott,whimsicott,,,5,black-white,grass,fairy,Windveiled,0.7,6.6,4:4,75.0,168.0,20.0,50.0,medium fast,60,67,85,77,75,116,,,,,,2.0,sredniaki
 petilil,petilil,,,5,black-white,grass,,Bulb,0.5,6.6,8:0,190.0,56.0,20.0,50.0,medium fast,45,35,50,70,50,30,,,,1.0,,,sredniaki
@@ -670,15 +670,15 @@ basculin-white-striped,basculin,white-striped,White-Striped Form,8,legends-arceu
 sandile,sandile,,,5,black-white,ground,dark,Desert Croc,0.7,15.2,4:4,180.0,58.0,20.0,50.0,medium slow,50,72,35,35,35,65,,1.0,,,,,grubole
 krokorok,krokorok,,,5,black-white,ground,dark,Desert Croc,1.0,33.4,4:4,90.0,123.0,20.0,50.0,medium slow,60,82,45,45,45,74,,2.0,,,,,grubole
 krookodile,krookodile,,,5,black-white,ground,dark,Intimidation,1.5,96.3,4:4,45.0,260.0,20.0,50.0,medium slow,95,117,80,65,70,92,,3.0,,,,,grubole
-darumaka,darumaka,,,5,black-white,fire,,Zen Charm,0.6,37.5,4:4,120.0,63.0,20.0,50.0,medium slow,70,90,45,15,45,50,,1.0,,,,,agresorzy
+darumaka,darumaka,,,5,black-white,fire,,Zen Charm,0.6,37.5,4:4,120.0,63.0,20.0,50.0,medium slow,70,90,45,15,45,50,,1.0,,,,,specjalni
 darumaka-galarian,darumaka,galarian,Galarian Darumaka,8,sword-shield,ice,,Zen Charm,0.7,40.0,4:4,120.0,63.0,20.0,50.0,medium slow,70,90,45,15,45,50,,1.0,,,,,sredniaki
-darmanitan-standard,darmanitan,standard,Standard Mode,5,black-white,fire,,Blazing,1.3,92.9,4:4,60.0,168.0,20.0,50.0,medium slow,105,140,55,30,55,95,,2.0,,,,,agresorzy
-darmanitan-zen,darmanitan,zen,Zen Mode,5,black-white,fire,psychic,Blazing,1.3,92.9,4:4,60.0,189.0,20.0,50.0,medium slow,105,30,105,140,105,55,,,,2.0,,,agresorzy
+darmanitan-standard,darmanitan,standard,Standard Mode,5,black-white,fire,,Blazing,1.3,92.9,4:4,60.0,168.0,20.0,50.0,medium slow,105,140,55,30,55,95,,2.0,,,,,specjalni
+darmanitan-zen,darmanitan,zen,Zen Mode,5,black-white,fire,psychic,Blazing,1.3,92.9,4:4,60.0,189.0,20.0,50.0,medium slow,105,30,105,140,105,55,,,,2.0,,,specjalni
 darmanitan-galarian-standard,darmanitan,galarian-standard,Galarian Standard Mode,8,sword-shield,ice,,Zen Charm,1.7,120.0,4:4,60.0,168.0,20.0,50.0,medium slow,105,140,55,30,55,95,,2.0,,,,,sredniaki
 darmanitan-galarian-zen,darmanitan,galarian-zen,Galarian Zen Mode,8,sword-shield,ice,fire,Zen Charm,1.7,120.0,4:4,60.0,168.0,20.0,50.0,medium slow,105,160,55,30,55,135,,,,2.0,,,sredniaki
 maractus,maractus,,,5,black-white,grass,,Cactus,1.0,28.0,4:4,255.0,161.0,20.0,50.0,medium fast,75,86,67,106,67,60,,,,2.0,,,sredniaki
-dwebble,dwebble,,,5,black-white,bug,rock,Rock Inn,0.3,14.5,4:4,190.0,65.0,20.0,50.0,medium fast,50,65,85,35,35,55,,,1.0,,,,agresorzy
-crustle,crustle,,,5,black-white,bug,rock,Stone Home,1.4,200.0,4:4,75.0,170.0,20.0,50.0,medium fast,70,105,125,65,75,45,,,2.0,,,,agresorzy
+dwebble,dwebble,,,5,black-white,bug,rock,Rock Inn,0.3,14.5,4:4,190.0,65.0,20.0,50.0,medium fast,50,65,85,35,35,55,,,1.0,,,,sredniaki
+crustle,crustle,,,5,black-white,bug,rock,Stone Home,1.4,200.0,4:4,75.0,170.0,20.0,50.0,medium fast,70,105,125,65,75,45,,,2.0,,,,sredniaki
 scraggy,scraggy,,,5,black-white,dark,fighting,Shedding,0.6,11.8,4:4,180.0,70.0,15.0,35.0,medium fast,50,75,70,35,70,48,,1.0,,,,,agresorzy
 scrafty,scrafty,,,5,black-white,dark,fighting,Hoodlum,1.1,30.0,4:4,90.0,171.0,15.0,50.0,medium fast,65,90,115,45,115,58,,,1.0,,1.0,,agresorzy
 sigilyph,sigilyph,,,5,black-white,psychic,flying,Avianoid,1.4,14.0,4:4,45.0,172.0,20.0,50.0,medium fast,72,58,80,103,80,97,,,,2.0,,,specjalni
@@ -692,11 +692,11 @@ archeops,archeops,,,5,black-white,rock,flying,First Bird,1.4,32.0,1:7,45.0,177.0
 trubbish,trubbish,,,5,black-white,poison,,Trash Bag,0.6,31.0,4:4,190.0,66.0,20.0,50.0,medium fast,50,50,62,40,62,65,,,,,,1.0,sredniaki
 garbodor,garbodor,,,5,black-white,poison,,Trash Heap,1.9,107.3,4:4,60.0,166.0,20.0,50.0,medium fast,80,95,82,60,82,75,,2.0,,,,,sredniaki
 zorua,zorua,,,5,black-white,dark,,Tricky Fox,0.7,12.5,1:7,75.0,66.0,25.0,50.0,medium slow,40,65,40,80,40,65,,,,1.0,,,agresorzy
-zorua-hisuian,zorua,hisuian,Hisuian Zorua,8,legends-arceus,normal,ghost,Spiteful Fox,0.7,12.5,1:7,75.0,66.0,25.0,50.0,medium slow,35,60,40,85,40,70,,,,1.0,,,grubole
+zorua-hisuian,zorua,hisuian,Hisuian Zorua,8,legends-arceus,normal,ghost,Spiteful Fox,0.7,12.5,1:7,75.0,66.0,25.0,50.0,medium slow,35,60,40,85,40,70,,,,1.0,,,sredniaki
 zoroark,zoroark,,,5,black-white,dark,,Illusion Fox,1.6,81.1,1:7,45.0,179.0,20.0,50.0,medium slow,60,105,60,120,60,105,,,,2.0,,,agresorzy
-zoroark-hisuian,zoroark,hisuian,Hisuian Zoroark,8,legends-arceus,normal,ghost,Baneful Fox,1.6,73.0,1:7,45.0,179.0,20.0,50.0,medium slow,55,100,60,125,60,110,,,,2.0,,,grubole
-minccino,minccino,,,5,black-white,normal,,Chinchilla,0.4,5.8,6:2,255.0,60.0,15.0,50.0,fast,55,50,40,40,40,75,,,,,,1.0,grubole
-cinccino,cinccino,,,5,black-white,normal,,Scarf,0.5,7.5,6:2,60.0,165.0,15.0,50.0,fast,75,95,60,65,60,115,,,,,,2.0,grubole
+zoroark-hisuian,zoroark,hisuian,Hisuian Zoroark,8,legends-arceus,normal,ghost,Baneful Fox,1.6,73.0,1:7,45.0,179.0,20.0,50.0,medium slow,55,100,60,125,60,110,,,,2.0,,,sredniaki
+minccino,minccino,,,5,black-white,normal,,Chinchilla,0.4,5.8,6:2,255.0,60.0,15.0,50.0,fast,55,50,40,40,40,75,,,,,,1.0,sredniaki
+cinccino,cinccino,,,5,black-white,normal,,Scarf,0.5,7.5,6:2,60.0,165.0,15.0,50.0,fast,75,95,60,65,60,115,,,,,,2.0,sredniaki
 gothita,gothita,,,5,black-white,psychic,,Fixation,0.4,5.8,6:2,200.0,58.0,20.0,50.0,medium slow,45,30,50,55,65,45,,,,,1.0,,specjalni
 gothorita,gothorita,,,5,black-white,psychic,,Manipulate,0.7,18.0,6:2,100.0,137.0,20.0,50.0,medium slow,60,45,70,75,85,55,,,,,2.0,,specjalni
 gothitelle,gothitelle,,,5,black-white,psychic,,Astral Body,1.5,44.0,6:2,50.0,245.0,20.0,50.0,medium slow,70,55,95,95,110,65,,,,,3.0,,specjalni
@@ -708,18 +708,18 @@ swanna,swanna,,,5,black-white,water,flying,White Bird,1.3,24.2,4:4,45.0,166.0,20
 vanillite,vanillite,,,5,black-white,ice,,Fresh Snow,0.4,5.7,4:4,255.0,61.0,20.0,50.0,slow,36,50,50,65,60,44,,,,1.0,,,sredniaki
 vanillish,vanillish,,,5,black-white,ice,,Icy Snow,1.1,41.0,4:4,120.0,138.0,20.0,50.0,slow,51,65,65,80,75,59,,,,2.0,,,sredniaki
 vanilluxe,vanilluxe,,,5,black-white,ice,,Snowstorm,1.3,57.5,4:4,45.0,241.0,20.0,50.0,slow,71,95,85,110,95,79,,,,3.0,,,sredniaki
-deerling,deerling,,,5,black-white,normal,grass,Season,0.6,19.5,4:4,190.0,67.0,20.0,50.0,medium fast,60,60,50,40,50,75,,,,,,1.0,grubole
-sawsbuck,sawsbuck,,,5,black-white,normal,grass,Season,1.9,92.5,4:4,75.0,166.0,20.0,50.0,medium fast,80,100,70,60,70,95,,2.0,,,,,grubole
+deerling,deerling,,,5,black-white,normal,grass,Season,0.6,19.5,4:4,190.0,67.0,20.0,50.0,medium fast,60,60,50,40,50,75,,,,,,1.0,sredniaki
+sawsbuck,sawsbuck,,,5,black-white,normal,grass,Season,1.9,92.5,4:4,75.0,166.0,20.0,50.0,medium fast,80,100,70,60,70,95,,2.0,,,,,sredniaki
 emolga,emolga,,,5,black-white,electric,flying,Sky Squirrel,0.4,5.0,4:4,200.0,150.0,20.0,50.0,medium fast,55,75,60,75,60,103,,,,,,2.0,specjalni
-karrablast,karrablast,,,5,black-white,bug,,Clamping,0.5,5.9,4:4,200.0,63.0,15.0,50.0,medium fast,50,75,45,40,45,60,,1.0,,,,,agresorzy
-escavalier,escavalier,,,5,black-white,bug,steel,Cavalry,1.0,33.0,4:4,75.0,173.0,15.0,50.0,medium fast,70,135,105,60,105,20,,2.0,,,,,agresorzy
+karrablast,karrablast,,,5,black-white,bug,,Clamping,0.5,5.9,4:4,200.0,63.0,15.0,50.0,medium fast,50,75,45,40,45,60,,1.0,,,,,sredniaki
+escavalier,escavalier,,,5,black-white,bug,steel,Cavalry,1.0,33.0,4:4,75.0,173.0,15.0,50.0,medium fast,70,135,105,60,105,20,,2.0,,,,,sredniaki
 foongus,foongus,,,5,black-white,grass,poison,Mushroom,0.2,1.0,4:4,190.0,59.0,20.0,50.0,medium fast,69,55,45,55,55,15,1.0,,,,,,sredniaki
 amoonguss,amoonguss,,,5,black-white,grass,poison,Mushroom,0.6,10.5,4:4,75.0,162.0,20.0,50.0,medium fast,114,85,70,85,80,30,2.0,,,,,,sredniaki
 frillish,frillish,,,5,black-white,water,ghost,Floating,1.2,33.0,4:4,190.0,67.0,20.0,50.0,medium fast,55,40,50,65,85,40,,,,,1.0,,sredniaki
 jellicent,jellicent,,,5,black-white,water,ghost,Floating,2.2,135.0,4:4,60.0,168.0,20.0,50.0,medium fast,100,60,70,85,105,60,,,,,2.0,,sredniaki
 alomomola,alomomola,,,5,black-white,water,,Caring,1.2,31.6,4:4,75.0,165.0,40.0,50.0,fast,165,75,80,40,45,65,2.0,,,,,,sredniaki
-joltik,joltik,,,5,black-white,bug,electric,Attaching,0.1,0.6,4:4,190.0,64.0,20.0,50.0,medium fast,50,47,50,57,50,65,,,,,,1.0,agresorzy
-galvantula,galvantula,,,5,black-white,bug,electric,EleSpider,0.8,14.3,4:4,75.0,165.0,20.0,50.0,medium fast,70,77,60,97,60,108,,,,,,2.0,agresorzy
+joltik,joltik,,,5,black-white,bug,electric,Attaching,0.1,0.6,4:4,190.0,64.0,20.0,50.0,medium fast,50,47,50,57,50,65,,,,,,1.0,sredniaki
+galvantula,galvantula,,,5,black-white,bug,electric,EleSpider,0.8,14.3,4:4,75.0,165.0,20.0,50.0,medium fast,70,77,60,97,60,108,,,,,,2.0,sredniaki
 ferroseed,ferroseed,,,5,black-white,grass,steel,Thorn Seed,0.6,18.8,4:4,255.0,61.0,20.0,50.0,medium fast,44,50,91,24,86,10,,,1.0,,,,sredniaki
 ferrothorn,ferrothorn,,,5,black-white,grass,steel,Thorn Pod,1.0,110.0,4:4,90.0,171.0,20.0,50.0,medium fast,74,94,131,54,116,20,,,2.0,,,,sredniaki
 klink,klink,,,5,black-white,steel,,Gear,0.3,21.0,genderless,130.0,60.0,20.0,50.0,medium slow,40,55,70,45,60,30,,,1.0,,,,grubole
@@ -733,75 +733,75 @@ beheeyem,beheeyem,,,5,black-white,psychic,,Cerebral,1.0,34.5,4:4,90.0,170.0,20.0
 litwick,litwick,,,5,black-white,ghost,fire,Candle,0.3,3.1,4:4,190.0,55.0,20.0,50.0,medium slow,50,30,55,65,55,20,,,,1.0,,,specjalni
 lampent,lampent,,,5,black-white,ghost,fire,Lamp,0.6,13.0,4:4,90.0,130.0,20.0,50.0,medium slow,60,40,60,95,60,55,,,,2.0,,,specjalni
 chandelure,chandelure,,,5,black-white,ghost,fire,Luring,1.0,34.3,4:4,45.0,234.0,20.0,50.0,medium slow,60,55,90,145,90,80,,,,3.0,,,specjalni
-axew,axew,,,5,black-white,dragon,,Tusk,0.6,18.0,4:4,75.0,64.0,40.0,35.0,slow,46,87,60,30,40,57,,1.0,,,,,sredniaki
-fraxure,fraxure,,,5,black-white,dragon,,Axe Jaw,1.0,36.0,4:4,60.0,144.0,40.0,35.0,slow,66,117,70,40,50,67,,2.0,,,,,sredniaki
-haxorus,haxorus,,,5,black-white,dragon,,Axe Jaw,1.8,105.5,4:4,45.0,270.0,40.0,35.0,slow,76,147,90,60,70,97,,3.0,,,,,sredniaki
+axew,axew,,,5,black-white,dragon,,Tusk,0.6,18.0,4:4,75.0,64.0,40.0,35.0,slow,46,87,60,30,40,57,,1.0,,,,,elita
+fraxure,fraxure,,,5,black-white,dragon,,Axe Jaw,1.0,36.0,4:4,60.0,144.0,40.0,35.0,slow,66,117,70,40,50,67,,2.0,,,,,elita
+haxorus,haxorus,,,5,black-white,dragon,,Axe Jaw,1.8,105.5,4:4,45.0,270.0,40.0,35.0,slow,76,147,90,60,70,97,,3.0,,,,,elita
 cubchoo,cubchoo,,,5,black-white,ice,,Chill,0.5,8.5,4:4,120.0,61.0,20.0,50.0,medium fast,55,70,40,60,40,40,,1.0,,,,,sredniaki
 beartic,beartic,,,5,black-white,ice,,Freezing,2.6,260.0,4:4,60.0,177.0,20.0,50.0,medium fast,95,130,80,70,80,50,,2.0,,,,,sredniaki
 cryogonal,cryogonal,,,5,black-white,ice,,Crystallizing,1.1,148.0,genderless,25.0,180.0,25.0,50.0,medium fast,80,50,50,95,135,105,,,,,2.0,,sredniaki
-shelmet,shelmet,,,5,black-white,bug,,Snail,0.4,7.7,4:4,200.0,61.0,15.0,50.0,medium fast,50,40,85,40,65,25,,,1.0,,,,agresorzy
-accelgor,accelgor,,,5,black-white,bug,,Shell Out,0.8,25.3,4:4,75.0,173.0,15.0,50.0,medium fast,80,70,40,100,60,145,,,,,,2.0,agresorzy
+shelmet,shelmet,,,5,black-white,bug,,Snail,0.4,7.7,4:4,200.0,61.0,15.0,50.0,medium fast,50,40,85,40,65,25,,,1.0,,,,sredniaki
+accelgor,accelgor,,,5,black-white,bug,,Shell Out,0.8,25.3,4:4,75.0,173.0,15.0,50.0,medium fast,80,70,40,100,60,145,,,,,,2.0,sredniaki
 stunfisk,stunfisk,,,5,black-white,ground,electric,Trap,0.7,11.0,4:4,75.0,165.0,20.0,70.0,medium fast,109,66,84,81,99,32,2.0,,,,,,grubole
 stunfisk-galarian,stunfisk,galarian,Galarian Stunfisk,8,sword-shield,ground,steel,Trap,0.7,20.5,4:4,75.0,165.0,20.0,50.0,medium fast,109,81,99,66,84,32,2.0,,,,,,grubole
 mienfoo,mienfoo,,,5,black-white,fighting,,Martial Arts,0.9,20.0,4:4,180.0,70.0,25.0,50.0,medium slow,45,85,50,55,50,65,,1.0,,,,,agresorzy
 mienshao,mienshao,,,5,black-white,fighting,,Martial Arts,1.4,35.5,4:4,45.0,179.0,25.0,50.0,medium slow,65,125,60,95,60,105,,2.0,,,,,agresorzy
-druddigon,druddigon,,,5,black-white,dragon,,Cave,1.6,139.0,4:4,45.0,170.0,30.0,50.0,medium fast,77,120,90,60,90,48,,2.0,,,,,sredniaki
+druddigon,druddigon,,,5,black-white,dragon,,Cave,1.6,139.0,4:4,45.0,170.0,30.0,50.0,medium fast,77,120,90,60,90,48,,2.0,,,,,elita
 golett,golett,,,5,black-white,ground,ghost,Automaton,1.0,92.0,genderless,190.0,61.0,25.0,50.0,medium fast,59,74,50,35,50,35,,1.0,,,,,grubole
 golurk,golurk,,,5,black-white,ground,ghost,Automaton,2.8,330.0,genderless,90.0,169.0,25.0,50.0,medium fast,89,124,80,55,80,55,,2.0,,,,,grubole
 pawniard,pawniard,,,5,black-white,dark,steel,Sharp Blade,0.5,10.2,4:4,120.0,68.0,20.0,35.0,medium fast,45,85,70,40,40,60,,1.0,,,,,agresorzy
 bisharp,bisharp,,,5,black-white,dark,steel,Sword Blade,1.6,70.0,4:4,45.0,172.0,20.0,35.0,medium fast,65,125,100,60,70,70,,2.0,,,,,agresorzy
-bouffalant,bouffalant,,,5,black-white,normal,,Bash Buffalo,1.6,94.6,4:4,45.0,172.0,20.0,50.0,medium fast,95,110,95,40,95,55,,2.0,,,,,grubole
-rufflet,rufflet,,,5,black-white,normal,flying,Eaglet,0.5,10.5,0,190.0,70.0,20.0,50.0,slow,70,83,50,37,50,60,,1.0,,,,,grubole
-braviary,braviary,,,5,black-white,normal,flying,Valiant,1.5,41.0,0,60.0,179.0,20.0,50.0,slow,100,123,75,57,75,80,,2.0,,,,,grubole
+bouffalant,bouffalant,,,5,black-white,normal,,Bash Buffalo,1.6,94.6,4:4,45.0,172.0,20.0,50.0,medium fast,95,110,95,40,95,55,,2.0,,,,,sredniaki
+rufflet,rufflet,,,5,black-white,normal,flying,Eaglet,0.5,10.5,0,190.0,70.0,20.0,50.0,slow,70,83,50,37,50,60,,1.0,,,,,sredniaki
+braviary,braviary,,,5,black-white,normal,flying,Valiant,1.5,41.0,0,60.0,179.0,20.0,50.0,slow,100,123,75,57,75,80,,2.0,,,,,sredniaki
 braviary-hisuian,braviary,hisuian,Hisuian Braviary,8,legends-arceus,psychic,flying,Battle Cry,1.7,43.4,0,60.0,179.0,20.0,50.0,slow,110,83,70,112,70,65,,,,2.0,,,specjalni
 vullaby,vullaby,,,5,black-white,dark,flying,Diapered,0.5,9.0,8:0,190.0,74.0,20.0,35.0,slow,70,55,75,45,65,60,,,1.0,,,,agresorzy
 mandibuzz,mandibuzz,,,5,black-white,dark,flying,Bone Vulture,1.2,39.5,8:0,60.0,179.0,20.0,35.0,slow,110,65,105,55,95,80,,,,2.0,,,agresorzy
-heatmor,heatmor,,,5,black-white,fire,,Anteater,1.4,58.0,4:4,90.0,169.0,20.0,50.0,medium fast,85,97,66,105,66,65,,,,2.0,,,agresorzy
-durant,durant,,,5,black-white,bug,steel,Iron Ant,0.3,33.0,4:4,90.0,169.0,20.0,50.0,medium fast,58,109,112,48,48,109,,,2.0,,,,agresorzy
+heatmor,heatmor,,,5,black-white,fire,,Anteater,1.4,58.0,4:4,90.0,169.0,20.0,50.0,medium fast,85,97,66,105,66,65,,,,2.0,,,specjalni
+durant,durant,,,5,black-white,bug,steel,Iron Ant,0.3,33.0,4:4,90.0,169.0,20.0,50.0,medium fast,58,109,112,48,48,109,,,2.0,,,,sredniaki
 deino,deino,,,5,black-white,dark,dragon,Irate,0.8,17.3,4:4,45.0,60.0,40.0,35.0,slow,52,65,50,45,50,38,,1.0,,,,,agresorzy
 zweilous,zweilous,,,5,black-white,dark,dragon,Hostile,1.4,50.0,4:4,45.0,147.0,40.0,35.0,slow,72,85,70,65,70,58,,2.0,,,,,agresorzy
 hydreigon,hydreigon,,,5,black-white,dark,dragon,Brutal,1.8,160.0,4:4,45.0,300.0,40.0,35.0,slow,92,105,90,125,90,98,,,,3.0,,,agresorzy
-larvesta,larvesta,,,5,black-white,bug,fire,Torch,1.1,28.8,4:4,45.0,72.0,40.0,50.0,slow,55,85,55,50,55,60,,1.0,,,,,agresorzy
-volcarona,volcarona,,,5,black-white,bug,fire,Sun,1.6,46.0,4:4,15.0,275.0,40.0,50.0,slow,85,60,65,135,105,100,,,,3.0,,,agresorzy
+larvesta,larvesta,,,5,black-white,bug,fire,Torch,1.1,28.8,4:4,45.0,72.0,40.0,50.0,slow,55,85,55,50,55,60,,1.0,,,,,sredniaki
+volcarona,volcarona,,,5,black-white,bug,fire,Sun,1.6,46.0,4:4,15.0,275.0,40.0,50.0,slow,85,60,65,135,105,100,,,,3.0,,,sredniaki
 cobalion,cobalion,,,5,black-white,steel,fighting,Iron Will,2.1,250.0,genderless,3.0,261.0,80.0,35.0,slow,91,90,129,90,72,108,,,3.0,,,,grubole
 terrakion,terrakion,,,5,black-white,rock,fighting,Cavern,1.9,260.0,genderless,3.0,261.0,80.0,35.0,slow,91,129,90,72,90,108,,3.0,,,,,grubole
 virizion,virizion,,,5,black-white,grass,fighting,Grassland,2.0,200.0,genderless,3.0,261.0,80.0,35.0,slow,91,90,72,90,129,108,,,,,3.0,,sredniaki
-tornadus-incarnate,tornadus,incarnate,Incarnate Forme,5,black-white,flying,,Cyclone,1.5,63.0,0,3.0,290.0,120.0,90.0,slow,79,115,70,125,80,111,,3.0,,,,,specjalni
-tornadus-therian,tornadus,therian,Therian Forme,5,black-white,flying,,Cyclone,1.4,63.0,0,3.0,290.0,120.0,90.0,slow,79,100,80,110,90,121,,,,,,3.0,specjalni
+tornadus-incarnate,tornadus,incarnate,Incarnate Forme,5,black-white,flying,,Cyclone,1.5,63.0,0,3.0,290.0,120.0,90.0,slow,79,115,70,125,80,111,,3.0,,,,,agresorzy
+tornadus-therian,tornadus,therian,Therian Forme,5,black-white,flying,,Cyclone,1.4,63.0,0,3.0,290.0,120.0,90.0,slow,79,100,80,110,90,121,,,,,,3.0,agresorzy
 thundurus-incarnate,thundurus,incarnate,Incarnate Forme,5,black-white,electric,flying,Bolt Strike,1.5,61.0,0,3.0,290.0,120.0,90.0,slow,79,115,70,125,80,111,,3.0,,,,,specjalni
 thundurus-therian,thundurus,therian,Therian Forme,5,black-white,electric,flying,Bolt Strike,3.0,61.0,0,3.0,290.0,120.0,90.0,slow,79,105,70,145,80,101,,,,3.0,,,specjalni
-reshiram,reshiram,,,5,black-white,dragon,fire,Vast White,3.2,330.0,genderless,3.0,306.0,120.0,0.0,slow,100,120,100,150,120,90,,,,3.0,,,sredniaki
-zekrom,zekrom,,,5,black-white,dragon,electric,Deep Black,2.9,345.0,genderless,3.0,306.0,120.0,0.0,slow,100,150,120,120,100,90,,3.0,,,,,sredniaki
+reshiram,reshiram,,,5,black-white,dragon,fire,Vast White,3.2,330.0,genderless,3.0,306.0,120.0,0.0,slow,100,120,100,150,120,90,,,,3.0,,,elita
+zekrom,zekrom,,,5,black-white,dragon,electric,Deep Black,2.9,345.0,genderless,3.0,306.0,120.0,0.0,slow,100,150,120,120,100,90,,3.0,,,,,elita
 landorus-incarnate,landorus,incarnate,Incarnate Forme,5,black-white,ground,flying,Abundance,1.5,68.0,0,3.0,300.0,120.0,90.0,slow,89,125,90,115,80,101,,,,3.0,,,grubole
 landorus-therian,landorus,therian,Therian Forme,5,black-white,ground,flying,Abundance,1.3,68.0,0,3.0,300.0,120.0,90.0,slow,89,145,90,105,80,91,,3.0,,,,,grubole
-kyurem,kyurem,,,5,black-white,dragon,ice,Boundary,3.0,325.0,genderless,3.0,297.0,120.0,0.0,slow,125,130,90,130,90,95,1.0,1.0,,1.0,,,sredniaki
-kyurem-white,kyurem,white,White Kyurem,5,black-white,dragon,ice,Boundary,3.6,325.0,genderless,3.0,315.0,120.0,0.0,slow,125,120,90,170,100,95,,,,3.0,,,sredniaki
-kyurem-black,kyurem,black,Black Kyurem,5,black-white,dragon,ice,Boundary,3.3,325.0,genderless,3.0,315.0,120.0,0.0,slow,125,170,100,120,90,95,,3.0,,,,,sredniaki
+kyurem,kyurem,,,5,black-white,dragon,ice,Boundary,3.0,325.0,genderless,3.0,297.0,120.0,0.0,slow,125,130,90,130,90,95,1.0,1.0,,1.0,,,elita
+kyurem-white,kyurem,white,White Kyurem,5,black-white,dragon,ice,Boundary,3.6,325.0,genderless,3.0,315.0,120.0,0.0,slow,125,120,90,170,100,95,,,,3.0,,,elita
+kyurem-black,kyurem,black,Black Kyurem,5,black-white,dragon,ice,Boundary,3.3,325.0,genderless,3.0,315.0,120.0,0.0,slow,125,170,100,120,90,95,,3.0,,,,,elita
 keldeo-ordinary,keldeo,ordinary,Ordinary Form,5,black-white,water,fighting,Colt,1.4,48.5,genderless,3.0,261.0,80.0,35.0,slow,91,72,90,129,90,108,,,,3.0,,,sredniaki
 keldeo-resolute,keldeo,resolute,Resolute Form,5,black-white,water,fighting,Colt,1.4,48.5,genderless,3.0,261.0,80.0,35.0,slow,91,72,90,129,90,108,,,,3.0,,,sredniaki
-meloetta-aria,meloetta,aria,Aria Forme,5,black-white,normal,psychic,Melody,0.6,6.5,genderless,3.0,300.0,120.0,100.0,slow,100,77,77,128,128,90,,,,1.0,1.0,1.0,grubole
-meloetta-pirouette,meloetta,pirouette,Pirouette Forme,5,black-white,normal,fighting,Melody,0.6,6.5,genderless,3.0,300.0,120.0,100.0,slow,100,128,90,77,77,128,,1.0,1.0,,,1.0,grubole
-genesect,genesect,,,5,black-white,bug,steel,Paleozoic,1.5,82.5,genderless,3.0,270.0,120.0,0.0,slow,71,120,95,120,95,99,,1.0,,1.0,,1.0,agresorzy
+meloetta-aria,meloetta,aria,Aria Forme,5,black-white,normal,psychic,Melody,0.6,6.5,genderless,3.0,300.0,120.0,100.0,slow,100,77,77,128,128,90,,,,1.0,1.0,1.0,sredniaki
+meloetta-pirouette,meloetta,pirouette,Pirouette Forme,5,black-white,normal,fighting,Melody,0.6,6.5,genderless,3.0,300.0,120.0,100.0,slow,100,128,90,77,77,128,,1.0,1.0,,,1.0,sredniaki
+genesect,genesect,,,5,black-white,bug,steel,Paleozoic,1.5,82.5,genderless,3.0,270.0,120.0,0.0,slow,71,120,95,120,95,99,,1.0,,1.0,,1.0,sredniaki
 chespin,chespin,,,6,x-y,grass,,Spiny Nut,0.4,9.0,1:7,45.0,63.0,20.0,50.0,medium slow,56,61,65,48,45,38,,,1.0,,,,sredniaki
 quilladin,quilladin,,,6,x-y,grass,,Spiny Armor,0.7,29.0,1:7,45.0,142.0,20.0,50.0,medium slow,61,78,95,56,58,57,,,2.0,,,,sredniaki
 chesnaught,chesnaught,,,6,x-y,grass,fighting,Spiny Armor,1.6,90.0,1:7,45.0,265.0,20.0,50.0,medium slow,88,107,122,74,75,64,,,3.0,,,,sredniaki
-fennekin,fennekin,,,6,x-y,fire,,Fox,0.4,9.4,1:7,45.0,61.0,20.0,50.0,medium slow,40,45,40,62,60,60,,,,1.0,,,agresorzy
-braixen,braixen,,,6,x-y,fire,,Fox,1.0,14.5,1:7,45.0,143.0,20.0,50.0,medium slow,59,59,58,90,70,73,,,,2.0,,,agresorzy
-delphox,delphox,,,6,x-y,fire,psychic,Fox,1.5,39.0,1:7,45.0,267.0,20.0,50.0,medium slow,75,69,72,114,100,104,,,,3.0,,,agresorzy
+fennekin,fennekin,,,6,x-y,fire,,Fox,0.4,9.4,1:7,45.0,61.0,20.0,50.0,medium slow,40,45,40,62,60,60,,,,1.0,,,specjalni
+braixen,braixen,,,6,x-y,fire,,Fox,1.0,14.5,1:7,45.0,143.0,20.0,50.0,medium slow,59,59,58,90,70,73,,,,2.0,,,specjalni
+delphox,delphox,,,6,x-y,fire,psychic,Fox,1.5,39.0,1:7,45.0,267.0,20.0,50.0,medium slow,75,69,72,114,100,104,,,,3.0,,,specjalni
 froakie,froakie,,,6,x-y,water,,Bubble Frog,0.3,7.0,1:7,45.0,63.0,20.0,50.0,medium slow,41,56,40,62,44,71,,,,,,1.0,sredniaki
 frogadier,frogadier,,,6,x-y,water,,Bubble Frog,0.6,10.9,1:7,45.0,142.0,20.0,50.0,medium slow,54,63,52,83,56,97,,,,,,2.0,sredniaki
 greninja,greninja,,,6,x-y,water,dark,Ninja,1.5,40.0,1:7,45.0,265.0,20.0,50.0,medium slow,72,95,67,103,71,122,,,,,,3.0,sredniaki
 greninja-ash,greninja,ash,Ash-Greninja,7,sun-moon,water,dark,Ninja,1.5,40.0,0,45.0,265.0,20.0,50.0,medium slow,72,145,67,153,71,132,,,,,,3.0,sredniaki
-bunnelby,bunnelby,,,6,x-y,normal,,Digging,0.4,5.0,4:4,255.0,47.0,15.0,50.0,medium fast,38,36,38,32,36,57,,,,,,1.0,grubole
-diggersby,diggersby,,,6,x-y,normal,ground,Digging,1.0,42.4,4:4,127.0,148.0,15.0,50.0,medium fast,85,56,77,50,77,78,2.0,,,,,,grubole
-fletchling,fletchling,,,6,x-y,normal,flying,Tiny Robin,0.3,1.7,4:4,255.0,56.0,15.0,50.0,medium slow,45,50,43,40,38,62,,,,,,1.0,grubole
-fletchinder,fletchinder,,,6,x-y,fire,flying,Ember,0.7,16.0,4:4,120.0,134.0,15.0,50.0,medium slow,62,73,55,56,52,84,,,,,,2.0,agresorzy
-talonflame,talonflame,,,6,x-y,fire,flying,Scorching,1.2,24.5,4:4,45.0,175.0,15.0,50.0,medium slow,78,81,71,74,69,126,,,,,,3.0,agresorzy
-scatterbug,scatterbug,,,6,x-y,bug,,Scatterdust,0.3,2.5,4:4,255.0,40.0,15.0,50.0,medium fast,38,35,40,27,25,35,,,1.0,,,,agresorzy
-spewpa,spewpa,,,6,x-y,bug,,Scatterdust,0.3,8.4,4:4,120.0,75.0,15.0,50.0,medium fast,45,22,60,27,30,29,,,2.0,,,,agresorzy
-vivillon,vivillon,,,6,x-y,bug,flying,Scale,1.2,17.0,4:4,45.0,206.0,15.0,50.0,medium fast,80,52,50,90,50,89,1.0,,,1.0,,1.0,agresorzy
-litleo,litleo,,,6,x-y,fire,normal,Lion Cub,0.6,13.5,7:1,220.0,74.0,20.0,50.0,medium slow,62,50,58,73,54,72,,,,1.0,,,agresorzy
-pyroar,pyroar,,,6,x-y,fire,normal,Royal,1.5,81.5,7:1,65.0,177.0,20.0,50.0,medium slow,86,68,72,109,66,106,,,,2.0,,,agresorzy
+bunnelby,bunnelby,,,6,x-y,normal,,Digging,0.4,5.0,4:4,255.0,47.0,15.0,50.0,medium fast,38,36,38,32,36,57,,,,,,1.0,sredniaki
+diggersby,diggersby,,,6,x-y,normal,ground,Digging,1.0,42.4,4:4,127.0,148.0,15.0,50.0,medium fast,85,56,77,50,77,78,2.0,,,,,,sredniaki
+fletchling,fletchling,,,6,x-y,normal,flying,Tiny Robin,0.3,1.7,4:4,255.0,56.0,15.0,50.0,medium slow,45,50,43,40,38,62,,,,,,1.0,sredniaki
+fletchinder,fletchinder,,,6,x-y,fire,flying,Ember,0.7,16.0,4:4,120.0,134.0,15.0,50.0,medium slow,62,73,55,56,52,84,,,,,,2.0,specjalni
+talonflame,talonflame,,,6,x-y,fire,flying,Scorching,1.2,24.5,4:4,45.0,175.0,15.0,50.0,medium slow,78,81,71,74,69,126,,,,,,3.0,specjalni
+scatterbug,scatterbug,,,6,x-y,bug,,Scatterdust,0.3,2.5,4:4,255.0,40.0,15.0,50.0,medium fast,38,35,40,27,25,35,,,1.0,,,,sredniaki
+spewpa,spewpa,,,6,x-y,bug,,Scatterdust,0.3,8.4,4:4,120.0,75.0,15.0,50.0,medium fast,45,22,60,27,30,29,,,2.0,,,,sredniaki
+vivillon,vivillon,,,6,x-y,bug,flying,Scale,1.2,17.0,4:4,45.0,206.0,15.0,50.0,medium fast,80,52,50,90,50,89,1.0,,,1.0,,1.0,sredniaki
+litleo,litleo,,,6,x-y,fire,normal,Lion Cub,0.6,13.5,7:1,220.0,74.0,20.0,50.0,medium slow,62,50,58,73,54,72,,,,1.0,,,specjalni
+pyroar,pyroar,,,6,x-y,fire,normal,Royal,1.5,81.5,7:1,65.0,177.0,20.0,50.0,medium slow,86,68,72,109,66,106,,,,2.0,,,specjalni
 flabebe,flabebe,,,6,x-y,fairy,,Single Bloom,0.1,0.1,8:0,225.0,61.0,20.0,50.0,medium fast,44,38,39,61,79,42,,,,,1.0,,specjalni
 floette,floette,,,6,x-y,fairy,,Single Bloom,0.2,0.9,8:0,120.0,130.0,20.0,50.0,medium fast,54,45,47,75,98,52,,,,,2.0,,specjalni
 florges,florges,,,6,x-y,fairy,,Garden,1.1,10.0,8:0,45.0,276.0,20.0,50.0,medium fast,78,65,68,112,154,75,,,,,3.0,,specjalni
@@ -809,7 +809,7 @@ skiddo,skiddo,,,6,x-y,grass,,Mount,0.9,31.0,4:4,200.0,70.0,20.0,50.0,medium fast
 gogoat,gogoat,,,6,x-y,grass,,Mount,1.7,91.0,4:4,45.0,186.0,20.0,50.0,medium fast,123,100,62,97,81,68,2.0,,,,,,sredniaki
 pancham,pancham,,,6,x-y,fighting,,Playful,0.6,8.0,4:4,220.0,70.0,25.0,50.0,medium fast,67,82,62,46,48,43,,1.0,,,,,agresorzy
 pangoro,pangoro,,,6,x-y,fighting,dark,Daunting,2.1,136.0,4:4,65.0,173.0,25.0,50.0,medium fast,95,124,78,69,71,58,,2.0,,,,,agresorzy
-furfrou,furfrou,,,6,x-y,normal,,Poodle,1.2,28.0,4:4,160.0,165.0,20.0,50.0,medium fast,75,80,60,65,90,102,,,,,,1.0,grubole
+furfrou,furfrou,,,6,x-y,normal,,Poodle,1.2,28.0,4:4,160.0,165.0,20.0,50.0,medium fast,75,80,60,65,90,102,,,,,,1.0,sredniaki
 espurr,espurr,,,6,x-y,psychic,,Restraint,0.3,3.5,4:4,190.0,71.0,20.0,50.0,medium fast,62,48,54,63,60,68,,,,,,1.0,specjalni
 meowstic-male,meowstic,male,Male,6,x-y,psychic,,Constraint,0.6,8.5,0,75.0,163.0,20.0,50.0,medium fast,74,48,76,83,81,104,,,,,,2.0,specjalni
 meowstic-female,meowstic,female,Female,6,x-y,psychic,,Constraint,0.6,8.5,8:0,75.0,163.0,20.0,50.0,medium fast,74,48,76,83,81,104,,,,,,2.0,specjalni
@@ -839,10 +839,10 @@ sylveon,sylveon,,,6,x-y,fairy,,Intertwining,1.0,23.5,1:7,45.0,184.0,35.0,50.0,me
 hawlucha,hawlucha,,,6,x-y,fighting,flying,Wrestling,0.8,21.5,4:4,100.0,175.0,20.0,50.0,medium fast,78,92,75,74,63,118,,2.0,,,,,agresorzy
 dedenne,dedenne,,,6,x-y,electric,fairy,Antenna,0.2,2.2,4:4,180.0,151.0,20.0,50.0,medium fast,67,58,57,81,67,101,,,,,,2.0,specjalni
 carbink,carbink,,,6,x-y,rock,fairy,Jewel,0.3,5.7,genderless,60.0,100.0,25.0,50.0,slow,50,50,150,50,150,50,,,1.0,,1.0,,grubole
-goomy,goomy,,,6,x-y,dragon,,Soft Tissue,0.3,2.8,4:4,45.0,60.0,40.0,35.0,slow,45,50,35,55,75,40,,,,,1.0,,sredniaki
-sliggoo,sliggoo,,,6,x-y,dragon,,Soft Tissue,0.8,17.5,4:4,45.0,158.0,40.0,35.0,slow,68,75,53,83,113,60,,,,,2.0,,sredniaki
+goomy,goomy,,,6,x-y,dragon,,Soft Tissue,0.3,2.8,4:4,45.0,60.0,40.0,35.0,slow,45,50,35,55,75,40,,,,,1.0,,elita
+sliggoo,sliggoo,,,6,x-y,dragon,,Soft Tissue,0.8,17.5,4:4,45.0,158.0,40.0,35.0,slow,68,75,53,83,113,60,,,,,2.0,,elita
 sliggoo-hisuian,sliggoo,hisuian,Hisuian Sliggoo,8,legends-arceus,steel,dragon,Snail,0.7,68.5,4:4,45.0,158.0,40.0,35.0,slow,58,75,83,83,113,40,,,,,2.0,,grubole
-goodra,goodra,,,6,x-y,dragon,,Dragon,2.0,150.5,4:4,45.0,300.0,40.0,35.0,slow,90,100,70,110,150,80,,,,,3.0,,sredniaki
+goodra,goodra,,,6,x-y,dragon,,Dragon,2.0,150.5,4:4,45.0,300.0,40.0,35.0,slow,90,100,70,110,150,80,,,,,3.0,,elita
 goodra-hisuian,goodra,hisuian,Hisuian Goodra,8,legends-arceus,steel,dragon,Shell Bunker,1.7,334.1,4:4,45.0,300.0,40.0,35.0,slow,80,100,100,110,150,60,,,,,3.0,,grubole
 klefki,klefki,,,6,x-y,steel,fairy,Key Ring,0.2,3.0,4:4,75.0,165.0,20.0,50.0,fast,57,80,91,80,87,75,,,1.0,,,,grubole
 phantump,phantump,,,6,x-y,ghost,grass,Stump,0.4,7.0,4:4,120.0,62.0,20.0,50.0,medium fast,43,70,48,50,60,38,,1.0,,,,,specjalni
@@ -858,44 +858,44 @@ gourgeist-super,gourgeist,super,Super Size,6,x-y,ghost,grass,Pumpkin,1.7,39.0,4:
 bergmite,bergmite,,,6,x-y,ice,,Ice Chunk,1.0,99.5,4:4,190.0,61.0,20.0,50.0,medium fast,55,69,85,32,35,28,,,1.0,,,,sredniaki
 avalugg,avalugg,,,6,x-y,ice,,Iceberg,2.0,505.0,4:4,55.0,180.0,20.0,50.0,medium fast,95,117,184,44,46,28,,,2.0,,,,sredniaki
 avalugg-hisuian,avalugg,hisuian,Hisuian Avalugg,8,legends-arceus,ice,rock,Iceberg,1.4,262.4,4:4,55.0,180.0,20.0,50.0,medium fast,95,127,184,34,36,38,,,2.0,,,,sredniaki
-noibat,noibat,,,6,x-y,flying,dragon,Sound Wave,0.5,8.0,4:4,190.0,49.0,20.0,50.0,medium fast,40,30,35,45,40,55,,,,,,1.0,specjalni
-noivern,noivern,,,6,x-y,flying,dragon,Sound Wave,1.5,85.0,4:4,45.0,187.0,20.0,50.0,medium fast,85,70,80,97,80,123,,,,,,2.0,specjalni
+noibat,noibat,,,6,x-y,flying,dragon,Sound Wave,0.5,8.0,4:4,190.0,49.0,20.0,50.0,medium fast,40,30,35,45,40,55,,,,,,1.0,agresorzy
+noivern,noivern,,,6,x-y,flying,dragon,Sound Wave,1.5,85.0,4:4,45.0,187.0,20.0,50.0,medium fast,85,70,80,97,80,123,,,,,,2.0,agresorzy
 xerneas,xerneas,,,6,x-y,fairy,,Life,3.0,215.0,genderless,45.0,306.0,120.0,0.0,slow,126,131,95,131,98,99,3.0,,,,,,specjalni
 yveltal,yveltal,,,6,x-y,dark,flying,Destruction,5.8,203.0,genderless,45.0,306.0,120.0,0.0,slow,126,131,95,131,98,99,3.0,,,,,,agresorzy
-zygarde-50,zygarde,50,50% Forme,6,x-y,dragon,ground,Order,5.0,305.0,genderless,3.0,270.0,120.0,0.0,slow,108,100,121,81,95,95,3.0,,,,,,sredniaki
-zygarde-10,zygarde,10,10% Forme,7,sun-moon,dragon,ground,Order,1.2,33.5,genderless,3.0,219.0,120.0,0.0,slow,54,100,71,61,85,115,3.0,,,,,,sredniaki
-zygarde-complete,zygarde,complete,Complete Forme,7,sun-moon,dragon,ground,Order,4.5,610.0,genderless,3.0,319.0,120.0,0.0,slow,216,100,121,91,95,85,3.0,,,,,,sredniaki
+zygarde-50,zygarde,50,50% Forme,6,x-y,dragon,ground,Order,5.0,305.0,genderless,3.0,270.0,120.0,0.0,slow,108,100,121,81,95,95,3.0,,,,,,elita
+zygarde-10,zygarde,10,10% Forme,7,sun-moon,dragon,ground,Order,1.2,33.5,genderless,3.0,219.0,120.0,0.0,slow,54,100,71,61,85,115,3.0,,,,,,elita
+zygarde-complete,zygarde,complete,Complete Forme,7,sun-moon,dragon,ground,Order,4.5,610.0,genderless,3.0,319.0,120.0,0.0,slow,216,100,121,91,95,85,3.0,,,,,,elita
 diancie,diancie,,,6,x-y,rock,fairy,Jewel,0.7,8.8,genderless,3.0,300.0,25.0,50.0,slow,50,100,150,100,150,50,,,1.0,,2.0,,grubole
 diancie-mega,diancie,mega,Mega Diancie,6,omega-ruby-alpha-sapphire,rock,fairy,Jewel,1.1,27.8,genderless,3.0,315.0,25.0,50.0,slow,50,160,110,160,110,110,,,1.0,,2.0,,grubole
 hoopa-confined,hoopa,confined,Hoopa Confined,6,x-y,psychic,ghost,Mischief,0.5,9.0,genderless,3.0,300.0,120.0,100.0,slow,80,110,60,150,130,70,,,,3.0,,,specjalni
 hoopa-unbound,hoopa,unbound,Hoopa Unbound,6,x-y,psychic,dark,Djinn,6.5,490.0,genderless,3.0,340.0,120.0,50.0,slow,80,160,60,170,130,80,,,,3.0,,,specjalni
-volcanion,volcanion,,,6,x-y,fire,water,Steam,1.7,195.0,genderless,3.0,300.0,120.0,100.0,slow,80,110,120,130,90,70,,,,3.0,,,agresorzy
+volcanion,volcanion,,,6,x-y,fire,water,Steam,1.7,195.0,genderless,3.0,300.0,120.0,100.0,slow,80,110,120,130,90,70,,,,3.0,,,specjalni
 rowlet,rowlet,,,7,sun-moon,grass,flying,Grass Quill,0.3,1.5,1:7,45.0,64.0,15.0,50.0,medium slow,68,55,55,50,50,42,1.0,,,,,,sredniaki
 dartrix,dartrix,,,7,sun-moon,grass,flying,Blade Quill,0.7,16.0,1:7,45.0,147.0,15.0,50.0,medium slow,78,75,75,70,70,52,2.0,,,,,,sredniaki
 decidueye,decidueye,,,7,sun-moon,grass,ghost,Arrow Quill,1.6,36.6,1:7,45.0,265.0,15.0,50.0,medium slow,78,107,75,100,100,70,,3.0,,,,,sredniaki
 decidueye-hisuian,decidueye,hisuian,Hisuian Decidueye,8,legends-arceus,grass,fighting,Arrow Quill,1.6,37.0,1:7,45.0,265.0,15.0,50.0,medium slow,88,112,80,95,95,60,,3.0,,,,,sredniaki
-litten,litten,,,7,sun-moon,fire,,Fire Cat,0.4,4.3,1:7,45.0,64.0,15.0,50.0,medium slow,45,65,40,60,40,70,,,,,,1.0,agresorzy
-torracat,torracat,,,7,sun-moon,fire,,Fire Cat,0.7,25.0,1:7,45.0,147.0,15.0,50.0,medium slow,65,85,50,80,50,90,,,,,,2.0,agresorzy
-incineroar,incineroar,,,7,sun-moon,fire,dark,Heel,1.8,83.0,1:7,45.0,239.0,15.0,50.0,medium slow,95,115,90,80,90,60,,3.0,,,,,agresorzy
+litten,litten,,,7,sun-moon,fire,,Fire Cat,0.4,4.3,1:7,45.0,64.0,15.0,50.0,medium slow,45,65,40,60,40,70,,,,,,1.0,specjalni
+torracat,torracat,,,7,sun-moon,fire,,Fire Cat,0.7,25.0,1:7,45.0,147.0,15.0,50.0,medium slow,65,85,50,80,50,90,,,,,,2.0,specjalni
+incineroar,incineroar,,,7,sun-moon,fire,dark,Heel,1.8,83.0,1:7,45.0,239.0,15.0,50.0,medium slow,95,115,90,80,90,60,,3.0,,,,,specjalni
 popplio,popplio,,,7,sun-moon,water,,Sea Lion,0.4,7.5,1:7,45.0,64.0,15.0,50.0,medium slow,50,54,54,66,56,40,,,,1.0,,,sredniaki
 brionne,brionne,,,7,sun-moon,water,,Pop Star,0.6,17.5,1:7,45.0,147.0,15.0,50.0,medium slow,60,69,69,91,81,50,,,,2.0,,,sredniaki
 primarina,primarina,,,7,sun-moon,water,fairy,Soloist,1.8,44.0,1:7,45.0,239.0,15.0,50.0,medium slow,80,74,74,126,116,60,,,,3.0,,,sredniaki
-pikipek,pikipek,,,7,sun-moon,normal,flying,Woodpecker,0.3,1.2,4:4,255.0,53.0,15.0,50.0,medium fast,35,75,30,30,30,65,,1.0,,,,,grubole
-trumbeak,trumbeak,,,7,sun-moon,normal,flying,Bugle Beak,0.6,14.8,4:4,120.0,124.0,15.0,50.0,medium fast,55,85,50,40,50,75,,2.0,,,,,grubole
-toucannon,toucannon,,,7,sun-moon,normal,flying,Cannon,1.1,26.0,4:4,45.0,218.0,15.0,50.0,medium fast,80,120,75,75,75,60,,3.0,,,,,grubole
-yungoos,yungoos,,,7,sun-moon,normal,,Loitering,0.4,6.0,4:4,255.0,51.0,15.0,50.0,medium fast,48,70,30,30,30,45,,1.0,,,,,grubole
-gumshoos,gumshoos,,,7,sun-moon,normal,,Stakeout,0.7,14.2,4:4,127.0,146.0,15.0,50.0,medium fast,88,110,60,55,60,45,,2.0,,,,,grubole
-grubbin,grubbin,,,7,sun-moon,bug,,Larva,0.4,4.4,4:4,255.0,60.0,15.0,50.0,medium fast,47,62,45,55,45,46,,1.0,,,,,agresorzy
-charjabug,charjabug,,,7,sun-moon,bug,electric,Battery,0.5,10.5,4:4,120.0,140.0,15.0,50.0,medium fast,57,82,95,55,75,36,,,2.0,,,,agresorzy
-vikavolt,vikavolt,,,7,sun-moon,bug,electric,Stag Beetle,1.5,45.0,4:4,45.0,225.0,15.0,50.0,medium fast,77,70,90,145,75,43,,,,3.0,,,agresorzy
+pikipek,pikipek,,,7,sun-moon,normal,flying,Woodpecker,0.3,1.2,4:4,255.0,53.0,15.0,50.0,medium fast,35,75,30,30,30,65,,1.0,,,,,sredniaki
+trumbeak,trumbeak,,,7,sun-moon,normal,flying,Bugle Beak,0.6,14.8,4:4,120.0,124.0,15.0,50.0,medium fast,55,85,50,40,50,75,,2.0,,,,,sredniaki
+toucannon,toucannon,,,7,sun-moon,normal,flying,Cannon,1.1,26.0,4:4,45.0,218.0,15.0,50.0,medium fast,80,120,75,75,75,60,,3.0,,,,,sredniaki
+yungoos,yungoos,,,7,sun-moon,normal,,Loitering,0.4,6.0,4:4,255.0,51.0,15.0,50.0,medium fast,48,70,30,30,30,45,,1.0,,,,,sredniaki
+gumshoos,gumshoos,,,7,sun-moon,normal,,Stakeout,0.7,14.2,4:4,127.0,146.0,15.0,50.0,medium fast,88,110,60,55,60,45,,2.0,,,,,sredniaki
+grubbin,grubbin,,,7,sun-moon,bug,,Larva,0.4,4.4,4:4,255.0,60.0,15.0,50.0,medium fast,47,62,45,55,45,46,,1.0,,,,,sredniaki
+charjabug,charjabug,,,7,sun-moon,bug,electric,Battery,0.5,10.5,4:4,120.0,140.0,15.0,50.0,medium fast,57,82,95,55,75,36,,,2.0,,,,sredniaki
+vikavolt,vikavolt,,,7,sun-moon,bug,electric,Stag Beetle,1.5,45.0,4:4,45.0,225.0,15.0,50.0,medium fast,77,70,90,145,75,43,,,,3.0,,,sredniaki
 crabrawler,crabrawler,,,7,sun-moon,fighting,,Boxing,0.6,7.0,4:4,225.0,68.0,20.0,50.0,medium fast,47,82,57,42,47,63,,1.0,,,,,agresorzy
 crabominable,crabominable,,,7,sun-moon,fighting,ice,Woolly Crab,1.7,180.0,4:4,60.0,167.0,20.0,50.0,medium fast,97,132,77,62,67,43,,2.0,,,,,agresorzy
-oricorio-baile,oricorio,baile,Baile Style,7,sun-moon,fire,flying,Dancing,0.6,3.4,6:2,45.0,167.0,20.0,50.0,medium fast,75,70,70,98,70,93,,,,2.0,,,agresorzy
+oricorio-baile,oricorio,baile,Baile Style,7,sun-moon,fire,flying,Dancing,0.6,3.4,6:2,45.0,167.0,20.0,50.0,medium fast,75,70,70,98,70,93,,,,2.0,,,specjalni
 oricorio-pom-pom,oricorio,pom-pom,Pom-Pom Style,7,sun-moon,electric,flying,Dancing,0.6,3.4,6:2,45.0,167.0,20.0,50.0,medium fast,75,70,70,98,70,93,,,,2.0,,,specjalni
 oricorio-pau,oricorio,pau,Pa'u Style,7,sun-moon,psychic,flying,Dancing,0.6,3.4,6:2,45.0,167.0,20.0,50.0,medium fast,75,70,70,98,70,93,,,,2.0,,,specjalni
 oricorio-sensu,oricorio,sensu,Sensu Style,7,sun-moon,ghost,flying,Dancing,0.6,3.4,6:2,45.0,167.0,20.0,50.0,medium fast,75,70,70,98,70,93,,,,2.0,,,specjalni
-cutiefly,cutiefly,,,7,sun-moon,bug,fairy,Bee Fly,0.1,0.2,4:4,190.0,61.0,20.0,50.0,medium fast,40,45,40,55,40,84,,,,,,1.0,agresorzy
-ribombee,ribombee,,,7,sun-moon,bug,fairy,Bee Fly,0.2,0.5,4:4,75.0,162.0,20.0,50.0,medium fast,60,55,60,95,70,124,,,,,,2.0,agresorzy
+cutiefly,cutiefly,,,7,sun-moon,bug,fairy,Bee Fly,0.1,0.2,4:4,190.0,61.0,20.0,50.0,medium fast,40,45,40,55,40,84,,,,,,1.0,sredniaki
+ribombee,ribombee,,,7,sun-moon,bug,fairy,Bee Fly,0.2,0.5,4:4,75.0,162.0,20.0,50.0,medium fast,60,55,60,95,70,124,,,,,,2.0,sredniaki
 rockruff,rockruff,,,7,sun-moon,rock,,Puppy,0.5,9.2,4:4,190.0,56.0,15.0,50.0,medium fast,45,65,40,30,40,60,,1.0,,,,,grubole
 rockruff-own-tempo,rockruff,own-tempo,Own Tempo Rockruff,7,ultra-sun-ultra-moon,rock,,Puppy,0.5,9.2,4:4,190.0,56.0,15.0,50.0,medium fast,45,65,40,30,40,60,,1.0,,,,,grubole
 lycanroc-midday,lycanroc,midday,Midday Form,7,sun-moon,rock,,Wolf,0.8,25.0,4:4,90.0,170.0,15.0,50.0,medium fast,75,115,65,55,65,112,,2.0,,,,,grubole
@@ -915,33 +915,33 @@ morelull,morelull,,,7,sun-moon,grass,fairy,Illuminating,0.2,1.5,4:4,190.0,57.0,2
 shiinotic,shiinotic,,,7,sun-moon,grass,fairy,Illuminating,1.0,11.5,4:4,75.0,142.0,20.0,50.0,medium fast,60,45,80,90,100,30,,,,,2.0,,sredniaki
 salandit,salandit,,,7,sun-moon,poison,fire,Toxic Lizard,0.6,4.8,1:7,120.0,64.0,20.0,50.0,medium fast,48,44,40,71,40,77,,,,,,1.0,sredniaki
 salazzle,salazzle,,,7,sun-moon,poison,fire,Toxic Lizard,1.2,22.2,8:0,45.0,168.0,20.0,50.0,medium fast,68,64,60,111,60,117,,,,,,2.0,sredniaki
-stufful,stufful,,,7,sun-moon,normal,fighting,Flailing,0.5,6.8,4:4,140.0,68.0,15.0,50.0,medium fast,70,75,50,45,50,50,,1.0,,,,,grubole
-bewear,bewear,,,7,sun-moon,normal,fighting,Strong Arm,2.1,135.0,4:4,70.0,175.0,15.0,50.0,medium fast,120,125,80,55,60,60,,2.0,,,,,grubole
+stufful,stufful,,,7,sun-moon,normal,fighting,Flailing,0.5,6.8,4:4,140.0,68.0,15.0,50.0,medium fast,70,75,50,45,50,50,,1.0,,,,,sredniaki
+bewear,bewear,,,7,sun-moon,normal,fighting,Strong Arm,2.1,135.0,4:4,70.0,175.0,15.0,50.0,medium fast,120,125,80,55,60,60,,2.0,,,,,sredniaki
 bounsweet,bounsweet,,,7,sun-moon,grass,,Fruit,0.3,3.2,8:0,235.0,42.0,20.0,50.0,medium slow,42,30,38,30,38,32,1.0,,,,,,sredniaki
 steenee,steenee,,,7,sun-moon,grass,,Fruit,0.7,8.2,8:0,120.0,102.0,20.0,50.0,medium slow,52,40,48,40,48,62,,,,,,2.0,sredniaki
 tsareena,tsareena,,,7,sun-moon,grass,,Fruit,1.2,21.4,8:0,45.0,255.0,20.0,50.0,medium slow,72,120,98,50,98,72,,3.0,,,,,sredniaki
 comfey,comfey,,,7,sun-moon,fairy,,Posy Picker,0.1,0.3,6:2,60.0,170.0,20.0,50.0,fast,51,52,90,82,110,100,,,,,2.0,,specjalni
-oranguru,oranguru,,,7,sun-moon,normal,psychic,Sage,1.5,76.0,4:4,45.0,172.0,20.0,50.0,slow,90,60,80,90,110,60,,,,,2.0,,grubole
+oranguru,oranguru,,,7,sun-moon,normal,psychic,Sage,1.5,76.0,4:4,45.0,172.0,20.0,50.0,slow,90,60,80,90,110,60,,,,,2.0,,sredniaki
 passimian,passimian,,,7,sun-moon,fighting,,Teamwork,2.0,82.8,4:4,45.0,172.0,20.0,50.0,slow,100,120,90,40,60,80,,2.0,,,,,agresorzy
-wimpod,wimpod,,,7,sun-moon,bug,water,Turn Tail,0.5,12.0,4:4,90.0,46.0,20.0,50.0,medium fast,25,35,40,20,30,80,,,,,,1.0,agresorzy
-golisopod,golisopod,,,7,sun-moon,bug,water,Hard Scale,2.0,108.0,4:4,45.0,186.0,20.0,50.0,medium fast,75,125,140,60,90,40,,,2.0,,,,agresorzy
+wimpod,wimpod,,,7,sun-moon,bug,water,Turn Tail,0.5,12.0,4:4,90.0,46.0,20.0,50.0,medium fast,25,35,40,20,30,80,,,,,,1.0,sredniaki
+golisopod,golisopod,,,7,sun-moon,bug,water,Hard Scale,2.0,108.0,4:4,45.0,186.0,20.0,50.0,medium fast,75,125,140,60,90,40,,,2.0,,,,sredniaki
 sandygast,sandygast,,,7,sun-moon,ghost,ground,Sand Heap,0.5,70.0,4:4,140.0,64.0,15.0,50.0,medium fast,55,55,80,70,45,15,,,1.0,,,,specjalni
 palossand,palossand,,,7,sun-moon,ghost,ground,Sand Castle,1.3,250.0,4:4,60.0,168.0,15.0,50.0,medium fast,85,75,110,100,75,35,,,2.0,,,,specjalni
 pyukumuku,pyukumuku,,,7,sun-moon,water,,Sea Cucumber,0.3,1.2,4:4,60.0,144.0,15.0,50.0,fast,55,60,130,30,130,5,,,,,2.0,,sredniaki
-type-null,type-null,,,7,sun-moon,normal,,Synthetic,1.9,120.5,genderless,3.0,107.0,120.0,0.0,slow,95,95,95,95,95,59,2.0,,,,,,grubole
-silvally,silvally,,,7,sun-moon,normal,,Synthetic,2.3,100.5,genderless,3.0,257.0,120.0,0.0,slow,95,95,95,95,95,95,3.0,,,,,,grubole
+type-null,type-null,,,7,sun-moon,normal,,Synthetic,1.9,120.5,genderless,3.0,107.0,120.0,0.0,slow,95,95,95,95,95,59,2.0,,,,,,sredniaki
+silvally,silvally,,,7,sun-moon,normal,,Synthetic,2.3,100.5,genderless,3.0,257.0,120.0,0.0,slow,95,95,95,95,95,95,3.0,,,,,,sredniaki
 minior-meteor,minior,meteor,Meteor Form,7,sun-moon,rock,flying,Meteor,0.3,40.0,genderless,30.0,154.0,25.0,50.0,medium slow,60,60,100,60,100,60,,,1.0,,1.0,,grubole
 minior-core,minior,core,Core Form,7,sun-moon,rock,flying,Meteor,0.3,0.3,genderless,30.0,175.0,25.0,50.0,medium slow,60,100,60,100,60,120,,1.0,,1.0,,,grubole
-komala,komala,,,7,sun-moon,normal,,Drowsing,0.4,19.9,4:4,45.0,168.0,20.0,50.0,slow,65,115,65,75,95,65,,2.0,,,,,grubole
-turtonator,turtonator,,,7,sun-moon,fire,dragon,Blast Turtle,2.0,212.0,4:4,70.0,170.0,20.0,50.0,medium fast,60,78,135,91,85,36,,,2.0,,,,agresorzy
+komala,komala,,,7,sun-moon,normal,,Drowsing,0.4,19.9,4:4,45.0,168.0,20.0,50.0,slow,65,115,65,75,95,65,,2.0,,,,,sredniaki
+turtonator,turtonator,,,7,sun-moon,fire,dragon,Blast Turtle,2.0,212.0,4:4,70.0,170.0,20.0,50.0,medium fast,60,78,135,91,85,36,,,2.0,,,,specjalni
 togedemaru,togedemaru,,,7,sun-moon,electric,steel,Roly-Poly,0.3,3.3,4:4,180.0,152.0,10.0,50.0,medium fast,65,98,63,40,73,96,,2.0,,,,,specjalni
 mimikyu,mimikyu,,,7,sun-moon,ghost,fairy,Disguise,0.2,0.7,4:4,45.0,167.0,20.0,50.0,medium fast,55,90,80,50,105,96,,,,,2.0,,specjalni
 bruxish,bruxish,,,7,sun-moon,water,psychic,Gnash Teeth,0.9,19.0,4:4,80.0,166.0,15.0,50.0,medium fast,68,105,70,70,70,92,,2.0,,,,,sredniaki
-drampa,drampa,,,7,sun-moon,normal,dragon,Placid,3.0,185.0,4:4,70.0,170.0,20.0,50.0,medium fast,78,60,85,135,91,36,,,,2.0,,,grubole
+drampa,drampa,,,7,sun-moon,normal,dragon,Placid,3.0,185.0,4:4,70.0,170.0,20.0,50.0,medium fast,78,60,85,135,91,36,,,,2.0,,,sredniaki
 dhelmise,dhelmise,,,7,sun-moon,ghost,grass,Sea Creeper,3.9,210.0,genderless,25.0,181.0,25.0,50.0,medium fast,70,131,100,86,90,40,,2.0,,,,,specjalni
-jangmo-o,jangmo-o,,,7,sun-moon,dragon,,Scaly,0.6,29.7,4:4,45.0,60.0,40.0,50.0,slow,45,55,65,45,45,45,,,1.0,,,,sredniaki
-hakamo-o,hakamo-o,,,7,sun-moon,dragon,fighting,Scaly,1.2,47.0,4:4,45.0,147.0,40.0,50.0,slow,55,75,90,65,70,65,,,2.0,,,,sredniaki
-kommo-o,kommo-o,,,7,sun-moon,dragon,fighting,Scaly,1.6,78.2,4:4,45.0,270.0,40.0,50.0,slow,75,110,125,100,105,85,,,3.0,,,,sredniaki
+jangmo-o,jangmo-o,,,7,sun-moon,dragon,,Scaly,0.6,29.7,4:4,45.0,60.0,40.0,50.0,slow,45,55,65,45,45,45,,,1.0,,,,elita
+hakamo-o,hakamo-o,,,7,sun-moon,dragon,fighting,Scaly,1.2,47.0,4:4,45.0,147.0,40.0,50.0,slow,55,75,90,65,70,65,,,2.0,,,,elita
+kommo-o,kommo-o,,,7,sun-moon,dragon,fighting,Scaly,1.6,78.2,4:4,45.0,270.0,40.0,50.0,slow,75,110,125,100,105,85,,,3.0,,,,elita
 tapu-koko,tapu-koko,,,7,sun-moon,electric,fairy,Land Spirit,1.8,20.5,genderless,3.0,257.0,15.0,50.0,slow,70,115,85,95,75,130,,,,,,3.0,specjalni
 tapu-lele,tapu-lele,,,7,sun-moon,psychic,fairy,Land Spirit,1.2,18.6,genderless,3.0,257.0,15.0,50.0,slow,70,85,75,130,115,95,,,,3.0,,,specjalni
 tapu-bulu,tapu-bulu,,,7,sun-moon,grass,fairy,Land Spirit,1.9,45.5,genderless,3.0,257.0,15.0,50.0,slow,70,130,115,85,95,75,,3.0,,,,,sredniaki
@@ -951,8 +951,8 @@ cosmoem,cosmoem,,,7,sun-moon,psychic,,Protostar,0.1,999.9,genderless,45.0,140.0,
 solgaleo,solgaleo,,,7,sun-moon,psychic,steel,Sunne,3.4,230.0,genderless,45.0,306.0,120.0,0.0,slow,137,137,107,113,89,97,,3.0,,,,,specjalni
 lunala,lunala,,,7,sun-moon,psychic,ghost,Moone,4.0,120.0,genderless,45.0,306.0,120.0,0.0,slow,137,113,89,137,107,97,,,,3.0,,,specjalni
 nihilego,nihilego,,,7,sun-moon,rock,poison,Parasite,1.2,55.5,genderless,45.0,257.0,120.0,0.0,slow,109,53,47,127,131,103,,,,,3.0,,grubole
-buzzwole,buzzwole,,,7,sun-moon,bug,fighting,Swollen,2.4,333.6,genderless,45.0,257.0,120.0,0.0,slow,107,139,139,53,53,79,,1.0,2.0,,,,agresorzy
-pheromosa,pheromosa,,,7,sun-moon,bug,fighting,Lissome,1.8,25.0,genderless,45.0,257.0,120.0,0.0,slow,71,137,37,137,37,151,,,,,,3.0,agresorzy
+buzzwole,buzzwole,,,7,sun-moon,bug,fighting,Swollen,2.4,333.6,genderless,45.0,257.0,120.0,0.0,slow,107,139,139,53,53,79,,1.0,2.0,,,,sredniaki
+pheromosa,pheromosa,,,7,sun-moon,bug,fighting,Lissome,1.8,25.0,genderless,45.0,257.0,120.0,0.0,slow,71,137,37,137,37,151,,,,,,3.0,sredniaki
 xurkitree,xurkitree,,,7,sun-moon,electric,,Glowing,3.8,100.0,genderless,45.0,257.0,120.0,0.0,slow,83,89,71,173,71,83,,,,3.0,,,specjalni
 celesteela,celesteela,,,7,sun-moon,steel,flying,Launch,9.2,999.9,genderless,45.0,257.0,120.0,0.0,slow,97,101,103,107,101,61,,1.0,1.0,1.0,,,grubole
 kartana,kartana,,,7,sun-moon,grass,steel,Drawn Sword,0.3,0.1,genderless,45.0,257.0,120.0,0.0,slow,59,181,131,59,31,109,,3.0,,,,,sredniaki
@@ -966,33 +966,33 @@ marshadow,marshadow,,,7,sun-moon,fighting,ghost,Gloomdweller,0.7,22.2,genderless
 poipole,poipole,,,7,ultra-sun-ultra-moon,poison,,Poison Pin,0.6,1.8,genderless,45.0,189.0,120.0,0.0,slow,67,73,67,73,67,73,,,,,,1.0,sredniaki
 naganadel,naganadel,,,7,ultra-sun-ultra-moon,poison,dragon,Poison Pin,3.6,150.0,genderless,45.0,243.0,120.0,0.0,slow,73,73,73,127,73,121,,,,3.0,,,sredniaki
 stakataka,stakataka,,,7,ultra-sun-ultra-moon,rock,steel,Rampart,5.5,820.0,genderless,30.0,257.0,120.0,0.0,slow,61,131,211,53,101,13,,,3.0,,,,grubole
-blacephalon,blacephalon,,,7,ultra-sun-ultra-moon,fire,ghost,Fireworks,1.8,13.0,genderless,30.0,257.0,120.0,0.0,slow,53,127,53,151,79,107,,,,3.0,,,agresorzy
+blacephalon,blacephalon,,,7,ultra-sun-ultra-moon,fire,ghost,Fireworks,1.8,13.0,genderless,30.0,257.0,120.0,0.0,slow,53,127,53,151,79,107,,,,3.0,,,specjalni
 zeraora,zeraora,,,7,ultra-sun-ultra-moon,electric,,Thunderclap,1.5,44.5,genderless,3.0,270.0,120.0,0.0,slow,88,112,75,102,80,143,,,,,,3.0,specjalni
 meltan,meltan,,,7,lets-go-pikachu-eevee,steel,,Hex Nut,0.2,8.0,genderless,3.0,150.0,120.0,0.0,slow,46,65,65,55,35,34,,1.0,,,,,grubole
 melmetal,melmetal,,,7,lets-go-pikachu-eevee,steel,,Hex Nut,2.5,800.0,genderless,3.0,300.0,120.0,0.0,slow,135,143,143,80,65,34,,3.0,,,,,grubole
 grookey,grookey,,,8,sword-shield,grass,,Chimp,0.3,5.0,1:7,45.0,62.0,20.0,50.0,medium slow,50,65,50,40,40,65,,1.0,,,,,sredniaki
 thwackey,thwackey,,,8,sword-shield,grass,,Beat,0.7,14.0,1:7,45.0,147.0,20.0,50.0,medium slow,70,85,70,55,60,80,,2.0,,,,,sredniaki
 rillaboom,rillaboom,,,8,sword-shield,grass,,Drummer,2.1,90.0,1:7,45.0,265.0,20.0,50.0,medium slow,100,125,90,60,70,85,,3.0,,,,,sredniaki
-scorbunny,scorbunny,,,8,sword-shield,fire,,Rabbit,0.3,4.5,1:7,45.0,62.0,20.0,50.0,medium slow,50,71,40,40,40,69,,,,,,1.0,agresorzy
-raboot,raboot,,,8,sword-shield,fire,,Rabbit,0.6,9.0,1:7,45.0,147.0,20.0,50.0,medium slow,65,86,60,55,60,94,,,,,,2.0,agresorzy
-cinderace,cinderace,,,8,sword-shield,fire,,Striker,1.4,33.0,1:7,45.0,265.0,20.0,50.0,medium slow,80,116,75,65,75,119,,,,,,3.0,agresorzy
+scorbunny,scorbunny,,,8,sword-shield,fire,,Rabbit,0.3,4.5,1:7,45.0,62.0,20.0,50.0,medium slow,50,71,40,40,40,69,,,,,,1.0,specjalni
+raboot,raboot,,,8,sword-shield,fire,,Rabbit,0.6,9.0,1:7,45.0,147.0,20.0,50.0,medium slow,65,86,60,55,60,94,,,,,,2.0,specjalni
+cinderace,cinderace,,,8,sword-shield,fire,,Striker,1.4,33.0,1:7,45.0,265.0,20.0,50.0,medium slow,80,116,75,65,75,119,,,,,,3.0,specjalni
 sobble,sobble,,,8,sword-shield,water,,Water Lizard,0.3,4.0,1:7,45.0,62.0,20.0,50.0,medium slow,50,40,40,70,40,70,,,,,1.0,1.0,sredniaki
 drizzile,drizzile,,,8,sword-shield,water,,Water lizard,0.7,11.5,1:7,45.0,147.0,20.0,50.0,medium slow,65,60,55,95,55,90,,,,2.0,,,sredniaki
 inteleon,inteleon,,,8,sword-shield,water,,Secret Agent,1.9,45.2,1:7,45.0,265.0,20.0,50.0,medium slow,70,85,65,125,65,120,,,,,,3.0,sredniaki
-skwovet,skwovet,,,8,sword-shield,normal,,Cheeky,0.3,2.5,4:4,255.0,55.0,20.0,50.0,medium fast,70,55,55,35,35,25,1.0,,,,,,grubole
-greedent,greedent,,,8,sword-shield,normal,,Greedy,0.6,6.0,4:4,90.0,161.0,20.0,50.0,medium fast,120,95,95,55,75,20,2.0,,,,,,grubole
-rookidee,rookidee,,,8,sword-shield,flying,,Tiny Bird,0.2,1.8,4:4,255.0,49.0,15.0,50.0,medium slow,38,47,35,33,35,57,,,,,,1.0,specjalni
-corvisquire,corvisquire,,,8,sword-shield,flying,,Raven,0.8,16.0,4:4,120.0,128.0,15.0,50.0,medium slow,68,67,55,43,55,77,,,,,,2.0,specjalni
-corviknight,corviknight,,,8,sword-shield,flying,steel,Raven,2.2,75.0,4:4,45.0,248.0,15.0,50.0,medium slow,98,87,105,53,85,67,,,3.0,,,,specjalni
-blipbug,blipbug,,,8,sword-shield,bug,,Larva,0.4,8.0,4:4,255.0,36.0,15.0,50.0,medium fast,25,20,20,25,45,45,,,,,1.0,,agresorzy
-dottler,dottler,,,8,sword-shield,bug,psychic,Radome,0.4,19.5,4:4,120.0,117.0,15.0,50.0,medium fast,50,35,80,50,90,30,,,,,2.0,,agresorzy
-orbeetle,orbeetle,,,8,sword-shield,bug,psychic,Seven Spot,0.4,40.8,4:4,45.0,253.0,15.0,50.0,medium fast,60,45,110,80,120,90,,,,,3.0,,agresorzy
+skwovet,skwovet,,,8,sword-shield,normal,,Cheeky,0.3,2.5,4:4,255.0,55.0,20.0,50.0,medium fast,70,55,55,35,35,25,1.0,,,,,,sredniaki
+greedent,greedent,,,8,sword-shield,normal,,Greedy,0.6,6.0,4:4,90.0,161.0,20.0,50.0,medium fast,120,95,95,55,75,20,2.0,,,,,,sredniaki
+rookidee,rookidee,,,8,sword-shield,flying,,Tiny Bird,0.2,1.8,4:4,255.0,49.0,15.0,50.0,medium slow,38,47,35,33,35,57,,,,,,1.0,agresorzy
+corvisquire,corvisquire,,,8,sword-shield,flying,,Raven,0.8,16.0,4:4,120.0,128.0,15.0,50.0,medium slow,68,67,55,43,55,77,,,,,,2.0,agresorzy
+corviknight,corviknight,,,8,sword-shield,flying,steel,Raven,2.2,75.0,4:4,45.0,248.0,15.0,50.0,medium slow,98,87,105,53,85,67,,,3.0,,,,agresorzy
+blipbug,blipbug,,,8,sword-shield,bug,,Larva,0.4,8.0,4:4,255.0,36.0,15.0,50.0,medium fast,25,20,20,25,45,45,,,,,1.0,,sredniaki
+dottler,dottler,,,8,sword-shield,bug,psychic,Radome,0.4,19.5,4:4,120.0,117.0,15.0,50.0,medium fast,50,35,80,50,90,30,,,,,2.0,,sredniaki
+orbeetle,orbeetle,,,8,sword-shield,bug,psychic,Seven Spot,0.4,40.8,4:4,45.0,253.0,15.0,50.0,medium fast,60,45,110,80,120,90,,,,,3.0,,sredniaki
 nickit,nickit,,,8,sword-shield,dark,,Fox,0.6,8.9,4:4,255.0,49.0,15.0,50.0,fast,40,28,28,47,52,50,,,,,1.0,,agresorzy
 thievul,thievul,,,8,sword-shield,dark,,Fox,1.2,19.9,4:4,127.0,159.0,15.0,50.0,fast,70,58,58,87,92,90,,,,,2.0,,agresorzy
 gossifleur,gossifleur,,,8,sword-shield,grass,,Flowering,0.4,2.2,4:4,190.0,50.0,20.0,50.0,medium fast,40,40,60,40,60,10,,,,,1.0,,sredniaki
 eldegoss,eldegoss,,,8,sword-shield,grass,,Cotton Bloom,0.5,2.5,4:4,75.0,161.0,20.0,50.0,medium fast,60,50,90,80,120,60,,,,,2.0,,sredniaki
-wooloo,wooloo,,,8,sword-shield,normal,,Sheep,0.6,6.0,4:4,255.0,122.0,15.0,50.0,medium fast,42,40,55,40,45,48,,,1.0,,,,grubole
-dubwool,dubwool,,,8,sword-shield,normal,,Sheep,1.3,43.0,4:4,127.0,172.0,15.0,50.0,medium fast,72,80,100,60,90,88,,,2.0,,,,grubole
+wooloo,wooloo,,,8,sword-shield,normal,,Sheep,0.6,6.0,4:4,255.0,122.0,15.0,50.0,medium fast,42,40,55,40,45,48,,,1.0,,,,sredniaki
+dubwool,dubwool,,,8,sword-shield,normal,,Sheep,1.3,43.0,4:4,127.0,172.0,15.0,50.0,medium fast,72,80,100,60,90,88,,,2.0,,,,sredniaki
 chewtle,chewtle,,,8,sword-shield,water,,Snapping,0.3,8.5,4:4,255.0,57.0,20.0,50.0,medium fast,50,64,50,38,38,44,,1.0,,,,,sredniaki
 drednaw,drednaw,,,8,sword-shield,water,rock,Bite,1.0,115.5,4:4,75.0,170.0,20.0,50.0,medium fast,90,115,90,48,68,74,,2.0,,,,,sredniaki
 yamper,yamper,,,8,sword-shield,electric,,Puppy,0.3,13.5,4:4,255.0,54.0,20.0,50.0,fast,59,45,50,40,50,26,1.0,,,,,,specjalni
@@ -1005,14 +1005,14 @@ flapple,flapple,,,8,sword-shield,grass,dragon,Apple Wing,0.3,1.0,4:4,45.0,170.0,
 appletun,appletun,,,8,sword-shield,grass,dragon,Apple Nectar,0.4,13.0,4:4,45.0,170.0,20.0,50.0,erratic,110,85,80,100,80,30,2.0,,,,,,sredniaki
 silicobra,silicobra,,,8,sword-shield,ground,,Sand Snake,2.2,7.6,4:4,255.0,63.0,20.0,50.0,medium fast,52,57,75,35,50,46,,,1.0,,,,grubole
 sandaconda,sandaconda,,,8,sword-shield,ground,,Sand Snake,3.8,65.5,4:4,120.0,179.0,20.0,50.0,medium fast,72,107,125,65,70,71,,,2.0,,,,grubole
-cramorant,cramorant,,,8,sword-shield,flying,water,Gulp,0.8,18.0,4:4,45.0,166.0,20.0,50.0,medium fast,70,85,55,85,95,85,,,,,2.0,,specjalni
+cramorant,cramorant,,,8,sword-shield,flying,water,Gulp,0.8,18.0,4:4,45.0,166.0,20.0,50.0,medium fast,70,85,55,85,95,85,,,,,2.0,,agresorzy
 arrokuda,arrokuda,,,8,sword-shield,water,,Rush,0.5,1.0,4:4,255.0,56.0,20.0,50.0,slow,41,63,40,40,30,66,,,,,,1.0,sredniaki
 barraskewda,barraskewda,,,8,sword-shield,water,,Skewer,1.3,30.0,4:4,60.0,172.0,20.0,50.0,slow,61,123,60,60,50,136,,,,,,2.0,sredniaki
 toxel,toxel,,,8,sword-shield,electric,poison,Baby,0.4,11.0,4:4,75.0,48.0,25.0,50.0,medium slow,40,38,35,54,35,40,,,,1.0,,,specjalni
 toxtricity-amped,toxtricity,amped,Amped Form,8,sword-shield,electric,poison,Punk,1.6,40.0,4:4,45.0,176.0,25.0,50.0,medium slow,75,98,70,114,70,75,,,,2.0,,,specjalni
 toxtricity-low-key,toxtricity,low-key,Low Key Form,8,sword-shield,electric,poison,Punk,1.6,40.0,4:4,45.0,176.0,25.0,50.0,medium slow,75,98,70,114,70,75,,,,2.0,,,specjalni
-sizzlipede,sizzlipede,,,8,sword-shield,fire,bug,Radiator,0.7,1.0,4:4,190.0,61.0,20.0,50.0,medium fast,50,65,45,50,50,45,,1.0,,,,,agresorzy
-centiskorch,centiskorch,,,8,sword-shield,fire,bug,Radiator,3.0,120.0,4:4,75.0,184.0,20.0,50.0,medium fast,100,115,65,90,90,65,,2.0,,,,,agresorzy
+sizzlipede,sizzlipede,,,8,sword-shield,fire,bug,Radiator,0.7,1.0,4:4,190.0,61.0,20.0,50.0,medium fast,50,65,45,50,50,45,,1.0,,,,,specjalni
+centiskorch,centiskorch,,,8,sword-shield,fire,bug,Radiator,3.0,120.0,4:4,75.0,184.0,20.0,50.0,medium fast,100,115,65,90,90,65,,2.0,,,,,specjalni
 clobbopus,clobbopus,,,8,sword-shield,fighting,,Tantrum,0.6,4.0,4:4,180.0,62.0,25.0,50.0,medium slow,50,68,60,50,50,32,,1.0,,,,,agresorzy
 grapploct,grapploct,,,8,sword-shield,fighting,,Tantrum,1.6,39.0,4:4,45.0,168.0,25.0,50.0,medium slow,80,118,90,70,80,42,,2.0,,,,,agresorzy
 sinistea,sinistea,,,8,sword-shield,ghost,,Black Tea,0.1,0.2,genderless,120.0,62.0,20.0,50.0,medium fast,40,45,45,74,54,50,,,,1.0,,,specjalni
@@ -1049,9 +1049,9 @@ arctozolt,arctozolt,,,8,sword-shield,electric,ice,Fossil,2.3,150.0,genderless,45
 dracovish,dracovish,,,8,sword-shield,water,dragon,Fossil,2.3,215.0,genderless,45.0,177.0,35.0,50.0,slow,90,90,100,70,80,75,,,2.0,,,,sredniaki
 arctovish,arctovish,,,8,sword-shield,water,ice,Fossil,2.0,175.0,genderless,45.0,177.0,35.0,50.0,slow,90,90,100,80,90,55,,,2.0,,,,sredniaki
 duraludon,duraludon,,,8,sword-shield,steel,dragon,Alloy,1.8,40.0,4:4,45.0,187.0,30.0,50.0,medium fast,70,95,115,120,50,85,,,,2.0,,,grubole
-dreepy,dreepy,,,8,sword-shield,dragon,ghost,Lingering,0.5,2.0,4:4,45.0,54.0,40.0,50.0,slow,28,60,30,40,30,82,,,,,,1.0,sredniaki
-drakloak,drakloak,,,8,sword-shield,dragon,ghost,Caretaker,1.4,11.0,4:4,45.0,144.0,40.0,50.0,slow,68,80,50,60,50,102,,,,,,2.0,sredniaki
-dragapult,dragapult,,,8,sword-shield,dragon,ghost,Stealth,3.0,50.0,4:4,45.0,300.0,40.0,50.0,slow,88,120,75,100,75,142,,,,,,3.0,sredniaki
+dreepy,dreepy,,,8,sword-shield,dragon,ghost,Lingering,0.5,2.0,4:4,45.0,54.0,40.0,50.0,slow,28,60,30,40,30,82,,,,,,1.0,elita
+drakloak,drakloak,,,8,sword-shield,dragon,ghost,Caretaker,1.4,11.0,4:4,45.0,144.0,40.0,50.0,slow,68,80,50,60,50,102,,,,,,2.0,elita
+dragapult,dragapult,,,8,sword-shield,dragon,ghost,Stealth,3.0,50.0,4:4,45.0,300.0,40.0,50.0,slow,88,120,75,100,75,142,,,,,,3.0,elita
 zacian-hero,zacian,hero,Hero of Many Battles,8,sword-shield,fairy,,Warrior,2.8,110.0,genderless,10.0,330.0,120.0,0.0,slow,92,120,115,80,115,138,,,,,,3.0,specjalni
 zacian-crowned,zacian,crowned,Crowned Sword,8,sword-shield,fairy,steel,Warrior,2.8,355.0,genderless,10.0,350.0,120.0,0.0,slow,92,150,115,80,115,148,,,,,,3.0,specjalni
 zamazenta-hero,zamazenta,hero,Hero of Many Battles,8,sword-shield,fighting,,Warrior,2.9,210.0,genderless,10.0,330.0,120.0,0.0,slow,92,120,115,80,115,138,,,,,,3.0,agresorzy
@@ -1063,14 +1063,14 @@ urshifu-single-strike,urshifu,single-strike,Single Strike Style,8,sword-shield,f
 urshifu-rapid-strike,urshifu,rapid-strike,Rapid Strike Style,8,sword-shield,fighting,water,Wushu,1.9,105.0,1:7,3.0,275.0,120.0,50.0,slow,100,130,100,63,60,97,,3.0,,,,,agresorzy
 zarude,zarude,,,8,sword-shield,dark,grass,Rogue Monkey,1.8,70.0,genderless,3.0,300.0,120.0,0.0,slow,105,120,105,70,95,105,,3.0,,,,,agresorzy
 regieleki,regieleki,,,8,sword-shield,electric,,Electron,1.2,145.0,genderless,3.0,290.0,120.0,35.0,slow,80,100,50,100,50,200,,,,,,3.0,specjalni
-regidrago,regidrago,,,8,sword-shield,dragon,,Dragon Orb,2.1,200.0,genderless,3.0,290.0,120.0,35.0,slow,200,100,50,100,50,80,3.0,,,,,,sredniaki
+regidrago,regidrago,,,8,sword-shield,dragon,,Dragon Orb,2.1,200.0,genderless,3.0,290.0,120.0,35.0,slow,200,100,50,100,50,80,3.0,,,,,,elita
 glastrier,glastrier,,,8,sword-shield,ice,,Wild Horse,2.2,800.0,genderless,3.0,290.0,120.0,35.0,slow,100,145,130,65,110,30,,3.0,,,,,sredniaki
 spectrier,spectrier,,,8,sword-shield,ghost,,Swift Horse,2.0,44.5,genderless,3.0,290.0,120.0,35.0,slow,100,65,60,145,80,130,,,,3.0,,,specjalni
 calyrex,calyrex,,,8,sword-shield,psychic,grass,King,1.1,7.7,genderless,3.0,250.0,120.0,100.0,slow,100,80,80,80,80,80,3.0,,,,,,specjalni
 calyrex-ice-rider,calyrex,ice-rider,Ice Rider,8,sword-shield,psychic,ice,High King,2.4,809.1,genderless,3.0,340.0,120.0,100.0,slow,100,165,150,85,130,50,,3.0,,,,,specjalni
 calyrex-shadow-rider,calyrex,shadow-rider,Shadow Rider,8,sword-shield,psychic,ghost,High King,2.4,53.6,genderless,3.0,340.0,120.0,100.0,slow,100,85,80,165,100,150,,,,3.0,,,specjalni
-wyrdeer,wyrdeer,,,8,legends-arceus,normal,psychic,Big Horn,1.8,95.1,4:4,45.0,263.0,20.0,50.0,slow,103,105,72,105,75,65,,1.0,,1.0,,,grubole
-kleavor,kleavor,,,8,legends-arceus,bug,rock,Axe,1.8,89.0,4:4,15.0,175.0,20.0,50.0,medium fast,70,135,95,45,70,85,,3.0,,,,,agresorzy
+wyrdeer,wyrdeer,,,8,legends-arceus,normal,psychic,Big Horn,1.8,95.1,4:4,45.0,263.0,20.0,50.0,slow,103,105,72,105,75,65,,1.0,,1.0,,,sredniaki
+kleavor,kleavor,,,8,legends-arceus,bug,rock,Axe,1.8,89.0,4:4,15.0,175.0,20.0,50.0,medium fast,70,135,95,45,70,85,,3.0,,,,,sredniaki
 ursaluna,ursaluna,,,8,legends-arceus,ground,normal,Peat,2.4,290.0,4:4,20.0,275.0,20.0,50.0,medium fast,130,140,105,45,80,50,,3.0,,,,,grubole
 ursaluna-bloodmoon,ursaluna,bloodmoon,Bloodmoon,9,scarlet-violet,ground,normal,Peat,2.7,333.0,0,5.0,,,,medium fast,113,70,120,135,65,52,,,,3.0,,,grubole
 basculegion-male,basculegion,male,Male,8,legends-arceus,water,ghost,Big Fish,3.0,110.0,0,45.0,265.0,20.0,50.0,medium fast,120,112,65,80,75,78,3.0,,,,,,sredniaki
@@ -1082,40 +1082,40 @@ enamorus-therian,enamorus,therian,Therian Forme,8,legends-arceus,fairy,flying,Lo
 sprigatito,sprigatito,,,9,scarlet-violet,grass,,Grass Cat,0.4,4.1,1:7,45.0,62.0,20.0,50.0,medium slow,40,61,54,45,45,65,,,,,,1.0,sredniaki
 floragato,floragato,,,9,scarlet-violet,grass,,Grass Cat,0.9,12.2,1:7,45.0,144.0,20.0,50.0,medium slow,61,80,63,60,63,83,,,,,,2.0,sredniaki
 meowscarada,meowscarada,,,9,scarlet-violet,grass,dark,Magician,1.5,31.2,1:7,45.0,265.0,20.0,50.0,medium slow,76,110,70,81,70,123,,,,,,3.0,sredniaki
-fuecoco,fuecoco,,,9,scarlet-violet,fire,,Fire Croc,0.4,9.8,1:7,45.0,62.0,20.0,50.0,medium slow,67,45,59,63,40,36,1.0,,,,,,agresorzy
-crocalor,crocalor,,,9,scarlet-violet,fire,,Fire Croc,1.0,30.7,1:7,45.0,144.0,20.0,50.0,medium slow,81,55,78,90,58,49,,,,2.0,,,agresorzy
-skeledirge,skeledirge,,,9,scarlet-violet,fire,ghost,Singer,1.6,326.5,1:7,45.0,265.0,20.0,50.0,medium slow,104,75,100,110,75,66,,,,3.0,,,agresorzy
+fuecoco,fuecoco,,,9,scarlet-violet,fire,,Fire Croc,0.4,9.8,1:7,45.0,62.0,20.0,50.0,medium slow,67,45,59,63,40,36,1.0,,,,,,specjalni
+crocalor,crocalor,,,9,scarlet-violet,fire,,Fire Croc,1.0,30.7,1:7,45.0,144.0,20.0,50.0,medium slow,81,55,78,90,58,49,,,,2.0,,,specjalni
+skeledirge,skeledirge,,,9,scarlet-violet,fire,ghost,Singer,1.6,326.5,1:7,45.0,265.0,20.0,50.0,medium slow,104,75,100,110,75,66,,,,3.0,,,specjalni
 quaxly,quaxly,,,9,scarlet-violet,water,,Duckling,0.5,6.1,1:7,45.0,62.0,20.0,50.0,medium slow,55,65,45,50,45,50,,1.0,,,,,sredniaki
 quaxwell,quaxwell,,,9,scarlet-violet,water,,Practicing,1.2,21.5,1:7,45.0,144.0,20.0,50.0,medium slow,70,85,65,65,60,65,,2.0,,,,,sredniaki
 quaquaval,quaquaval,,,9,scarlet-violet,water,fighting,Dancer,1.8,61.9,1:7,45.0,265.0,20.0,50.0,medium slow,85,120,80,85,75,85,,3.0,,,,,sredniaki
-lechonk,lechonk,,,9,scarlet-violet,normal,,Hog,0.5,10.2,4:4,255.0,51.0,15.0,50.0,medium fast,54,45,40,35,45,35,1.0,,,,,,grubole
-oinkologne-male,oinkologne,male,Male,9,scarlet-violet,normal,,Hog,1.0,120.0,0,100.0,171.0,15.0,50.0,medium fast,110,100,75,59,80,65,2.0,,,,,,grubole
-oinkologne-female,oinkologne,female,Female,9,scarlet-violet,normal,,Hog,1.0,120.0,8:0,100.0,171.0,15.0,50.0,medium fast,115,90,70,59,90,65,2.0,,,,,,grubole
-tarountula,tarountula,,,9,scarlet-violet,bug,,String Ball,0.3,4.0,4:4,255.0,42.0,15.0,50.0,erratic,35,41,45,29,40,20,,,1.0,,,,agresorzy
-spidops,spidops,,,9,scarlet-violet,bug,,Trap,1.0,16.5,4:4,120.0,141.0,15.0,50.0,erratic,60,79,92,52,86,35,,,2.0,,,,agresorzy
-nymble,nymble,,,9,scarlet-violet,bug,,Grasshopper,0.2,1.0,4:4,190.0,42.0,20.0,20.0,medium fast,33,46,40,21,25,45,,1.0,,,,,agresorzy
-lokix,lokix,,,9,scarlet-violet,bug,dark,Grasshopper,1.0,17.5,4:4,30.0,158.0,20.0,0.0,medium fast,71,102,78,52,55,92,,2.0,,,,,agresorzy
+lechonk,lechonk,,,9,scarlet-violet,normal,,Hog,0.5,10.2,4:4,255.0,51.0,15.0,50.0,medium fast,54,45,40,35,45,35,1.0,,,,,,sredniaki
+oinkologne-male,oinkologne,male,Male,9,scarlet-violet,normal,,Hog,1.0,120.0,0,100.0,171.0,15.0,50.0,medium fast,110,100,75,59,80,65,2.0,,,,,,sredniaki
+oinkologne-female,oinkologne,female,Female,9,scarlet-violet,normal,,Hog,1.0,120.0,8:0,100.0,171.0,15.0,50.0,medium fast,115,90,70,59,90,65,2.0,,,,,,sredniaki
+tarountula,tarountula,,,9,scarlet-violet,bug,,String Ball,0.3,4.0,4:4,255.0,42.0,15.0,50.0,erratic,35,41,45,29,40,20,,,1.0,,,,sredniaki
+spidops,spidops,,,9,scarlet-violet,bug,,Trap,1.0,16.5,4:4,120.0,141.0,15.0,50.0,erratic,60,79,92,52,86,35,,,2.0,,,,sredniaki
+nymble,nymble,,,9,scarlet-violet,bug,,Grasshopper,0.2,1.0,4:4,190.0,42.0,20.0,20.0,medium fast,33,46,40,21,25,45,,1.0,,,,,sredniaki
+lokix,lokix,,,9,scarlet-violet,bug,dark,Grasshopper,1.0,17.5,4:4,30.0,158.0,20.0,0.0,medium fast,71,102,78,52,55,92,,2.0,,,,,sredniaki
 pawmi,pawmi,,,9,scarlet-violet,electric,,Mouse,0.3,2.5,4:4,190.0,48.0,15.0,50.0,medium fast,45,50,20,40,25,60,,,,,,1.0,specjalni
 pawmo,pawmo,,,9,scarlet-violet,electric,fighting,Mouse,0.4,6.5,4:4,80.0,123.0,15.0,50.0,medium fast,60,75,40,50,40,85,,,,,,2.0,specjalni
 pawmot,pawmot,,,9,scarlet-violet,electric,fighting,Hands-On,0.9,41.0,4:4,45.0,245.0,15.0,50.0,medium fast,70,115,70,70,60,105,,3.0,,,,,specjalni
-tandemaus,tandemaus,,,9,scarlet-violet,normal,,Couple,0.3,1.8,genderless,150.0,61.0,10.0,50.0,fast,50,50,45,40,45,75,,,,,,1.0,grubole
-maushold-family4,maushold,family4,Family of Four,9,scarlet-violet,normal,,Family,0.3,2.8,genderless,75.0,165.0,10.0,50.0,fast,74,75,70,65,75,111,,,,,,2.0,grubole
-maushold-family3,maushold,family3,Family of Three,9,scarlet-violet,normal,,Family,0.3,2.3,genderless,75.0,165.0,10.0,50.0,fast,74,75,70,65,75,111,,,,,,2.0,grubole
+tandemaus,tandemaus,,,9,scarlet-violet,normal,,Couple,0.3,1.8,genderless,150.0,61.0,10.0,50.0,fast,50,50,45,40,45,75,,,,,,1.0,sredniaki
+maushold-family4,maushold,family4,Family of Four,9,scarlet-violet,normal,,Family,0.3,2.8,genderless,75.0,165.0,10.0,50.0,fast,74,75,70,65,75,111,,,,,,2.0,sredniaki
+maushold-family3,maushold,family3,Family of Three,9,scarlet-violet,normal,,Family,0.3,2.3,genderless,75.0,165.0,10.0,50.0,fast,74,75,70,65,75,111,,,,,,2.0,sredniaki
 fidough,fidough,,,9,scarlet-violet,fairy,,Puppy,0.3,10.9,4:4,190.0,62.0,20.0,50.0,medium slow,37,55,70,30,55,65,,,,,,1.0,specjalni
 dachsbun,dachsbun,,,9,scarlet-violet,fairy,,Dog,0.5,14.9,4:4,90.0,167.0,20.0,50.0,medium slow,57,80,115,50,80,95,,,,,,2.0,specjalni
 smoliv,smoliv,,,9,scarlet-violet,grass,normal,Olive,0.3,6.5,4:4,255.0,52.0,20.0,50.0,medium slow,41,35,45,58,51,30,,,,1.0,,,sredniaki
 dolliv,dolliv,,,9,scarlet-violet,grass,normal,Olive,0.6,11.9,4:4,120.0,124.0,20.0,50.0,medium slow,52,53,60,78,78,33,,,,2.0,,,sredniaki
 arboliva,arboliva,,,9,scarlet-violet,grass,normal,Olive,1.4,48.2,4:4,45.0,255.0,20.0,50.0,medium slow,78,69,90,125,109,39,,,,3.0,,,sredniaki
-squawkabilly-green,squawkabilly,green,Green Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,grubole
-squawkabilly-blue,squawkabilly,blue,Blue Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,grubole
-squawkabilly-yellow,squawkabilly,yellow,Yellow Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,grubole
-squawkabilly-white,squawkabilly,white,White Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,grubole
+squawkabilly-green,squawkabilly,green,Green Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,sredniaki
+squawkabilly-blue,squawkabilly,blue,Blue Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,sredniaki
+squawkabilly-yellow,squawkabilly,yellow,Yellow Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,sredniaki
+squawkabilly-white,squawkabilly,white,White Plumage,9,scarlet-violet,normal,flying,Parrot,0.6,2.4,4:4,190.0,146.0,15.0,50.0,erratic,82,96,51,45,51,92,,1.0,,,,,sredniaki
 nacli,nacli,,,9,scarlet-violet,rock,,Rock Salt,0.4,16.0,4:4,255.0,56.0,20.0,50.0,medium slow,55,55,75,35,35,25,,,1.0,,,,grubole
 naclstack,naclstack,,,9,scarlet-violet,rock,,Rock Salt,0.6,105.0,4:4,120.0,124.0,20.0,50.0,medium slow,60,60,100,35,65,35,,,2.0,,,,grubole
 garganacl,garganacl,,,9,scarlet-violet,rock,,Rock Salt,2.3,240.0,4:4,45.0,250.0,20.0,50.0,medium slow,100,100,130,45,90,35,,,3.0,,,,grubole
-charcadet,charcadet,,,9,scarlet-violet,fire,,Fire Child,0.6,10.5,4:4,90.0,51.0,35.0,50.0,slow,40,50,40,50,40,35,,,,1.0,,,agresorzy
-armarouge,armarouge,,,9,scarlet-violet,fire,psychic,Fire Warrior,1.5,85.0,4:4,25.0,263.0,35.0,20.0,slow,85,60,100,125,80,75,,,,2.0,,,agresorzy
-ceruledge,ceruledge,,,9,scarlet-violet,fire,ghost,Fire Blades,1.6,62.0,4:4,25.0,263.0,35.0,20.0,slow,75,125,80,60,100,85,,2.0,,,,,agresorzy
+charcadet,charcadet,,,9,scarlet-violet,fire,,Fire Child,0.6,10.5,4:4,90.0,51.0,35.0,50.0,slow,40,50,40,50,40,35,,,,1.0,,,specjalni
+armarouge,armarouge,,,9,scarlet-violet,fire,psychic,Fire Warrior,1.5,85.0,4:4,25.0,263.0,35.0,20.0,slow,85,60,100,125,80,75,,,,2.0,,,specjalni
+ceruledge,ceruledge,,,9,scarlet-violet,fire,ghost,Fire Blades,1.6,62.0,4:4,25.0,263.0,35.0,20.0,slow,75,125,80,60,100,85,,2.0,,,,,specjalni
 tadbulb,tadbulb,,,9,scarlet-violet,electric,,EleTadpole,0.3,0.4,4:4,190.0,54.0,20.0,50.0,medium fast,61,31,41,59,35,45,1.0,,,,,,specjalni
 bellibolt,bellibolt,,,9,scarlet-violet,electric,,EleFrog,1.2,113.0,4:4,50.0,173.0,20.0,50.0,medium fast,109,64,91,103,83,45,2.0,,,,,,specjalni
 wattrel,wattrel,,,9,scarlet-violet,electric,flying,Storm Petrel,0.4,3.6,4:4,180.0,56.0,20.0,50.0,medium slow,40,40,35,55,40,70,,,,,,1.0,specjalni
@@ -1131,8 +1131,8 @@ toedscruel,toedscruel,,,9,scarlet-violet,ground,grass,Woodear,1.9,58.0,4:4,90.0,
 klawf,klawf,,,9,scarlet-violet,rock,,Ambush,1.3,79.0,4:4,120.0,158.0,35.0,50.0,medium fast,70,100,115,35,55,75,,,2.0,,,,grubole
 capsakid,capsakid,,,9,scarlet-violet,grass,,Spicy Pepper,0.3,3.0,4:4,190.0,61.0,20.0,50.0,medium fast,50,62,40,62,40,50,,1.0,,,,,sredniaki
 scovillain,scovillain,,,9,scarlet-violet,grass,fire,Spicy Pepper,0.9,15.0,4:4,75.0,170.0,20.0,50.0,medium fast,65,108,65,108,65,75,,2.0,,,,,sredniaki
-rellor,rellor,,,9,scarlet-violet,bug,,Rolling,0.2,1.0,4:4,190.0,54.0,20.0,50.0,fast,41,50,60,31,58,30,,,1.0,,,,agresorzy
-rabsca,rabsca,,,9,scarlet-violet,bug,psychic,Rolling,0.3,3.5,4:4,45.0,165.0,20.0,50.0,fast,75,50,85,115,100,45,,,,2.0,,,agresorzy
+rellor,rellor,,,9,scarlet-violet,bug,,Rolling,0.2,1.0,4:4,190.0,54.0,20.0,50.0,fast,41,50,60,31,58,30,,,1.0,,,,sredniaki
+rabsca,rabsca,,,9,scarlet-violet,bug,psychic,Rolling,0.3,3.5,4:4,45.0,165.0,20.0,50.0,fast,75,50,85,115,100,45,,,,2.0,,,sredniaki
 flittle,flittle,,,9,scarlet-violet,psychic,,Frill,0.2,1.5,4:4,120.0,51.0,20.0,50.0,medium slow,30,35,30,55,30,75,,,,,,1.0,specjalni
 espathra,espathra,,,9,scarlet-violet,psychic,,Ostrich,1.9,90.0,4:4,60.0,168.0,20.0,50.0,medium slow,95,60,60,101,60,105,,,,,,2.0,specjalni
 tinkatink,tinkatink,,,9,scarlet-violet,fairy,steel,Metalsmith,0.4,8.9,8:0,190.0,59.0,20.0,50.0,medium slow,50,45,45,35,64,58,,,,,1.0,,specjalni
@@ -1140,47 +1140,47 @@ tinkatuff,tinkatuff,,,9,scarlet-violet,fairy,steel,Hammer,0.7,59.1,8:0,90.0,133.
 tinkaton,tinkaton,,,9,scarlet-violet,fairy,steel,Hammer,0.7,112.8,8:0,45.0,253.0,20.0,50.0,medium slow,85,75,77,70,105,94,,,,,3.0,,specjalni
 wiglett,wiglett,,,9,scarlet-violet,water,,Garden Eel,1.2,1.8,4:4,255.0,49.0,20.0,50.0,medium fast,10,55,25,35,25,95,,,,,,1.0,sredniaki
 wugtrio,wugtrio,,,9,scarlet-violet,water,,Garden Eel,1.2,5.4,4:4,50.0,149.0,20.0,50.0,medium fast,35,100,50,50,70,120,,,,,,2.0,sredniaki
-bombirdier,bombirdier,,,9,scarlet-violet,flying,dark,Item Drop,1.5,42.9,4:4,25.0,243.0,35.0,50.0,slow,70,103,85,60,85,82,,2.0,,,,,specjalni
+bombirdier,bombirdier,,,9,scarlet-violet,flying,dark,Item Drop,1.5,42.9,4:4,25.0,243.0,35.0,50.0,slow,70,103,85,60,85,82,,2.0,,,,,agresorzy
 finizen,finizen,,,9,scarlet-violet,water,,Dolphin,1.3,60.2,4:4,200.0,63.0,40.0,50.0,slow,70,45,40,45,40,75,,,,,,1.0,sredniaki
 palafin-zero,palafin,zero,Zero Form,9,scarlet-violet,water,,Dolphin,1.3,60.2,4:4,45.0,160.0,40.0,50.0,slow,100,70,72,53,62,100,2.0,,,,,,sredniaki
 palafin-hero,palafin,hero,Hero Form,9,scarlet-violet,water,,Hero,1.8,97.4,4:4,45.0,228.0,40.0,50.0,slow,100,160,97,106,87,100,2.0,,,,,,sredniaki
 varoom,varoom,,,9,scarlet-violet,steel,poison,Single-Cyl,1.0,35.0,4:4,190.0,60.0,20.0,50.0,medium fast,45,70,63,30,45,47,,1.0,,,,,grubole
 revavroom,revavroom,,,9,scarlet-violet,steel,poison,Multi-Cyl,1.8,120.0,4:4,75.0,175.0,20.0,50.0,medium fast,80,119,90,54,67,90,,2.0,,,,,grubole
-cyclizar,cyclizar,,,9,scarlet-violet,dragon,normal,Mount,1.6,63.0,4:4,190.0,175.0,30.0,50.0,medium slow,70,95,65,85,65,121,,,,,,2.0,sredniaki
+cyclizar,cyclizar,,,9,scarlet-violet,dragon,normal,Mount,1.6,63.0,4:4,190.0,175.0,30.0,50.0,medium slow,70,95,65,85,65,121,,,,,,2.0,elita
 orthworm,orthworm,,,9,scarlet-violet,steel,,Earthworm,2.5,310.0,4:4,25.0,240.0,35.0,50.0,slow,70,85,145,60,55,65,,,2.0,,,,grubole
 glimmet,glimmet,,,9,scarlet-violet,rock,poison,Ore,0.7,8.0,4:4,70.0,70.0,30.0,50.0,medium slow,48,35,42,105,60,60,,,,1.0,,,grubole
 glimmora,glimmora,,,9,scarlet-violet,rock,poison,Ore,1.5,45.0,4:4,25.0,184.0,30.0,50.0,medium slow,83,55,90,130,81,86,,,,2.0,,,grubole
 greavard,greavard,,,9,scarlet-violet,ghost,,Ghost Dog,0.6,35.0,4:4,120.0,58.0,20.0,50.0,medium slow,50,61,60,30,55,34,,1.0,,,,,specjalni
 houndstone,houndstone,,,9,scarlet-violet,ghost,,Ghost Dog,2.0,15.0,4:4,60.0,171.0,20.0,50.0,medium slow,72,101,100,50,97,68,,2.0,,,,,specjalni
-flamigo,flamigo,,,9,scarlet-violet,flying,fighting,Synchronize,1.6,37.0,4:4,100.0,175.0,20.0,50.0,medium slow,82,115,74,75,64,90,,2.0,,,,,specjalni
+flamigo,flamigo,,,9,scarlet-violet,flying,fighting,Synchronize,1.6,37.0,4:4,100.0,175.0,20.0,50.0,medium slow,82,115,74,75,64,90,,2.0,,,,,agresorzy
 cetoddle,cetoddle,,,9,scarlet-violet,ice,,Terra Whale,1.2,45.0,4:4,150.0,67.0,25.0,50.0,medium slow,108,68,45,30,40,43,1.0,,,,,,sredniaki
 cetitan,cetitan,,,9,scarlet-violet,ice,,Terra Whale,4.5,700.0,4:4,50.0,182.0,25.0,50.0,medium slow,170,113,65,45,55,73,2.0,,,,,,sredniaki
 veluza,veluza,,,9,scarlet-violet,water,psychic,Jettison,2.5,90.0,4:4,100.0,167.0,20.0,50.0,fast,90,102,73,78,65,70,,2.0,,,,,sredniaki
 dondozo,dondozo,,,9,scarlet-violet,water,,Big Catfish,12.0,220.0,4:4,25.0,265.0,40.0,50.0,slow,150,100,115,65,65,35,3.0,,,,,,sredniaki
-tatsugiri-curly,tatsugiri,curly,Curly Form,9,scarlet-violet,dragon,water,Mimicry,0.3,8.0,4:4,100.0,166.0,35.0,50.0,medium slow,68,50,60,120,95,82,,,,2.0,,,sredniaki
-tatsugiri-droopy,tatsugiri,droopy,Droopy Form,9,scarlet-violet,dragon,water,Mimicry,0.3,8.0,4:4,100.0,166.0,35.0,50.0,medium slow,68,50,60,120,95,82,,,,2.0,,,sredniaki
-tatsugiri-stretchy,tatsugiri,stretchy,Stretchy Form,9,scarlet-violet,dragon,water,Mimicry,0.3,8.0,4:4,100.0,166.0,35.0,50.0,medium slow,68,50,60,120,95,82,,,,2.0,,,sredniaki
+tatsugiri-curly,tatsugiri,curly,Curly Form,9,scarlet-violet,dragon,water,Mimicry,0.3,8.0,4:4,100.0,166.0,35.0,50.0,medium slow,68,50,60,120,95,82,,,,2.0,,,elita
+tatsugiri-droopy,tatsugiri,droopy,Droopy Form,9,scarlet-violet,dragon,water,Mimicry,0.3,8.0,4:4,100.0,166.0,35.0,50.0,medium slow,68,50,60,120,95,82,,,,2.0,,,elita
+tatsugiri-stretchy,tatsugiri,stretchy,Stretchy Form,9,scarlet-violet,dragon,water,Mimicry,0.3,8.0,4:4,100.0,166.0,35.0,50.0,medium slow,68,50,60,120,95,82,,,,2.0,,,elita
 annihilape,annihilape,,,9,scarlet-violet,fighting,ghost,Rage Monkey,1.2,56.0,4:4,45.0,268.0,20.0,50.0,medium fast,110,115,80,50,90,90,,3.0,,,,,agresorzy
 clodsire,clodsire,,,9,scarlet-violet,poison,ground,Spiny Fish,1.8,223.0,4:4,90.0,151.0,20.0,50.0,medium fast,130,75,60,45,100,20,2.0,,,,,,sredniaki
-farigiraf,farigiraf,,,9,scarlet-violet,normal,psychic,Long Neck,3.2,160.0,4:4,45.0,260.0,20.0,50.0,medium fast,120,90,70,110,70,60,3.0,,,,,,grubole
-dudunsparce-two-segment,dudunsparce,two-segment,Two-Segment Form,9,scarlet-violet,normal,,Land Snake,3.6,39.2,4:4,45.0,182.0,20.0,50.0,medium fast,125,100,80,85,75,55,2.0,,,,,,grubole
-dudunsparce-three-segment,dudunsparce,three-segment,Three-Segment Form,9,scarlet-violet,normal,,Land Snake,4.5,47.4,4:4,45.0,182.0,20.0,50.0,medium fast,125,100,80,85,75,55,2.0,,,,,,grubole
+farigiraf,farigiraf,,,9,scarlet-violet,normal,psychic,Long Neck,3.2,160.0,4:4,45.0,260.0,20.0,50.0,medium fast,120,90,70,110,70,60,3.0,,,,,,sredniaki
+dudunsparce-two-segment,dudunsparce,two-segment,Two-Segment Form,9,scarlet-violet,normal,,Land Snake,3.6,39.2,4:4,45.0,182.0,20.0,50.0,medium fast,125,100,80,85,75,55,2.0,,,,,,sredniaki
+dudunsparce-three-segment,dudunsparce,three-segment,Three-Segment Form,9,scarlet-violet,normal,,Land Snake,4.5,47.4,4:4,45.0,182.0,20.0,50.0,medium fast,125,100,80,85,75,55,2.0,,,,,,sredniaki
 kingambit,kingambit,,,9,scarlet-violet,dark,steel,Big Blade,2.0,120.0,4:4,25.0,275.0,20.0,50.0,medium fast,100,135,120,60,85,50,,3.0,,,,,agresorzy
 great-tusk,great-tusk,,,9,scarlet-violet,ground,fighting,Paradox,2.2,320.0,genderless,30.0,285.0,50.0,0.0,slow,115,131,131,53,53,87,,3.0,,,,,grubole
 scream-tail,scream-tail,,,9,scarlet-violet,fairy,psychic,Paradox,1.2,8.0,genderless,50.0,285.0,50.0,0.0,slow,115,65,99,65,115,111,3.0,,,,,,specjalni
 brute-bonnet,brute-bonnet,,,9,scarlet-violet,grass,dark,Paradox,1.2,21.0,genderless,50.0,285.0,50.0,0.0,slow,111,127,99,79,99,55,,3.0,,,,,sredniaki
 flutter-mane,flutter-mane,,,9,scarlet-violet,ghost,fairy,Paradox,1.4,4.0,genderless,30.0,285.0,50.0,0.0,slow,55,55,55,135,135,135,,,,1.0,1.0,1.0,specjalni
-slither-wing,slither-wing,,,9,scarlet-violet,bug,fighting,Paradox,3.2,92.0,genderless,30.0,285.0,50.0,0.0,slow,85,135,79,85,105,81,,3.0,,,,,agresorzy
+slither-wing,slither-wing,,,9,scarlet-violet,bug,fighting,Paradox,3.2,92.0,genderless,30.0,285.0,50.0,0.0,slow,85,135,79,85,105,81,,3.0,,,,,sredniaki
 sandy-shocks,sandy-shocks,,,9,scarlet-violet,electric,ground,Paradox,2.3,60.0,genderless,30.0,285.0,50.0,0.0,slow,85,81,97,121,85,101,,,,3.0,,,specjalni
 iron-treads,iron-treads,,,9,scarlet-violet,ground,steel,Paradox,0.9,240.0,genderless,30.0,285.0,50.0,0.0,slow,90,112,120,72,70,106,,,3.0,,,,grubole
 iron-bundle,iron-bundle,,,9,scarlet-violet,ice,water,Paradox,0.6,11.0,genderless,50.0,285.0,50.0,0.0,slow,56,80,114,124,60,136,,,,,,3.0,sredniaki
 iron-hands,iron-hands,,,9,scarlet-violet,fighting,electric,Paradox,1.8,380.7,genderless,50.0,285.0,50.0,0.0,slow,154,140,108,50,68,50,,3.0,,,,,agresorzy
 iron-jugulis,iron-jugulis,,,9,scarlet-violet,dark,flying,Paradox,1.3,111.0,genderless,30.0,285.0,50.0,0.0,slow,94,80,86,122,80,108,,,,3.0,,,agresorzy
-iron-moth,iron-moth,,,9,scarlet-violet,fire,poison,Paradox,1.2,36.0,genderless,30.0,285.0,50.0,0.0,slow,80,70,60,140,110,110,,,,3.0,,,agresorzy
+iron-moth,iron-moth,,,9,scarlet-violet,fire,poison,Paradox,1.2,36.0,genderless,30.0,285.0,50.0,0.0,slow,80,70,60,140,110,110,,,,3.0,,,specjalni
 iron-thorns,iron-thorns,,,9,scarlet-violet,rock,electric,Paradox,1.6,303.0,genderless,30.0,285.0,50.0,0.0,slow,100,134,110,70,84,72,,3.0,,,,,grubole
-frigibax,frigibax,,,9,scarlet-violet,dragon,ice,Ice Fin,0.5,17.0,4:4,45.0,64.0,40.0,50.0,slow,65,75,45,35,45,55,,1.0,,,,,sredniaki
-arctibax,arctibax,,,9,scarlet-violet,dragon,ice,Ice Fin,0.8,30.0,4:4,25.0,148.0,40.0,50.0,slow,90,95,66,45,65,62,,2.0,,,,,sredniaki
-baxcalibur,baxcalibur,,,9,scarlet-violet,dragon,ice,Ice Dragon,2.1,210.0,4:4,10.0,300.0,40.0,50.0,slow,115,145,92,75,86,87,,3.0,,,,,sredniaki
+frigibax,frigibax,,,9,scarlet-violet,dragon,ice,Ice Fin,0.5,17.0,4:4,45.0,64.0,40.0,50.0,slow,65,75,45,35,45,55,,1.0,,,,,elita
+arctibax,arctibax,,,9,scarlet-violet,dragon,ice,Ice Fin,0.8,30.0,4:4,25.0,148.0,40.0,50.0,slow,90,95,66,45,65,62,,2.0,,,,,elita
+baxcalibur,baxcalibur,,,9,scarlet-violet,dragon,ice,Ice Dragon,2.1,210.0,4:4,10.0,300.0,40.0,50.0,slow,115,145,92,75,86,87,,3.0,,,,,elita
 gimmighoul-chest,gimmighoul,chest,Chest Form,9,scarlet-violet,ghost,,Coin Chest,0.3,5.0,genderless,45.0,60.0,50.0,50.0,slow,45,30,70,75,70,10,,,,1.0,,,specjalni
 gimmighoul-roaming,gimmighoul,roaming,Roaming Form,9,scarlet-violet,ghost,,Coin Hunter,0.1,0.1,genderless,45.0,60.0,50.0,50.0,slow,45,30,25,75,45,80,,,,1.0,,,specjalni
 gholdengo,gholdengo,,,9,scarlet-violet,steel,ghost,Coin Entity,1.2,30.0,genderless,45.0,275.0,50.0,50.0,slow,87,60,95,133,91,84,,,,2.0,,,grubole
@@ -1188,7 +1188,7 @@ wo-chien,wo-chien,,,9,scarlet-violet,dark,grass,Ruinous,1.5,74.2,genderless,6.0,
 chien-pao,chien-pao,,,9,scarlet-violet,dark,ice,Ruinous,1.9,152.2,genderless,6.0,285.0,50.0,0.0,slow,80,120,80,90,65,135,,,,,,3.0,agresorzy
 ting-lu,ting-lu,,,9,scarlet-violet,dark,ground,Ruinous,2.7,699.7,genderless,6.0,285.0,50.0,0.0,slow,155,110,125,55,80,45,,,3.0,,,,agresorzy
 chi-yu,chi-yu,,,9,scarlet-violet,dark,fire,Ruinous,0.4,4.9,genderless,6.0,285.0,50.0,0.0,slow,55,80,80,135,120,100,,,,3.0,,,agresorzy
-roaring-moon,roaring-moon,,,9,scarlet-violet,dragon,dark,Paradox,2.0,380.0,genderless,10.0,295.0,50.0,0.0,slow,105,139,71,55,101,119,,3.0,,,,,sredniaki
+roaring-moon,roaring-moon,,,9,scarlet-violet,dragon,dark,Paradox,2.0,380.0,genderless,10.0,295.0,50.0,0.0,slow,105,139,71,55,101,119,,3.0,,,,,elita
 iron-valiant,iron-valiant,,,9,scarlet-violet,fairy,fighting,Paradox,1.4,35.0,genderless,10.0,295.0,50.0,0.0,slow,74,130,90,120,60,116,,3.0,,,,,specjalni
 koraidon,koraidon,,,9,scarlet-violet,fighting,dragon,Paradox,2.5,303.0,genderless,3.0,335.0,50.0,0.0,slow,100,135,115,85,100,135,,3.0,,,,,agresorzy
 miraidon,miraidon,,,9,scarlet-violet,electric,dragon,Paradox,3.5,240.0,genderless,3.0,335.0,50.0,0.0,slow,100,85,100,135,115,135,,,,3.0,,,specjalni
@@ -1206,11 +1206,11 @@ ogerpon-hearthflame,ogerpon,hearthflame,Hearthflame Mask,9,scarlet-violet,grass,
 ogerpon-cornerstone,ogerpon,cornerstone,Cornerstone Mask,9,scarlet-violet,grass,rock,Mask,1.2,39.8,8:0,5.0,,,,slow,80,120,84,60,96,110,,3.0,,,,,sredniaki
 archaludon,archaludon,,,9,scarlet-violet,steel,dragon,Alloy,2.0,60.0,4:4,10.0,,,,medium fast,90,105,130,125,65,85,,,3.0,,,,grubole
 hydrapple,hydrapple,,,9,scarlet-violet,grass,dragon,,1.8,93.0,4:4,10.0,,,,erratic,106,80,110,120,80,44,,,,3.0,,,sredniaki
-gouging-fire,gouging-fire,,,9,scarlet-violet,fire,dragon,Paradox,3.5,590.0,genderless,10.0,,,,slow,105,115,121,65,93,91,,,3.0,,,,agresorzy
+gouging-fire,gouging-fire,,,9,scarlet-violet,fire,dragon,Paradox,3.5,590.0,genderless,10.0,,,,slow,105,115,121,65,93,91,,,3.0,,,,specjalni
 raging-bolt,raging-bolt,,,9,scarlet-violet,electric,dragon,Paradox,5.2,480.0,genderless,10.0,,,,slow,125,73,91,137,89,75,,,,3.0,,,specjalni
 iron-boulder,iron-boulder,,,9,scarlet-violet,rock,psychic,Paradox,1.5,162.5,genderless,10.0,,,,slow,90,120,80,68,108,124,,,,,,3.0,grubole
 iron-crown,iron-crown,,,9,scarlet-violet,steel,psychic,Paradox,1.6,156.0,genderless,10.0,,,,slow,90,72,100,122,108,98,,,,3.0,,,grubole
-terapagos-normal,terapagos,normal,Normal Form,9,scarlet-violet,normal,,Tera,0.2,6.5,4:4,255.0,,,,slow,90,65,85,65,85,60,,,1.0,,,,grubole
-terapagos-terastal,terapagos,terastal,Terastal Form,9,scarlet-violet,normal,,Tera,0.3,16.0,4:4,255.0,,,,slow,95,95,110,105,110,85,,,2.0,,2.0,,grubole
-terapagos-stellar,terapagos,stellar,Stellar Form,9,scarlet-violet,normal,,Tera,1.7,77.0,4:4,255.0,,,,slow,160,105,110,130,110,85,3.0,,,,,,grubole
+terapagos-normal,terapagos,normal,Normal Form,9,scarlet-violet,normal,,Tera,0.2,6.5,4:4,255.0,,,,slow,90,65,85,65,85,60,,,1.0,,,,sredniaki
+terapagos-terastal,terapagos,terastal,Terastal Form,9,scarlet-violet,normal,,Tera,0.3,16.0,4:4,255.0,,,,slow,95,95,110,105,110,85,,,2.0,,2.0,,sredniaki
+terapagos-stellar,terapagos,stellar,Stellar Form,9,scarlet-violet,normal,,Tera,1.7,77.0,4:4,255.0,,,,slow,160,105,110,130,110,85,3.0,,,,,,sredniaki
 pecharunt,pecharunt,,,9,scarlet-violet,poison,ghost,Subjugation,0.3,0.3,genderless,3.0,,,,slow,88,88,160,88,88,88,,,3.0,,,,sredniaki
