@@ -12,5 +12,4 @@
 *.iml
 # Ignore all files with .idea extension
 *.idea
-# Ignore all files with .xml extension
-*.xml
+/nowy-folder.iml
