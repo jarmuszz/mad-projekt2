@@ -1,0 +1,10 @@
+[project]
+name = "nowy-folder"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab>=4.5.7",
+    "matplotlib>=3.10.9",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.8.0",
+]
